@@ -4,20 +4,22 @@
 
 The Fuse Studio REST API for accessing the data and the services of the Fuse network in a simple way. You can use this API to query and interact with the objects of the Fuse network such as: Communities, Tokens, Bridges and Entities.
 
-{% api-method method="post" host="" path="" %}
+## Bridge
+
+{% api-method method="get" host="/bridges/:homeTokenAddress" path="" %}
 {% api-method-summary %}
-test
+Fetch bridge
 {% endapi-method-summary %}
 
 {% api-method-description %}
-
+The token bridge connects the Ethereum and Fuse network
 {% endapi-method-description %}
 
 {% api-method-spec %}
 {% api-method-request %}
 {% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-
+{% api-method-parameter name="homeTokenAddress" type="string" required=true %}
+Home \(Fuse\) token address
 {% endapi-method-parameter %}
 {% endapi-method-path-parameters %}
 {% endapi-method-request %}
@@ -25,18 +27,16 @@ test
 {% api-method-response %}
 {% api-method-response-example httpCode=200 %}
 {% api-method-response-example-description %}
-
+Token address on the Fuse network
 {% endapi-method-response-example-description %}
 
-```
-
+```aspnet
+homeTokenAddress
 ```
 {% endapi-method-response-example %}
 {% endapi-method-response %}
 {% endapi-method-spec %}
 {% endapi-method %}
-
-## Bridge
 
 ### Fetch bridge
 
