@@ -15,6 +15,7 @@
 * [Overview](the-fuse-studio/overview.md)
 * [Getting started](the-fuse-studio/getting-started.md)
 * [FAQ](the-fuse-studio/faq.md)
+* [Backend API](the-fuse-studio/api.md)
 
 ## The Mobile Wallet
 
