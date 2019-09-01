@@ -1,3 +1,7 @@
+---
+description: Integrate your product to your community and token trough the Studio API.
+---
+
 # Backend API
 
 ## fuse-studio-backend v0.1.0
@@ -6,41 +10,7 @@ The Fuse Studio REST API for accessing the data and the services of the Fuse net
 
 ## Bridge
 
-{% api-method method="get" host="/bridges/:homeTokenAddress" path="" %}
-{% api-method-summary %}
-Fetch bridge
-{% endapi-method-summary %}
-
-{% api-method-description %}
-The token bridge connects the Ethereum and Fuse network
-{% endapi-method-description %}
-
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="homeTokenAddress" type="string" required=true %}
-Home \(Fuse\) token address
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
-
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
-Token address on the Fuse network
-{% endapi-method-response-example-description %}
-
-```aspnet
-homeTokenAddress
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
-
 ### Fetch bridge
-
-[Back to top]()
 
 The token bridge connects the Ethereum and Fuse network
 
@@ -69,9 +39,7 @@ GET /bridges/:homeTokenAddress
 
 ### Add plugins to community
 
-[Back to top]()
-
-```text
+```
 POST /communities/:communityAddress
 ```
 
@@ -102,8 +70,6 @@ POST /communities/:communityAddress
 
 ### Fetch community
 
-[Back to top]()
-
 Community is a set of contracts and services. Members of the community are users of the Fuse network. The community is configured via the plugins.
 
 ```text
@@ -132,8 +98,6 @@ GET /communities/:communityAddress
 
 ### Fetch my communities
 
-[Back to top]()
-
 Fetching communities I'm part of
 
 ```text
@@ -154,9 +118,7 @@ GET /entities/account/:account
 
 ### Fetch community entities
 
-[Back to top]()
-
-```text
+```
 GET /entities/:communityAddress
 ```
 
@@ -176,8 +138,6 @@ GET /entities/:communityAddress
 | - | `Object[]` | List of entities. See GetEntity endpoint for entity fields |
 
 ### Fetch entity
-
-[Back to top]()
 
 Entity is an account on the Fuse network. It can have variety of roles like user, admin, business, or custom defined role.
 
@@ -209,8 +169,6 @@ GET /entities/:communityAddress/:account
 
 ### Fetch token
 
-[Back to top]()
-
 Tokens are compatible with the ERC20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
 
 ```text
@@ -240,9 +198,7 @@ GET /tokens/:address
 
 ### Fetch tokens
 
-[Back to top]()
-
-```text
+```
 GET /tokens
 ```
 
@@ -261,9 +217,7 @@ GET /tokens
 
 ### Fetch tokens by owner
 
-[Back to top]()
-
-```text
+```
 GET /tokens/owner/:owner
 ```
 
