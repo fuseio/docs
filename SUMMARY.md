@@ -1,10 +1,11 @@
 # Table of contents
 
-* [Fuse Network](README.md)
+* [Introduction](README.md)
 
-## The Fuse Chain
+## The Fuse Network <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
+* [Fuse token](the-fuse-chain/fuse-token.md)
 * [Run your own Validator](the-fuse-chain/run-your-own-validator.md)
 * [Apply for Fuse tokens grant](the-fuse-chain/apply-for-fuse-tokens-grant.md)
 * [Delegate your tokens](the-fuse-chain/delegate-your-tokens.md)
