@@ -4,7 +4,7 @@
 
 The Fuse Studio REST API for accessing the data and the services of the Fuse network in a simple way. You can use this API to query and interact with the objects of the Fuse network such as: Communities, Tokens, Bridges and Entities.
 
-{% api-method method="get" host="" path="" %}
+{% api-method method="post" host="" path="" %}
 {% api-method-summary %}
 test
 {% endapi-method-summary %}

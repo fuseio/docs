@@ -16,6 +16,7 @@
 * [Getting started](the-fuse-studio/getting-started.md)
 * [FAQ](the-fuse-studio/faq.md)
 * [Backend API](the-fuse-studio/api.md)
+* [How to add Fuse to your Metamask](the-fuse-studio/how-to-add-fuse-to-your-metamask.md)
 
 ## The Mobile Wallet
 
