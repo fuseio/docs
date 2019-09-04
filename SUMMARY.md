@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 
-## The Fuse Network <a id="the-fuse-chain"></a>
+## The Fuse Chain
 
 * [Overview](the-fuse-chain/overview.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)

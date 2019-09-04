@@ -5,7 +5,7 @@ User data in the Fuse network is stored by the users on their devices and they d
 
  At the heart of the network is the open source stack suited for individuals and organizations that wish to integrate blockchain payments. The software stack consists out of 3 parts:
 
-* Fuse chain - Fuse chain node, governance contracts
+* Fuse Chain - Fuse chain node, governance contracts
 * Fuse Studio - Launch and manage contracts
 * Fuse Wallet - Easy to use wallet
 
