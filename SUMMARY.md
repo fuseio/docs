@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Welcome!](README.md)
+* [Fuse overview](fuse-overview.md)
 
 ## The Fuse Chain
 

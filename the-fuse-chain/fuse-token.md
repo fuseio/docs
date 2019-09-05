@@ -9,9 +9,8 @@ Thus the token is used behind the scenes to align interests between all it's hol
 The Fuse token is an ERC-20 token which is the native token of the Fuse chain and can be moved to Ethereum using the bridge. The token is traded publicly on decentralized exchanges
 
 {% hint style="info" %}
-* Etherscan
+* Watch out token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
 * Fuse explorer
-* Decentralized exchange
+* [Get Fuse token](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
 {% endhint %}
 
-* 

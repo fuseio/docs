@@ -1,13 +1,28 @@
-# Introduction
+---
+description: Welcome to the documentation portal for the Fuse network
+---
 
-The Fuse network is a permissionless and border-less public ledger designed for easy integration of everyday payments. It's anchored to Ethereum using a bridge which allows to move any token freely between Ethereum and the Fuse-chain.  A Token is minted on Ethereum and then moved to the Fuse-chain get access to features that allows to bring it to life.  
-User data in the Fuse network is stored by the users on their devices and they decide who to share it with using standard web3.0 interfaces. The users can join communities and community contracts define their data and governance policies. Those communities can be governed by individuals or organizations, everything is public and transparent on the blockchain. The Fuse studio allows easy launch and operation of new communities with access to a contract store that allows to launch new features and integrate services.
+# Welcome!
 
- At the heart of the network is the open source stack suited for individuals and organizations that wish to integrate blockchain payments. The software stack consists out of 3 parts:
+Fuse is a no-code smart contract platform for entrepreneurs. It allows entrepreneurs to integrate everyday payments into their business. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability. Check out our website [fuse.io](http://fuse.io/) This portal is intended for:
 
-* Fuse Chain - Fuse chain node, governance contracts
-* Fuse Studio - Launch and manage contracts
-* Fuse Wallet - Easy to use wallet
+You should read this if your are:
+
+* **Non-technical** 
+  * I want to launch a community on Fuse! - Go to the [Fuse Studio documentation](the-fuse-studio/overview.md) 
+  * I want to know how the network works - Go to [Fuse network overview](the-fuse-chain/overview.md)
+* **Somewhat technical** 
+  * I want to be a validator on  - Go to Fuse validator guide
+  * I want to learn about the wallet and it's benefits - [Go to wallet overview](the-mobile-wallet/overview.md)
+* **I am a developer**
+  * I want to integrate! - Go to our [API reference](the-fuse-studio/api.md)
+  * I want to learn about your contracts - XXXX
+  * Check us out on [Github ](https://github.com/fuseio)
+
+{% hint style="info" %}
+For immediate inquiry join us on [Discord](https://discord.gg/dk4qWA)  
+Or say hello at: hello@fuse.io
+{% endhint %}
 
 
 
