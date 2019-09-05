@@ -18,24 +18,21 @@ At the heart of the network is the open source stack suited for individuals and 
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">&#x26A1;</td>
-      <td style="text-align:left">Fuse Chain - Fuse Network mainnet launched. Governance contracts and a
-        bridge to the Ethereum mainnet.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x26A1;</td>
+      <td style="text-align:left">Fuse Chain</td>
       <td style="text-align:left">
-        <p></p>
-        <p>Fuse Studio - Launch and manage contracts for non-technical crowd launched
-          on Ethereum mainnet and Fuse.</p>
+        <p>&#x26A1; Fuse Network mainnet launched.</p>
+        <p>&#x26A1; Governance contracts and a bridge to the Ethereum mainnet.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x26A1;</td>
+      <td style="text-align:left">Fuse Studio</td>
+      <td style="text-align:left">&#x26A1;Launched on Ethereum mainnet and Fuse.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">Fuse Wallet</td>
       <td style="text-align:left">
-        <p></p>
-        <p>Fuse Wallet - Easy to use open source white label wallet launched on Google
-          play and Testflight free to download and customize.</p>
+        <p>&#x26A1;First Flutter Ethereum wallet launched to Github</p>
+        <p>&#x26A1;launched on Google play and Testflight free to download and customize.</p>
       </td>
     </tr>
   </tbody>
