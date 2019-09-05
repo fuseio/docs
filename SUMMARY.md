@@ -7,9 +7,11 @@
 
 * [Overview](the-fuse-chain/overview.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)
+* [Fuse chain contracts](the-fuse-chain/consensus-contracts/README.md)
+  * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
+  * [Vote](the-fuse-chain/consensus-contracts/vote.md)
+* [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
 * [Run your own Validator](the-fuse-chain/run-your-own-validator.md)
-* [Apply for Fuse tokens grant](the-fuse-chain/apply-for-fuse-tokens-grant.md)
-* [Delegate your tokens](the-fuse-chain/delegate-your-tokens.md)
 * [FAQ](the-fuse-chain/faq.md)
 
 ## The Fuse Studio

@@ -4,6 +4,10 @@ description: Welcome to the documentation portal for the Fuse network
 
 # Welcome!
 
+* Fuse Chain - Fuse Chain node, governance contracts and a bridge to the Ethereum network
+* Fuse Studio - Launch and manage contracts
+* Fuse Wallet - Easy to use wallet
+
 Fuse is a no-code smart contract platform for entrepreneurs. It allows entrepreneurs to integrate everyday payments into their business. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability. Check out our website [fuse.io](http://fuse.io/) This portal is intended for:
 
 You should read this if your are:

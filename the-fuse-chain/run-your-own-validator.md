@@ -4,23 +4,21 @@ description: A technical guide on how to run you own validator.
 
 # Run your own Validator
 
-## Run Local Node
+### Run Local Node
 
 Please make sure you have access to a continuously running machine, if you like to participate as a network validator.
 
-### Pre-Requisites
+#### Pre-Requisites
 
-A complete [Docker](https://www.docker.com/) environment is needed to be installed on your system.
-
-Please take a look into the [official documentation](https://docs.docker.com/install/#general-availability) and use the instructions for your respective OS.
+A complete [Docker](https://docs.docker.com/) environment is needed to be installed on your system, as well as [Docker-Compose](https://docs.docker.com/compose/)
 
 Make sure that your user is added to the `docker` user-group on _Unix_ systems, if you can't access root permissions to run containers.
 
-### Hardware
+#### Hardware
 
 _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but similar on other providers as well_
 
-**Node \(or Explorer Node\)**
+**Bootnode, Node or Explorer Node**
 
 * OS - `Linux (ubuntu 18.04)`
 * Size - `Standard B2ms (2 vcpus, 8 GiB memory)`
@@ -28,17 +26,17 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Networking
 
 ```text
-| Priority     | Description                        | Port      | Protocol     | Source                      | Destination        | Action     |
-|----------    |--------------------------------    |-------    |----------    |-------------------------    |----------------    |--------    |
-| 1000         | ssh                                | 22        | TCP          | ip list comma-separated     | Any                | Allow      |
-| 1001         | p2p                                | 30303     | TCP          | Any                         | Any                | Allow      |
-| 1002         | p2p udp                            | 30303     | UDP          | Any                         | Any                | Allow      |
-| 1003         | rpc                                | 8545      | TCP          | Any                         | Any                | Allow      |
-| 1004         | https                              | 443       | TCP          | Any                         | Any                | Allow      |
-| 1005         | http                               | 80        | TCP          | Any                         | Any                | Allow      |
-| 65000        | AllowVnetInBound                   | Any       | Any          | VirtualNetwork              | VirtualNetwork     | Allow      |
-| 65001        | AllowAzureLoadBalancerInBound      | Any       | Any          | AzureLoadBalancer           | Any                | Allow      |
-| 65500        | DenyAllInBound                     | Any       | Any          | Any                         | Any                | Deny       |
+| Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
+|----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
+| 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
+| 1001     	| p2p                            	| 30303 	| TCP      	| Any                     	| Any            	| Allow  	|
+| 1002     	| p2p udp                        	| 30303 	| UDP      	| Any                     	| Any            	| Allow  	|
+| 1003     	| rpc                            	| 8545  	| TCP      	| Any                     	| Any            	| Allow  	|
+| 1004     	| https                          	| 443   	| TCP      	| Any                     	| Any            	| Allow  	|
+| 1005     	| http                           	| 80    	| TCP      	| Any                     	| Any            	| Allow  	|
+| 65000    	| AllowVnetInBound               	| Any   	| Any      	| VirtualNetwork          	| VirtualNetwork 	| Allow  	|
+| 65001    	| AllowAzureLoadBalancerInBound  	| Any   	| Any      	| AzureLoadBalancer       	| Any            	| Allow  	|
+| 65500    	| DenyAllInBound                 	| Any   	| Any      	| Any                     	| Any            	| Deny   	|
 ```
 
 **Validator**
@@ -49,36 +47,36 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Networking
 
 ```text
-| Priority     | Description                        | Port      | Protocol     | Source                      | Destination        | Action     |
-|----------    |--------------------------------    |-------    |----------    |-------------------------    |----------------    |--------    |
-| 1000         | ssh                                | 22        | TCP          | ip list comma-separated     | Any                | Allow      |
-| 1001         | p2p                                | 30303     | TCP          | Any                         | Any                | Allow      |
-| 1002         | p2p udp                            | 30303     | UDP          | Any                         | Any                | Allow      |
+| Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
+|----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
+| 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
+| 1001     	| p2p                            	| 30303 	| TCP      	| Any                     	| Any            	| Allow  	|
+| 1002     	| p2p udp                        	| 30303 	| UDP      	| Any                     	| Any            	| Allow  	|
 ```
 
-### Using Quickstart
+#### Using Quickstart
 
 To make starting a node for the FuseNetwork as quick as possible, the _quickstart_ script can be used.
 
-Simply download and run the script.
+1. Download the script.
+2. Download one of the example `.env` files located at the [examples folder](https://github.com/fuseio/fuse-network/tree/master/scripts/examples).
+3. Modify the `.env` file according to the role/type of node you're running.
+4. Start the script.
 
-The script will make sure to have everything that is necessary, create a new account for you \(if needed\) and start the _Parity_ client with all requested arguments.
+The script will make sure you have everything that is necessary, create a new account for you \(if needed\) and start the relevant containers \(based on the role/type of node\) with all requested arguments.
 
 The script can be called multiple times without problems, so it checks what is already there and will at least update all service processes.
-
-_Parity_ will restart automatically on fails.
 
 ```text
 $ wget -O quickstart.sh https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/quickstart.sh
 $ chmod 777 quickstart.sh
-$ ./quickstart.sh --role <ROLE>
+$ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/examples/.env.<ROLE>.example
+$ ./quickstart.sh
 ```
 
 Follow the instructions emitted by the script.
 
-If you want to restart the node or want to make sure it runs on the most recent version, just re-run the script.
-
-### Using Docker
+#### Using Docker
 
 The following instructions explain how to start a local node with the _Docker_ image.
 
@@ -86,7 +84,7 @@ In fact it uses a pre-configured [Parity Ethereum](https://www.parity.io/) clien
 
 The image is prepared to be used as node, validator or explorer node.
 
-#### Usage
+**Usage**
 
 To run the parity client for the FuseNetwork you first have to pull the image from [DockerHub](https://hub.docker.com/r/fusenet/node).
 
@@ -98,72 +96,107 @@ Afterwards calling the help should give a first basic overview how to use.
 $ docker pull fusenet/node
 $ docker run fusenet/node --help
 
-     # NAME
-    #   Parity Wrapper
-    #
-    # SYNOPSIS
-    #   parity_wrapper.sh [-r] [role] [-a] [address] [-p] [arguments]
-    #
-    # DESCRIPTION
-    #   A wrapper for the actual Parity client to make the Docker image easy usable by preparing the Parity client for
-    #   a set of predefined list of roles the client can take without have to write lines of arguments on run Docker.
-    #
-    # OPTIONS
-    #   -r [--role]         Role the Parity client should use.
-    #                       Depending on the chosen role Parity gets prepared for that role.
-    #                       Selecting a specific role can require further arguments.
-    #                       Checkout ROLES for further information.
-    #
-    #   -a [--address]      The Ethereum address that parity should use.
-    #                       Depending on the chosen role, the address gets inserted at the right place of the configuration, so Parity is aware of it.
-    #                       Gets ignored if not necessary for the chosen role.
-    #
-    #   -p [--parity-args]  Additional arguments that should be forwarded to the Parity client.
-    #                       Make sure this is the last argument, cause everything after is forwarded to Parity.
-    #
-    # ROLES
-    #   The list of available roles is:
-    #
-    #   node
-    #     - No mining.
-    #     - RPC ports open.
-    #     - Does not require the address argument.
-    #     - Does not need the password file and the key-set. (see FILES)
-    #
-    #   validator
-    #     - Connect as authority to the network for validating blocks.
-    #     - Miner.
-    #     - RPC ports closed.
-    #     - Requires the address argument.
-    #     - Needs the password file and the key-set. (see FILES)
-    #
-    #   explorer
-    #     - No mining.
-    #     - RPC ports open.
-    #     - Does not require the address argument.
-    #     - Does not need the password file and the key-set. (see FILES)
-    #     - Some of Parity's settings are configured specifically for the use of blockscout explorer.
-    #
-    # FILES
-    #   The configuration folder for Parity takes place at /home/parity/.local/share/io.parity.ethereum.
-    #   Alternately the shorthand symbolic link at /config can be used.
-    #   Parity's database is at /home/parity/.local/share/io.parity.ethereum/chains or available trough /data as well.
-    #   To provide custom files in addition bind a volume through Docker to the sub-folder called 'custom'.
-    #   The password file is expected to be placed in the custom configuration folder names 'pass.pwd'.
-    #   The key-set is expected to to be placed in the custom configuration folder under 'keys/FuseNetwork/'
-    #   Besides from using the pre-defined locations, it is possible to define them manually thought the parity arguments. Checkout their documentation to do so.
+ 	# NAME
+#   Parity Wrapper
+#
+# SYNOPSIS
+#   parity_wrapper.sh [-r] [role] [-a] [address] [-p] [arguments]
+#
+# DESCRIPTION
+#   A wrapper for the actual Parity client to make the Docker image easy usable by preparing the Parity client for
+#   a set of predefined list of roles the client can take without have to write lines of arguments on run Docker.
+#
+# OPTIONS
+#   -r [--role]         Role the Parity client should use.
+#                       Depending on the chosen role Parity gets prepared for that role.
+#                       Selecting a specific role can require further arguments.
+#                       Checkout ROLES for further information.
+#
+#   -a [--address]      The Ethereum address that parity should use.
+#                       Depending on the chosen role, the address gets inserted at the right place of the configuration, so Parity is aware of it.
+#                       Gets ignored if not necessary for the chosen role.
+#
+#   -p [--parity-args]  Additional arguments that should be forwarded to the Parity client.
+#                       Make sure this is the last argument, cause everything after is forwarded to Parity.
+#
+# ROLES
+#   The list of available roles is:
+#
+#   bootnode
+#     - No mining.
+#     - RPC ports open.
+#     - Does not require the address argument.
+#     - Does not need the password file and the key-set. (see FILES)
+#   node
+#     - No mining.
+#     - RPC ports open.
+#     - Does not require the address argument.
+#     - Does not need the password file and the key-set. (see FILES)
+#
+#   validator
+#     - Connect as authority to the network for validating blocks.
+#     - Miner.
+#     - RPC ports open.
+#     - Requires the address argument.
+#     - Needs the password file and the key-set. (see FILES)
+#
+#   explorer
+#     - No mining.
+#     - RPC ports open.
+#     - Does not require the address argument.
+#     - Does not need the password file and the key-set. (see FILES)
+#     - Some of Parity's settings are configured specifically for the use of blockscout explorer.
+#
+# FILES
+#   The configuration folder for Parity takes place at /home/parity/.local/share/io.parity.ethereum.
+#   Alternately the shorthand symbolic link at /config can be used.
+#   Parity's database is at /home/parity/.local/share/io.parity.ethereum/chains or available trough /data as well.
+#   To provide custom files in addition bind a volume through Docker to the sub-folder called 'custom'.
+#   The password file is expected to be placed in the custom configuration folder names 'pass.pwd'.
+#   The key-set is expected to to be placed in the custom configuration folder under 'keys/FuseNetwork/'
+#   Besides from using the pre-defined locations, it is possible to define them manually thought the parity arguments. Checkout their documentation to do so.
 ```
 
-#### Examples
+**Examples**
 
 Besides the original help, the following sections provide some example instructions how to get started for the different roles.
 
-**Node**
-
-If you want to run a node for the network, it only needs to have RPC and WS ports mapped out of the docker to the local machine, no account address is needed.
+**Bootnode**
 
 ```text
-$ docker run -ti -v $(pwd)/database:/data -v $(pwd)/config:/config/custom -p 30300:30300 -p 8545:8545 -p 8546:8546 fusenet/node --role node --parity-args --node-key UNIQUE_NAME_FOR_NODE
+## Start parity container with all necessary arguments.
+$ docker run \
+    --detach \
+    --name fusenet \
+    --volume $(pwd)/fusenet/database:/data \
+    --volume $(pwd)/fusenet/config:/config/custom \
+    -p 30303:30300/tcp \
+    -p 30303:30300/udp \
+    -p 8545:8545 \
+    -p 8546:8546 \
+    --restart=on-failure \
+    fusenet/node \
+    --role node \
+    --parity-args --no-warp --node-key $NODE_KEY --bootnodes=$BOOTNODES
+```
+
+**Node**
+
+```text
+## Start parity container with all necessary arguments.
+$ docker run \
+    --detach \
+    --name fusenet \
+    --volume $(pwd)/fusenet/database:/data \
+    --volume $(pwd)/fusenet/config:/config/custom \
+    -p 30303:30300/tcp \
+    -p 30303:30300/udp \
+    -p 8545:8545 \
+    -p 8546:8546 \
+    --restart=on-failure \
+    fusenet/node \
+    --role node \
+    --parity-args --no-warp --node-key $NODE_KEY
 ```
 
 **Validator**
@@ -184,7 +217,7 @@ Afterwards the key's password has to be stored into a file directly inside the `
 
 To make use of the default configurations without adjustment, the file has to be called `pass.pwd`.
 
-If you have no account already or want to create a new one for this purpose checkout [this section](https://github.com/fuseio/docs/blob/master/#create-new-account).
+If you have no account already or want to create a new one for this purpose checkout [this section](https://github.com/fuseio/fuse-network/blob/master/README.md#create-new-account).
 
 Using so the previous paragraph as well as the first 2-3 instructions can be ignored.
 
@@ -197,7 +230,44 @@ $ mkdir -p ./config/keys/FuseNetwork
 $ cp /path/to/my/key ./config/keys/FuseNetwork/
 $ echo "mysupersecretpassphrase" > ./config/pass.pwd
 $ mkdir ./database
-$ docker run -ti -v $(pwd)/database:/data -v $(pwd)/config:/config/custom -p 30300:30300 fusenet/node --role validator --address MY_ADDRESS
+## Start parity container with all necessary arguments.
+$ docker run \
+    --detach \
+    --name fusenet \
+    --volume $(pwd)/fusenet/database:/data \
+    --volume $(pwd)/fusenet/config:/config/custom \
+    -p 30303:30300/tcp \
+    -p 30303:30300/udp \
+    -p 8545:8545 \
+    --restart=on-failure \
+    fusenet/node \
+    --role validator \
+    --address $address
+```
+
+As part of validator's responsibilities in the network, two more containers need to be started along side the Parity node.
+
+One is the [validator-app](https://github.com/fuseio/fuse-network/tree/master/app)
+
+```text
+## Start validator-app container with all necessary arguments.
+$ docker run \
+    --detach \
+    --name fuseapp \
+    --volume $(pwd)/fusenet/config:/config/custom \
+    --restart=on-failure \
+    fusenet/validator-app
+```
+
+Second one is the [bridge-oracle](https://github.com/fuseio/bridge-oracle)
+
+```text
+$ wget -O docker-compose.yml https://raw.githubusercontent.com/fuseio/bridge-oracle/master/docker-compose.keystore.yml
+## Start oracle container with all necessary arguments.
+$ docker-compose up \
+    --build \
+    -d
+  ;;
 ```
 
 **Create New Account**
@@ -206,7 +276,7 @@ If you have no existing account or a new one should be created anyway, _Parity_ 
 
 Please consider other options like [MetaMask](https://metamask.io/) or any other \(online\) wallet tool.
 
-In relation to the instructions for the [validator](https://github.com/fuseio/docs/blob/master/#validator) role, we use the folder called `config` to bind as _Docker_ volume to _Parity_.
+In relation to the instructions for the [validator](https://github.com/fuseio/fuse-network/blob/master/README.md#validator) role, we use the folder called `config` to bind as _Docker_ volume to _Parity_.
 
 Afterwards the key will be placed there and the first steps of these instructions can be skipped.
 
@@ -226,97 +296,33 @@ Please copy it for the later use. It will be needed for the `--address` argument
 If you want to run a node to be used by the [blockscout explorer](https://github.com/fuseio/blockscout/tree/fuse) run the following command:
 
 ```text
-$ docker run -ti -v $(pwd)/database:/data -v $(pwd)/config:/config/custom -p 30300:30300 -p 8545:8545 -p 8546:8546 fusenet/node --role explorer --parity-args --node-key UNIQUE_NAME_FOR_EXPLORER_NODE
+## Start parity container with all necessary arguments.
+$ docker run \
+	--detach \
+	--name fusenet \
+    --volume $(pwd)/fusenet/database:/data \
+    --volume $(pwd)/fusenet/config:/config/custom \
+	-p 30303:30300/tcp \
+	-p 30303:30300/udp \
+	-p 8545:8545 \
+	-p 8546:8546 \
+	--restart=on-failure \
+	fusenet/node \
+	--role explorer \
+	--parity-args --node-key $NODE_KEY
 ```
 
-### Without Docker
+_**Note**_
 
-This section explains how to start a local node without using the _Docker_ image.
-
-#### Pre-Requisites
-
-* [Parity version 2.4.5](https://github.com/paritytech/parity-ethereum/releases/tag/v2.4.5)
-* [spec.json](https://github.com/fuseio/fuse-post-network/blob/master/config/spec.json) file
-
-#### Creating An Account
-
-To interact with the FuseNetwork chain, one needs a private key corresponding to an address usable on the chain.
-
-If you already possess such a key, you can skip this section.
-
-To start with, create a folder to store everything related to the FuseNetwork chain, move the `spec.json` file to this folder and change to this folder:
+All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://health.fusenet.io/) service
 
 ```text
-mkdir fusenetwork-chain
-mv spec.json fusenetwork-chain/spec.json
-cd fusenetwork-chain
-```
-
-You can then create an account with the command:
-
-```text
-parity account new --chain spec.json -d [path/to/node/foler]
-```
-
-For the rest of this documentation to become a validator we will assume you ran:
-
-```text
-parity account new --chain spec.json -d validator_node
-```
-
-You will be prompted to enter a password twice to protect this private key.
-
-You need to remember this password and use it whenever you want to use the private key.
-
-After successfully creating an account, you will see displayed the public address corresponding to that account \(in format `0x6c...e6`\), keep that address somewhere.
-
-For running a node as a validator, you will need to store your password in a file.
-
-```text
-echo [mypassword] > password.pwd
-```
-
-#### Setup For node Using Only CLI
-
-> TODO
-
-#### Setup For Validator Using Only CLI
-
-> TODO
-
-#### Setup For Explorer Node Using Only CLI
-
-> TODO
-
-## Development
-
-### Build Own Image
-
-To build the _Docker_ image, checkout this repository and run `docker build` with your preferred tag name. As the context of the build must be the project root, the path to the `Dockerfile` has to be specified manually.
-
-```text
-$ git clone https://github.com/fuseio/fuse-network
-$ docker build -f docker/Dockerfile -t MY_TAGNAME .
-$ docker run ... MY_TAGNAME ...
-```
-
-### Upload Image
-
-The built image is publicly available at [DockerHub](https://hub.docker.com/).
-
-To upload a new version make sure to have access to the _fuse_ organization.
-
-If permissions are given, the local build has to be tagged and then pushed.
-
-Please replace `USERNAME` with your own account name on _DockerHub_ and `LOCAL_IMAGE` with the tag name you have given the image while building.
-
-The example below uses the `:latest` tag postfix which is the default one used by _DockerHub_ when pulling an image.
-
-If you want to provide an additional tag \(e.g. for sub-versions\), adjust the name when tagging.
-
-```text
-$ echo "yoursecretpassword" | docker login --username USERNAME --password-stdin
-$ docker tag LOCAL_IMAGE fusenet/node:latest
-$ docker push fusenet/node:latest
+$ docker run \
+    --detach \
+    --name fusenetstat \
+    --net=container:fusenet \
+    --restart=on-failure \
+    fusenet/netstat \
+    --instance-name $INSTANCE_NAME
 ```
 
