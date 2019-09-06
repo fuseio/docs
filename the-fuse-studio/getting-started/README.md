@@ -1,6 +1,6 @@
 # Getting started
 
-In order to start using the Fuse Studio all you need to have is a Metamask installed in your browser with some ETH in it and you are ready to go! The ETH is needed to pay transaction fees on Ethereum, in order to launch your community
+In order to start using the Fuse Studio all you need to have is a Metamask wallet installed in your browser with some ETH in it and you are ready to go! The ETH is needed to pay transaction fees on Ethereum, in order to launch your community
 
 * [Download ](https://metamask.io/)Metamask and install on your Chrome browser.
 * [How to use metamask?](https://www.youtube.com/watch?v=ZIGUC9JAAw8)
