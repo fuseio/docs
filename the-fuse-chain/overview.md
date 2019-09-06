@@ -10,3 +10,10 @@ Any holder of a Fuse token can delegate it to a validator and thus participate i
 
 This DPoS \(Delegate Proof of Stake\) mechanism allows the network to grow while a constant election of validators reduces the risk for malicious actors.
 
+{% hint style="info" %}
+To connect to the Fuse chain please set your wallet to connect to this network RPC address:  
+**https://rpc.fusenet.io** 
+
+Click [here ](../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)for a guide on setting up Metamask to work with Fuse.
+{% endhint %}
+
