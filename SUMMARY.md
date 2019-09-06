@@ -3,7 +3,7 @@
 * [Welcome!](README.md)
 * [Fuse overview](fuse-overview.md)
 
-## The Fuse Chain
+## Fuse Chain <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)
@@ -15,7 +15,7 @@
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
 * [FAQ](the-fuse-chain/faq.md)
 
-## The Fuse Studio
+## Fuse Studio <a id="the-fuse-studio"></a>
 
 * [Overview](the-fuse-studio/overview.md)
 * [Getting started](the-fuse-studio/getting-started/README.md)
@@ -25,7 +25,7 @@
 * [Backend API](the-fuse-studio/api.md)
 * [Fuse studio contracts](the-fuse-studio/fuse-studio-contracts.md)
 
-## The Mobile Wallet
+## Fuse Wallet <a id="the-mobile-wallet"></a>
 
 * [Overview](the-mobile-wallet/overview.md)
 * [Getting started](the-mobile-wallet/getting-started.md)
