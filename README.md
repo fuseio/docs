@@ -9,7 +9,7 @@ Fuse is a no-code smart contract platform for entrepreneurs. It allows entrepren
 You should read this if your are:
 
 * **Non-technical** 
-  * I want to launch a community on Fuse! - Go to the [Fuse Studio documentation](the-fuse-studio/overview/) 
+  * I want to launch a community on Fuse! - Go to the [Fuse Studio documentation](the-fuse-studio/overview.md) 
   * I want to know how the network works - Go to [Fuse network overview](the-fuse-chain/overview.md)
 * **Somewhat technical** 
   * I want to be a validator on  - Go to Fuse validator guide

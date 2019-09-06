@@ -2,7 +2,7 @@
 
 MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users to interact with decentralized apps and use their wallet to sign transactions on web3.0 decentralized apps like the Fuse Studio. Before launching your community on mainnet you can test our platform for free on Ropsten. Because using Ethereum requires paying fee's you will need to have ETH on Ropsten before launching your community. Here is how to do it:
 
-![](../../../.gitbook/assets/metamask.jpg)
+![](../../.gitbook/assets/metamask.jpg)
 
 ## Install & Get some ETH
 
