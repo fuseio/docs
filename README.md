@@ -16,7 +16,7 @@ You should read this if your are:
   * I want to learn about the wallet and it's benefits - [_Go to wallet overview_](the-mobile-wallet/overview.md)\_\_
 * **I am a developer**
   * I want to integrate! - Go to our [_API reference_](the-fuse-studio/api.md)\_\_
-  * I want to learn about your contracts - [_Go to the fuse chain contracts_](the-fuse-chain/consensus-contracts/)\_\_
+  * I want to learn about your contracts - [_Go to the Fuse Chain contracts_](the-fuse-chain/consensus-contracts/)\_\_
   * Check us out on [_Github_ ](https://github.com/fuseio)
 
 {% hint style="info" %}
