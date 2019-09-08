@@ -32,7 +32,7 @@ At the heart of the network is the open source stack suited for individuals and 
       <td style="text-align:left">Fuse Wallet</td>
       <td style="text-align:left">
         <p>&#x26A1;First Flutter Ethereum wallet launched to Github</p>
-        <p>&#x26A1;launched on Google play and Testflight free to download and customize.</p>
+        <p>&#x26A1;Launched on Google play and Testflight free to download and customize.</p>
       </td>
     </tr>
   </tbody>
