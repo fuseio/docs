@@ -14,6 +14,6 @@ This DPoS \(Delegate Proof of Stake\) mechanism allows the network to grow while
 To connect to the Fuse chain please set your wallet to connect to this network RPC address:  
 **https://rpc.fusenet.io** 
 
-Click [here ](../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)for a guide on setting up Metamask to work with Fuse.
+\_\_[_Click here_](../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md) for a guide on setting up Metamask to work with Fuse.
 {% endhint %}
 
