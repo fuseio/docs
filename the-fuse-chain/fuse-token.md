@@ -2,11 +2,11 @@
 
 Fuse token is required to be paid to the network to approve transactions. The Fuse network is using the token to create circulation between users that look to validate transactions on the network and validators who invest computing resources and maintain it. Every block created on the Fuse chain is creating new Fuse tokens rewarded to the validators. This creates a 5% yearly inflation rate of Fuse tokens in circulation. 
 
-Fuse holders can lock it and delegate it to a validator in order to protect against inflation and get rewarded with Fuse tokens. The holders can select their favorite validator and validators are selected based on having the most delegators. 
+Fuse holders can lock it and delegate it to a validator in order to protect against inflation and get rewarded with Fuse tokens. The holders can select their favorite validator and validators are selected based on having the most delegators staking Fuse tokens. 
 
 Thus the token is used behind the scenes to align interests between all it's holders. Any holder can participate in the governance of the network by voting based on the size of his stake.
 
-The Fuse token is an ERC-20 token which is the native token of the Fuse chain and can be moved to Ethereum using the bridge. The token is traded publicly on decentralized exchanges
+The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and can be moved between the Fuse chain and Ethereum using the bridge. 
 
 {% hint style="info" %}
 * Watch our token on [_Etherscan_](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\_\_

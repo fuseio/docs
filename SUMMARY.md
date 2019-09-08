@@ -6,11 +6,11 @@
 ## Fuse Chain <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
+* [Becoming a validator](the-fuse-chain/how-to-become-a-validator.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)
-* [Fuse chain contracts](the-fuse-chain/consensus-contracts/README.md)
+* [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
-* [How to become a validator](the-fuse-chain/how-to-become-a-validator.md)
 * [Running a validator node](the-fuse-chain/run-your-own-validator.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
 * [FAQ](the-fuse-chain/faq.md)

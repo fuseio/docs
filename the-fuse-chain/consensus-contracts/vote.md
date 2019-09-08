@@ -1,8 +1,6 @@
 # Vote
 
-Fuse chain functionality can be change by voting on the contracts implementations.
-
-New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
+Fuse chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
 
 #### Open a new ballot
 

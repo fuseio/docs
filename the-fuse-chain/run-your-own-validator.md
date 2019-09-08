@@ -6,7 +6,7 @@ description: A technical guide on how to run you own validator.
 
 ### Run Local Node
 
-Please make sure you have access to a continuously running machine, if you like to participate as a network validator.
+This guide will walk you trough running your own validator node using a docker image. Please make sure you have access to a continuously running machine, if you like to participate as a network validator.
 
 #### Pre-Requisites
 

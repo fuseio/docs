@@ -1,16 +1,10 @@
-# How to become a validator
+# Becoming a validator
 
-The Fuse network is operated by validator nodes that are hosted by network participants from all around the world.
+The Fuse network is operated by validator nodes that are hosted by network participants from all around the world. The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favorite currency. 
 
-The network allows entrepreneurs to easily plug payments to their products and on-board their users to a platform that allows them to pay, transact and access financial services in their favourite currency.
+All the access to the network is public and all the code is open source so it could be customized and localized to their needs. Any community that lives on the Fuse chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
 
-All the access to the network is public and all the code is open source so it could be customized and localized to their needs.
-
-Any community that lives on the Fuse chain needs to pay a small fee to the validators of the network to validate its transactions in the community.
-
-The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction.
-
-This allows the network to grow organically as more usage in the system more network participants rewards grow.  
+The more communities and users conducting transactions, the more validators will earn as a reward for approving the transaction. This allows the network to grow organically as more usage in the system more network participants rewards grow.  
 
 
 ### What it means to be a validator?
@@ -27,11 +21,11 @@ Validators are contributing their computer resources to maintain the network and
 
 Validators are the guardians of the network and are in charge of not only maintaining it but also to steer it in its future through the governance mechanism that allows any holder of Fuse token to vote on important decisions and upgrades to the network in its development and resource allocation.
 
-### Who should become a validator
+### Who should become a validator?
 
 * **Companies who build on the network** - Fuse open source stack allows many companies to collaborate on the same code-base.
 
-  Allowing any company that is interested in using the Fuse services and code to join as a stakeholder is a new innovative approach to partnerships.
+  Allowing any company that is interested in using the Fuse services and code to join as a stakeholder is a new innovative approach to collaboration and partnerships.
 
   Any company that builds products on the network can own a piece of it and become a stakeholder.
 
@@ -58,20 +52,20 @@ Validators are the guardians of the network and are in charge of not only mainta
 
 [You can delegate you Fuse token to a validator](consensus-contracts/stake-delegate-and-withdraw.md#delegate) of your choosing. Not everybody that wants to earn rewards need to be a validator! Any token holder can delegate their Fuse token to a validator to earn rewards through the validator.
 
-### How to become a validator
+### How to become a validator?
 
 * Minimum of 3M tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 3M Fuse tokens needs to be locked in a contract to be eligible to become a validator.
 * You can pledge to be a validator or apply to be a strategic partner.
 
-|  | Pledged validator | Strategic Partners |
-| :--- | :--- | :--- |
-| Max Vested tokens | 100K | 3M |
-| Vesting period | 1 year | 2 years |
-| Starting with | 0 FUSE tokens | 1M FUSE tokens |
-| Delegated tokens from Fuse to you | Completion to 3M | Completion to 3M |
-| Block rewards and transaction fees  | All goes to the validator | All goes to the validator |
-| After vesting period | Fuse Delegation stops | No needs for Fuse delegation, all is vested. |
-| What is required from you | Pledge to run a validator for a year | Pledge to run a validator for a year and run a community in the fuse studio |
+|  |  |
+| :--- | :--- |
+| Max Vested tokens | 3M |
+| Vesting period | 2 years |
+| Starting with | 1M FUSE tokens |
+| Delegated tokens from Fuse to you | Completion to 3M |
+| Block rewards and transaction fees  | All goes to the validator |
+| After vesting period | No needs for Fuse delegation, all is vested. |
+| What is required from you | Pledge to run a validator for a year and run a community in the fuse studio |
 
 * Run a full node.
 
