@@ -13,7 +13,6 @@
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
 * [Running a validator node](the-fuse-chain/run-your-own-validator.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
-* [FAQ](the-fuse-chain/faq.md)
 
 ## Fuse Studio <a id="the-fuse-studio"></a>
 
