@@ -9,7 +9,7 @@ Optionally you can add the full parameters:
 **Additional**: https://rpc.fusenet.io  
 **ChainId**: 122  
 **Explorer**: [https://explorer.fusenet.io](https://explorer.fusenet.io/)  
-**symbol**: Fuse. I guess?
+**symbol**: Fuse
 {% endhint %}
 
 1. **\`\`**![](../../.gitbook/assets/ez2.png) 
