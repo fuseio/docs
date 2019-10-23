@@ -8,7 +8,7 @@ description: An overview of the network's contracts with descriptions and links
 All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts) 
 {% endhint %}
 
-#### [Consensus contract](https://explorer.fusenet.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79)
+#### [Consensus - 0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79](https://explorer.fusenet.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79)
 
 This contract is responsible for handling the network DPos consensus. The contract is storing the current validator set and choosing a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
@@ -26,7 +26,7 @@ cycle duration blocks = 1440 \(approximately 2 hours\)
 snapshots taken per cycle = 10
 {% endhint %}
 
-#### Block Reward
+#### [Block Reward - 0x63D4efeD2e3dA070247bea3073BCaB896dFF6C9B](https://explorer.fusenet.io/address/0x63d4efed2e3da070247bea3073bcab896dff6c9b)
 
 This contract is responsible for generating and distributing block rewards to the network validators according to the network specs \(5% yearly inflation\).
 
@@ -34,7 +34,7 @@ Another role of this contract is to call the snapshot/cycle logic on the Consens
 
 This contract is based on `BlockReward` [described in Parity Wiki](https://wiki.parity.io/Block-Reward-Contract).
 
-#### [Voting](https://explorer.fusenet.io/address/0x4c889f137232E827c00710752E86840805A70484)
+#### [Voting - 0x4c889f137232E827c00710752E86840805A70484](https://explorer.fusenet.io/address/0x4c889f137232E827c00710752E86840805A70484)
 
 This contract is responsible for opening new ballots and voting to accept/reject them. Ballots are basically offers to change other network contracts implementation.
 
