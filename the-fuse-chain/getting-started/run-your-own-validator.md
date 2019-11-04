@@ -2,7 +2,7 @@
 description: A technical guide on how to run you own validator.
 ---
 
-# Running a validator node
+# Running a node
 
 ## Run Local Node
 
