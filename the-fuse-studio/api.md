@@ -14,7 +14,7 @@ The Fuse Studio REST API for accessing the data and the services of the Fuse net
 
 The token bridge connects the Ethereum and Fuse network
 
-```text
+```
 GET /bridges/:homeTokenAddress
 ```
 
@@ -54,7 +54,7 @@ POST /communities/:communityAddress
 
 `json` - Request-Example:
 
-```javascript
+```
 {
   "plugins": {
      "businessList": {
@@ -72,7 +72,7 @@ POST /communities/:communityAddress
 
 Community is a set of contracts and services. Members of the community are users of the Fuse network. The community is configured via the plugins.
 
-```text
+```
 GET /communities/:communityAddress
 ```
 
@@ -100,7 +100,7 @@ GET /communities/:communityAddress
 
 Fetching communities I'm part of
 
-```text
+```
 GET /entities/account/:account
 ```
 
@@ -141,7 +141,7 @@ GET /entities/:communityAddress
 
 Entity is an account on the Fuse network. It can have variety of roles like user, admin, business, or custom defined role.
 
-```text
+```
 GET /entities/:communityAddress/:account
 ```
 
@@ -171,7 +171,7 @@ GET /entities/:communityAddress/:account
 
 Tokens are compatible with the ERC20 standard, and they also can be burnable/mintable. Tokens are an important part of the community economy.
 
-```text
+```
 GET /tokens/:address
 ```
 

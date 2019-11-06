@@ -19,7 +19,7 @@ To quickly become a validator, follow this steps:
 
 ### Step 1: Download the \`quickstart.sh\` script and an \`.env\` example file:
 
-```bash
+```
 mkdir fuse-validator
 cd fuse-validator
 wget -O quickstart.sh https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/quickstart.sh
@@ -29,16 +29,14 @@ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/script
 
 ### Step 2: Update the \`.env\` file:
 
-```bash
-set "sudo" on `PERMISSION_PREFIX` if running docker/docker-compose requires root
+    set "sudo" on `PERMISSION_PREFIX` if running docker/docker-compose requires root
 
-set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
-(or replace entirely with your Ethereum mainnet rpc endpoint)
-```
+    set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
+    (or replace entirely with your Ethereum mainnet rpc endpoint)
 
 ### Step 3: Run the script as a validator:
 
-```bash
+```
 ./quickstart.sh
 ```
 

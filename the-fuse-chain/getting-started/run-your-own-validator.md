@@ -25,7 +25,7 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Disk - `30 GiB Premium SSD`
 * Networking
 
-```text
+```
 | Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
 |----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
 | 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
@@ -46,7 +46,7 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Disk - `30 GiB Premium SSD`
 * Networking
 
-```text
+```
 | Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
 |----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
 | 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
@@ -67,7 +67,7 @@ The script will make sure you have everything that is necessary, create a new ac
 
 The script can be called multiple times without problems, so it checks what is already there and will at least update all service processes.
 
-```text
+```
 $ wget -O quickstart.sh https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/quickstart.sh
 $ chmod 777 quickstart.sh
 $ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/examples/.env.<ROLE>.example
@@ -92,7 +92,7 @@ It does not matter in which directory your are working this step, cause it will 
 
 Afterwards calling the help should give a first basic overview how to use.
 
-```text
+```
 $ docker pull fusenet/node
 $ docker run fusenet/node --help
 
@@ -163,7 +163,7 @@ Besides the original help, the following sections provide some example instructi
 
 **Bootnode**
 
-```text
+```
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
@@ -182,7 +182,7 @@ $ docker run \
 
 **Node**
 
-```text
+```
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
@@ -225,7 +225,7 @@ Anyways the password used there has to be stored as shown below.
 
 Finally the client has to be started with the volume bound, the correct role and the address to use.
 
-```text
+```
 $ mkdir -p ./config/keys/FuseNetwork
 $ cp /path/to/my/key ./config/keys/FuseNetwork/
 $ echo "mysupersecretpassphrase" > ./config/pass.pwd
@@ -249,7 +249,7 @@ As part of validator's responsibilities in the network, two more containers need
 
 One is the [validator-app](https://github.com/fuseio/fuse-network/tree/master/app)
 
-```text
+```
 ## Start validator-app container with all necessary arguments.
 $ docker run \
     --detach \
@@ -261,7 +261,7 @@ $ docker run \
 
 Second one is the [bridge-oracle](https://github.com/fuseio/bridge-oracle)
 
-```text
+```
 $ wget -O docker-compose.yml https://raw.githubusercontent.com/fuseio/bridge-oracle/master/docker-compose.keystore.yml
 ## Start oracle container with all necessary arguments.
 $ docker-compose up \
@@ -280,7 +280,7 @@ In relation to the instructions for the [validator](https://github.com/fuseio/fu
 
 Afterwards the key will be placed there and the first steps of these instructions can be skipped.
 
-```text
+```
 $ mkdir ./config
 $ docker run -ti -v $(pwd)/config/:/config/custom fusenet/node --parity-args account new
 ```
@@ -295,7 +295,7 @@ Please copy it for the later use. It will be needed for the `--address` argument
 
 If you want to run a node to be used by the [blockscout explorer](https://github.com/fuseio/blockscout/tree/fuse) run the following command:
 
-```text
+```
 ## Start parity container with all necessary arguments.
 $ docker run \
 	--detach \
@@ -316,7 +316,7 @@ _**Note**_
 
 All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://health.fusenet.io/) service
 
-```text
+```
 $ docker run \
     --detach \
     --name fusenetstat \
