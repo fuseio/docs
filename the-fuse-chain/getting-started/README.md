@@ -41,7 +41,7 @@ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/script
 ```
 
 {% hint style="success" %}
-After running the script successfully, you will see your address in the [health](https://health.fusenet.io/) site.
+After running the script successfully, you will see your address in the [health](https://health.fuse.io/) site.
 {% endhint %}
 
 ### Step 4: **Send FUSE tokens and ETH to that account address:**
@@ -54,7 +54,7 @@ After running the script, an account is created for you. You can find out your a
 * Send FUSE tokens to the same address, but on the Fuse network.
 
 {% hint style="warning" %}
-In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC: `https://rpc.fusenet.io` using `chainId: 122.` [`How to add Fuse Network to your Metamask`](../../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)\`\`
+In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC: `https://rpc.fuse.io` using `chainId: 122.` [`How to add Fuse Network to your Metamask`](../../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)\`\`
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
@@ -97,7 +97,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://health.fusenet.io/) site and on the [explorer](https://explorer.fusenet.io) site. 
+You can see that you are validating both in the [health](https://health.fuse.io/) site and on the [explorer](https://explorer.fuse.io) site. 
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/fuseio) or [Discord](https://discord.gg/tz7ArR). Good luck and happy validating!

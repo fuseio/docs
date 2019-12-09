@@ -10,7 +10,7 @@ The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and
 
 {% hint style="info" %}
 * Watch our token on [_Etherscan_](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\_\_
-* \_\_[_Fuse explorer_](https://explorer.fusenet.io/)\_\_
+* \_\_[_Fuse explorer_](https://explorer.fuse.io/)\_\_
 * \_\_[_Get Fuse token_](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)\_\_
 {% endhint %}
 
