@@ -27,7 +27,7 @@ Those validators, being also the bridge validators, need to be updated on Ethere
 This works by listening to the \`InitiateChange\` event emitted by the Consensus contract on Fuse chain, waiting for all bridge validators on Fuse chain to sign it, and eventually sending a transaction to set the bridge validators on Ethereum \(by the last signing validator\).
 
 {% hint style="info" %}
-Fuse chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://explorer.fusenet.io/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
+Fuse chain bridge - [0xd617774b9708F79187Dc7F03D3Bdce0a623F6988](https://explorer.fuse.io/address/0xd617774b9708f79187dc7f03d3bdce0a623f6988)
 
 Ethereum bridge - [0x3014ca10b91cb3D0AD85fEf7A3Cb95BCAc9c0f79](https://etherscan.io/address/0x3014ca10b91cb3D0AD85fEf7A3Cb95BCAc9c0f79)
 
