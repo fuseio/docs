@@ -14,6 +14,7 @@
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
+* [Fuse Testnet](the-fuse-chain/fuse-testnet.md)
 
 ## Fuse Studio <a id="the-fuse-studio"></a>
 
