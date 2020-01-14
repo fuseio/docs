@@ -2,7 +2,7 @@
 
 Fuse chain functionality can be change by voting on the contracts implementations. New implementations can be deployed, and opened to vote by validators for others to decide on whether to accept/reject the changes.
 
-#### Open a new ballot
+## Open a new ballot
 
 In order to open a new vote, a validator needs to call the \`newBallot\` function on the [voting contract](https://explorer.fuse.io/address/0x4c889f137232E827c00710752E86840805A70484) with the following params:
 
@@ -18,7 +18,7 @@ In order to open a new vote, a validator needs to call the \`newBallot\` functio
 
 ![newBallot](../../.gitbook/assets/screen-shot-2019-09-04-at-15.07.50.png)
 
-#### Check ballot info
+## Check ballot info
 
 Everyone can check all the ballots that were created using the \`getBallotInfo\` function. This function receives two params:
 
@@ -27,7 +27,7 @@ Everyone can check all the ballots that were created using the \`getBallotInfo\`
 
 ![getBallotInfo](../../.gitbook/assets/screen-shot-2019-09-04-at-15.08.09.png)
 
-#### Vote
+## Vote
 
 Everyone can vote on open ballots, after the start block has passed and until the end block hasn't yet.
 
@@ -42,15 +42,15 @@ Voting is done by calling the \`vote\` function, which receives two params:
 
 Some other useful functions on the [voting contract](https://explorer.fuse.io/address/0x4c889f137232E827c00710752E86840805A70484) are:
 
-#### getQuorumState
+## getQuorumState
 
 Returns the state of a specific ballot id: 1 - in progress, 2 - accepted, 3 - rejected
 
-#### getAccepted/getRejected
+## getAccepted/getRejected
 
 Returns the number of accepts/reject of a specific ballot id.
 
-#### activeBallots
+## activeBallots
 
 Returns an array of active ballot ids.
 

@@ -19,7 +19,7 @@ To quickly become a validator, follow this steps:
 
 ### Step 1: Download the \`quickstart.sh\` script and an \`.env\` example file:
 
-```
+```text
 mkdir fuse-validator
 cd fuse-validator
 wget -O quickstart.sh https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/quickstart.sh
@@ -29,14 +29,16 @@ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/script
 
 ### Step 2: Update the \`.env\` file:
 
-    set "sudo" on `PERMISSION_PREFIX` if running docker/docker-compose requires root
+```text
+set "sudo" on `PERMISSION_PREFIX` if running docker/docker-compose requires root
 
-    set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
-    (or replace entirely with your Ethereum mainnet rpc endpoint)
+set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
+(or replace entirely with your Ethereum mainnet rpc endpoint)
+```
 
 ### Step 3: Run the script as a validator:
 
-```
+```text
 ./quickstart.sh
 ```
 
@@ -54,7 +56,7 @@ After running the script, an account is created for you. You can find out your a
 * Send FUSE tokens to the same address, but on the Fuse network.
 
 {% hint style="warning" %}
-In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC: `https://rpc.fuse.io` using `chainId: 122.` [`How to add Fuse Network to your Metamask`](../../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)\`\`
+In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC: `https://rpc.fuse.io` using `chainId: 122.` [`How to add Fuse Network to your Metamask`](../../how-to-add-fuse-to-your-metamask.md)\`\`
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
@@ -84,7 +86,7 @@ To delegate, just send the FUSE tokens from any address to the Consensus contrac
 {% hint style="success" %}
 Example:
 
-For the address: `0xb8ce4a040e8aa33bbe2de62e92851b7d7afd52de`   
+For the address: `0xb8ce4a040e8aa33bbe2de62e92851b7d7afd52de`  
 Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de` as the data.
 
 `5c19a95c` is for the `delegate(address)` function signature.
@@ -97,7 +99,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 Wait until the next cycle is started.
 
 {% hint style="success" %}
-You can see that you are validating both in the [health](https://health.fuse.io/) site and on the [explorer](https://explorer.fuse.io) site. 
+You can see that you are validating both in the [health](https://health.fuse.io/) site and on the [explorer](https://explorer.fuse.io) site.
 {% endhint %}
 
 For live support, contact us on [Telegram](https://t.me/fuseio) or [Discord](https://discord.gg/tz7ArR). Good luck and happy validating!

@@ -12,5 +12,4 @@ MetaMask is an Ethereum wallet that runs as a Chrome extension, it allows users 
 4. Go to Ropsten Ether Faucet - [here](https://faucet.ropsten.be/)
 5. Paste your address in the text field to get some ETH on Ropsten.
 6. Go to the [Fuse studio](https://studio-qa.fuse.io/) and start to explore
-
-* 
+7. 

@@ -8,13 +8,13 @@ description: A technical guide on how to run you own validator.
 
 This guide will walk you trough running your own validator node using a docker image. Please make sure you have access to a continuously running machine, if you like to participate as a network validator.
 
-#### Pre-Requisites
+### Pre-Requisites
 
 A complete [Docker](https://docs.docker.com/) environment is needed to be installed on your system, as well as [Docker-Compose](https://docs.docker.com/compose/)
 
 Make sure that your user is added to the `docker` user-group on _Unix_ systems, if you can't access root permissions to run containers.
 
-#### Hardware
+### Hardware
 
 _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but similar on other providers as well_
 
@@ -25,18 +25,18 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Disk - `30 GiB Premium SSD`
 * Networking
 
-```
-| Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
-|----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
-| 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
-| 1001     	| p2p                            	| 30303 	| TCP      	| Any                     	| Any            	| Allow  	|
-| 1002     	| p2p udp                        	| 30303 	| UDP      	| Any                     	| Any            	| Allow  	|
-| 1003     	| rpc                            	| 8545  	| TCP      	| Any                     	| Any            	| Allow  	|
-| 1004     	| https                          	| 443   	| TCP      	| Any                     	| Any            	| Allow  	|
-| 1005     	| http                           	| 80    	| TCP      	| Any                     	| Any            	| Allow  	|
-| 65000    	| AllowVnetInBound               	| Any   	| Any      	| VirtualNetwork          	| VirtualNetwork 	| Allow  	|
-| 65001    	| AllowAzureLoadBalancerInBound  	| Any   	| Any      	| AzureLoadBalancer       	| Any            	| Allow  	|
-| 65500    	| DenyAllInBound                 	| Any   	| Any      	| Any                     	| Any            	| Deny   	|
+```text
+| Priority     | Description                        | Port      | Protocol     | Source                      | Destination        | Action     |
+|----------    |--------------------------------    |-------    |----------    |-------------------------    |----------------    |--------    |
+| 1000         | ssh                                | 22        | TCP          | ip list comma-separated     | Any                | Allow      |
+| 1001         | p2p                                | 30303     | TCP          | Any                         | Any                | Allow      |
+| 1002         | p2p udp                            | 30303     | UDP          | Any                         | Any                | Allow      |
+| 1003         | rpc                                | 8545      | TCP          | Any                         | Any                | Allow      |
+| 1004         | https                              | 443       | TCP          | Any                         | Any                | Allow      |
+| 1005         | http                               | 80        | TCP          | Any                         | Any                | Allow      |
+| 65000        | AllowVnetInBound                   | Any       | Any          | VirtualNetwork              | VirtualNetwork     | Allow      |
+| 65001        | AllowAzureLoadBalancerInBound      | Any       | Any          | AzureLoadBalancer           | Any                | Allow      |
+| 65500        | DenyAllInBound                     | Any       | Any          | Any                         | Any                | Deny       |
 ```
 
 **Validator**
@@ -46,15 +46,15 @@ _Note: specified for_ [_Microsoft Azure_](https://portal.azure.com/)_, but simil
 * Disk - `30 GiB Premium SSD`
 * Networking
 
-```
-| Priority 	| Description                    	| Port  	| Protocol 	| Source                  	| Destination    	| Action 	|
-|----------	|--------------------------------	|-------	|----------	|-------------------------	|----------------	|--------	|
-| 1000     	| ssh	                            | 22    	| TCP      	| ip list comma-separated 	| Any            	| Allow  	|
-| 1001     	| p2p                            	| 30303 	| TCP      	| Any                     	| Any            	| Allow  	|
-| 1002     	| p2p udp                        	| 30303 	| UDP      	| Any                     	| Any            	| Allow  	|
+```text
+| Priority     | Description                        | Port      | Protocol     | Source                      | Destination        | Action     |
+|----------    |--------------------------------    |-------    |----------    |-------------------------    |----------------    |--------    |
+| 1000         | ssh                                | 22        | TCP          | ip list comma-separated     | Any                | Allow      |
+| 1001         | p2p                                | 30303     | TCP          | Any                         | Any                | Allow      |
+| 1002         | p2p udp                            | 30303     | UDP          | Any                         | Any                | Allow      |
 ```
 
-#### Using Quickstart
+### Using Quickstart
 
 To make starting a node for the FuseNetwork as quick as possible, the _quickstart_ script can be used.
 
@@ -67,7 +67,7 @@ The script will make sure you have everything that is necessary, create a new ac
 
 The script can be called multiple times without problems, so it checks what is already there and will at least update all service processes.
 
-```
+```text
 $ wget -O quickstart.sh https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/quickstart.sh
 $ chmod 777 quickstart.sh
 $ wget -O .env https://raw.githubusercontent.com/fuseio/fuse-network/master/scripts/examples/.env.<ROLE>.example
@@ -76,7 +76,7 @@ $ ./quickstart.sh
 
 Follow the instructions emitted by the script.
 
-#### Using Docker
+### Using Docker
 
 The following instructions explain how to start a local node with the _Docker_ image.
 
@@ -92,11 +92,11 @@ It does not matter in which directory your are working this step, cause it will 
 
 Afterwards calling the help should give a first basic overview how to use.
 
-```
+```text
 $ docker pull fusenet/node
 $ docker run fusenet/node --help
 
- 	# NAME
+     # NAME
 #   Parity Wrapper
 #
 # SYNOPSIS
@@ -163,7 +163,7 @@ Besides the original help, the following sections provide some example instructi
 
 **Bootnode**
 
-```
+```text
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
@@ -182,7 +182,7 @@ $ docker run \
 
 **Node**
 
-```
+```text
 ## Start parity container with all necessary arguments.
 $ docker run \
     --detach \
@@ -225,7 +225,7 @@ Anyways the password used there has to be stored as shown below.
 
 Finally the client has to be started with the volume bound, the correct role and the address to use.
 
-```
+```text
 $ mkdir -p ./config/keys/FuseNetwork
 $ cp /path/to/my/key ./config/keys/FuseNetwork/
 $ echo "mysupersecretpassphrase" > ./config/pass.pwd
@@ -249,7 +249,7 @@ As part of validator's responsibilities in the network, two more containers need
 
 One is the [validator-app](https://github.com/fuseio/fuse-network/tree/master/app)
 
-```
+```text
 ## Start validator-app container with all necessary arguments.
 $ docker run \
     --detach \
@@ -261,7 +261,7 @@ $ docker run \
 
 Second one is the [bridge-oracle](https://github.com/fuseio/bridge-oracle)
 
-```
+```text
 $ wget -O docker-compose.yml https://raw.githubusercontent.com/fuseio/bridge-oracle/master/docker-compose.keystore.yml
 ## Start oracle container with all necessary arguments.
 $ docker-compose up \
@@ -280,7 +280,7 @@ In relation to the instructions for the [validator](https://github.com/fuseio/fu
 
 Afterwards the key will be placed there and the first steps of these instructions can be skipped.
 
-```
+```text
 $ mkdir ./config
 $ docker run -ti -v $(pwd)/config/:/config/custom fusenet/node --parity-args account new
 ```
@@ -295,28 +295,28 @@ Please copy it for the later use. It will be needed for the `--address` argument
 
 If you want to run a node to be used by the [blockscout explorer](https://github.com/fuseio/blockscout/tree/fuse) run the following command:
 
-```
+```text
 ## Start parity container with all necessary arguments.
 $ docker run \
-	--detach \
-	--name fusenet \
+    --detach \
+    --name fusenet \
     --volume $(pwd)/fusenet/database:/data \
     --volume $(pwd)/fusenet/config:/config/custom \
-	-p 30303:30300/tcp \
-	-p 30303:30300/udp \
-	-p 8545:8545 \
-	-p 8546:8546 \
-	--restart=on-failure \
-	fusenet/node \
-	--role explorer \
-	--parity-args --node-key $NODE_KEY
+    -p 30303:30300/tcp \
+    -p 30303:30300/udp \
+    -p 8545:8545 \
+    -p 8546:8546 \
+    --restart=on-failure \
+    fusenet/node \
+    --role explorer \
+    --parity-args --node-key $NODE_KEY
 ```
 
 _**Note**_
 
 All roles should also run a [Ethereum Network Intelligence API](https://github.com/fuseio/eth-net-intelligence-api) app as well, in order to connect themselves as part of the network and be viewed by the [health](https://health.fuse.io/) service
 
-```
+```text
 $ docker run \
     --detach \
     --name fusenetstat \
