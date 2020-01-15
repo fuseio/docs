@@ -56,7 +56,7 @@ After running the script, an account is created for you. You can find out your a
 * Send FUSE tokens to the same address, but on the Fuse network.
 
 {% hint style="warning" %}
-In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC: `https://rpc.fuse.io` using `chainId: 122.` [`How to add Fuse Network to your Metamask`](../../how-to-add-fuse-to-your-metamask.md)\`\`
+In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC using [Metamask](../../how-to-add-fuse-to-your-metamask.md) or [MEW](../../how-to-add-fuse-network-to-mew.md)
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
