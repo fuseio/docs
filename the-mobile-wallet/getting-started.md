@@ -2,6 +2,6 @@
 
 Download the Fuse wallet from the following links:
 
-* For iOS users: [https://testflight.apple.com/join/02P1laVr](https://testflight.apple.com/join/02P1laVr)
-* For Android users: [https://play.google.com/apps/testing/io.fusenet.fusewallet](https://play.google.com/apps/testing/io.fusenet.fusewallet)
+* For iOS users: [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://apps.apple.com/il/app/fuse-wallet/id1491783654)
+* For Android users: [https://play.google.com/store/apps/details?id=io.fuse.fusecash](https://play.google.com/store/apps/details?id=io.fuse.fusecash)
 
