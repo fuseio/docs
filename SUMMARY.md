@@ -32,6 +32,7 @@
 * [Overview](the-mobile-wallet/overview.md)
 * [Getting started](the-mobile-wallet/getting-started.md)
 * [FAQ](the-mobile-wallet/faq.md)
+* [What is DAI points?](the-mobile-wallet/what-is-dai-points.md)
 
 ## Links
 
