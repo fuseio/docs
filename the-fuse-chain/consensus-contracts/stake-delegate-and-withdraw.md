@@ -4,7 +4,7 @@ description: 'Guides on how to stake, delegate and withdraw using myetherwallet.
 
 # Stake, Delegate and Withdraw
 
-The basic requirement to become a Fuse chain validator is to have a stake amount of at least 3,000,000 Fuse tokens. The stake amount is the sum of staked and delegated Fuse tokens of the address. This guide walks trough the process of using MEW \(MyEtherWallet.com\) in the process of using Fuse network.
+The basic requirement to become a Fuse chain validator is to have a stake amount of at least 100,000 Fuse tokens. The stake amount is the sum of staked and delegated Fuse tokens of the address. This guide walks trough the process of using MEW \(MyEtherWallet.com\) in the process of using Fuse network.
 
 {% hint style="warning" %}
 **Roadmap** - Those functionalities will be built into our Studio and will not require any technical knowledge in the future.

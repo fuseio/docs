@@ -19,7 +19,7 @@ Stake amount for a validator is the sum of staked and delegated amount to its ad
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
 {% hint style="info" %}
-minimum stake amount = 3,000,000 Fuse token
+minimum stake amount = 100,000 Fuse token
 
 cycle duration blocks = 1440 \(approximately 2 hours\)
 
