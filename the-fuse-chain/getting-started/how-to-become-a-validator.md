@@ -54,18 +54,6 @@ Validators are the guardians of the network and are in charge of not only mainta
 
 ### How to become a validator?
 
-* Minimum of 3M tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 3M Fuse tokens needs to be locked in a contract to be eligible to become a validator.
-* You can pledge to be a validator or apply to be a strategic partner.
-
-|  |  |
-| :--- | :--- |
-| Max Vested tokens | 3M |
-| Vesting period | 2 years |
-| Starting with | 1M FUSE tokens |
-| Delegated tokens from Fuse to you | Completion to 3M |
-| Block rewards and transaction fees  | All goes to the validator |
-| After vesting period | No needs for Fuse delegation, all is vested. |
-| What is required from you | Pledge to run a validator for a year and run a community in the fuse studio |
-
+* Minimum of 100K tokens staked or delegated. In a DPoS blockchain it is required that all the validators have a staking requirement. The stake of 3M Fuse tokens needs to be locked in a contract to be eligible to become a validator.
 * Run a full node.
 
