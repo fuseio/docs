@@ -22,7 +22,7 @@ The Fuse chain is a public payments network bridged to Ethereum. The Fuse chain 
 The Fuse studio community launch wizard provides the following options for enterpreneues:
 
 * **A mintable burnable token** - This option creates a community around a token that can be issued and burned by commnity manager. This is intended to act as an IOU inside a specific community. Usually with tokens like this the issuer \(who is you\) is providing the backing and the convertibility for the coin so this is intended for small scale communities and more advanced users. This token has no cap and any amount could be created or destroyed.
-* **One time issuance** - This option creates a token similar to Bitcoin. As it has only
+* **One time issuance** - This option creates a token similar to Bitcoin. As it has a cap and can bit minted only once. This is meant to create digital scarcity and increase trust with the issuers by cryptographically limiting the ability to mint more coins.
 * **Existing tokens** - Community manager don't necessarily need to be the issuer of their own currency and they can use any compatible existing currencies like DAI, USDC or any other stablecoin on Ethereum. We added DAI as the first stable coin to integrate to Fuse with many more to come soon! The Dai is added as the default currency of the community and can be used on the Fuse chain and as a part of you community with almost no effort.
 
 
