@@ -94,7 +94,7 @@ Use: `0x5c19a95c000000000000000000000000b8ce4a040e8aa33bbe2de62e92851b7d7afd52de
 `b8ce4a040e8aa33bbe2de62e92851b7d7afd52de`in this example is an address you're delegating to \(without the `0x` prefix\)
 {% endhint %}
 
-### Step 6: Wait for 24 hours.
+### Step 6: Wait for 1 cycle \(approximately 48 hours\).
 
 Wait until the next cycle is started.
 
