@@ -4,7 +4,7 @@ description: Welcome to the documentation portal for the Fuse network
 
 # Welcome!
 
-Fuse is a new way to launch services and reach customers on the blockchain. It allows entrepreneurs to integrate everyday payments into their business. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability. 
+Fuse is a new way to launch services and reach customers on the blockchain. It allows entrepreneurs to integrate everyday payments into their business. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability.  
 
 You should read this if your are:
 
