@@ -1,4 +1,4 @@
-# Overview
+# Studio overview
 
 Fuse Studio is a DApp \(Decentralized App\) running on the Ethereum and Fuse networks.  It allows anybody with no technical knowledge to launch a community and integrate a token into it. With Fuse studio, a token is easily minted on Ethereum using a friendly wizard. And then moved trough the bridge to the Fuse-chain to add features to it and manage it.  
   
@@ -37,6 +37,8 @@ The plugins are used to customize the community to your special needs. They can 
 
 * Business list - allows you to add businesses to you community. Businesses are entities list members with special role.
 * Join bonus - new community members will receive a join bonus.
+* Fiat Ramp - Currently integrated to [Transak ](https://transak.com/)and [Moonpay ](https://www.moonpay.io/)to allow deposit and withdraw using Bank accounts and payment cards.
+* More plug-ins coming soon.
 
 
 

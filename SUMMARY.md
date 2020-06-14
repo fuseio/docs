@@ -2,30 +2,32 @@
 
 * [Welcome!](README.md)
 * [Fuse overview](fuse-overview.md)
-* [How to add Fuse Network to your Metamask](how-to-add-fuse-to-your-metamask.md)
-* [How to add Fuse Network to MEW](how-to-add-fuse-network-to-mew.md)
 
-## Fuse Chain <a id="the-fuse-chain"></a>
+## Fuse Network basics <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
-* [Getting started as a validator](the-fuse-chain/getting-started/README.md)
-  * [Becoming a validator](the-fuse-chain/getting-started/how-to-become-a-validator.md)
-  * [Running a node](the-fuse-chain/getting-started/run-your-own-validator.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
-* [Fuse Testnet](the-fuse-chain/fuse-testnet.md)
 
-## Fuse Studio <a id="the-fuse-studio"></a>
+## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
-* [Overview](the-fuse-studio/overview.md)
-* [Getting started](the-fuse-studio/getting-started/README.md)
+* [Studio overview](the-fuse-studio/overview.md)
+* [Studio tutorials & walktroughs](the-fuse-studio/getting-started/README.md)
+  * [How to add Fuse Network to your Metamask](the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)
   * [Using the studio for free on Ropsten](the-fuse-studio/getting-started/using-the-studio-for-free-on-ropsten.md)
+  * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
 * [FAQ](the-fuse-studio/faq.md)
 * [Backend API](the-fuse-studio/api.md)
 * [Fuse studio contracts](the-fuse-studio/fuse-studio-contracts.md)
+
+## Become a validator
+
+* [Validation overview](become-a-validator/how-to-become-a-validator.md)
+* [Getting started as a validator](become-a-validator/getting-started.md)
+* [How to run a node?](become-a-validator/run-your-own-validator.md)
 
 ## Fuse Wallet <a id="the-mobile-wallet"></a>
 

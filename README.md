@@ -12,7 +12,7 @@ You should read this if your are:
   * I want to launch a community on Fuse! - Go to the [_Fuse Studio documentation_](the-fuse-studio/overview.md) __
   * I want to know how the network works - Go to [_Fuse network overview_](the-fuse-chain/overview.md)\_\_
 * **Somewhat technical** 
-  * I want to be a validator on  - Go to [_Fuse validator guide_](the-fuse-chain/getting-started/how-to-become-a-validator.md)\_\_
+  * I want to be a validator on  - Go to [_Fuse validator guide_](become-a-validator/how-to-become-a-validator.md)\_\_
   * I want to learn about the wallet and it's benefits - [_Go to wallet overview_](the-mobile-wallet/overview.md)\_\_
 * **I am a developer**
   * I want to integrate! - Go to our [_API reference_](the-fuse-studio/api.md)\_\_
