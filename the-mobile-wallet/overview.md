@@ -1,4 +1,4 @@
-# Overview
+# White label wallet
 
 The Fuse wallet is a cross platform \(for iOS and Android\) Ethereum wallet written in Dart and built on [Flutter](http://https//flutter.dev/). It's running on to the Fuse network, but can be plugged into any EVM compatible blockchain.
 
