@@ -14,7 +14,7 @@ Via the DApp you can access to the contracts and the services of the Fuse networ
 
 The logic is defined by Ethereum smart contracts compatible smart contracts and backend services that listen to the events on the blockchain. We prefer to use the Fuse chain for fast and cheap transactions, but some significant events are necessary to happen on the Ethereum network, as a gateway to the whole ecosystem. We do not own user private data, it is controlled by the user itself via 3box and stored in IPFS.
 
-![Fuse Studio architecture](../.gitbook/assets/image%20%282%29.png)
+![Fuse Studio architecture](../.gitbook/assets/image%20%283%29.png)
 
 ## Backend Infrastructure
 

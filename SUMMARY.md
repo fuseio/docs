@@ -12,6 +12,7 @@
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
+* [FIPS](the-fuse-chain/fips.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
