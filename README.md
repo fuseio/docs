@@ -4,9 +4,11 @@ description: Welcome to the documentation portal for the Fuse network
 
 # Welcome!
 
-**Fuse is a network tailor made for local communities and used to power day-to-day payments and used by any person with a phone. It’s designed to be a cheap alternative to traditional cash or cashless payment. It lowers the barriers for entrepreneurs to launch wallets, payments services, loyalty programs, and any other systems that were previously powered by paper.**
+**Fuse network** is tailor made for local communities and used to power day-to-day payments that can be used by any person with a phone. It’s designed to be a cheap alternative to traditional cash or cashless payments. It lowers the barriers for entrepreneurs to launch wallets, payments services, loyalty programs, and any other systems that were previously powered by paper.
 
-Fuse provides a new way to launch services and reach customers using payment wallets. It allows entrepreneurs to integrate everyday payments into their business. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability.  
+**Moving money on Fuse cost a fixed fee of up to 1 cent US Dollar per transaction.** The network is designed to have an easy to use and understand model that is ready for mainstream adoption and superior to existing alternatives.
+
+Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability.  
 
 You should read this if your are:
 
@@ -22,6 +24,7 @@ You should read this if your are:
   * Check us out on [_Github_ ](https://github.com/fuseio)
 
 {% hint style="info" %}
+Join our [Telegram group](https://t.me/fuseio)  
 Join the chat on [_Discord_](https://discord.gg/dk4qWA)  
 Or say hello at: hello@fuse.io
 {% endhint %}
