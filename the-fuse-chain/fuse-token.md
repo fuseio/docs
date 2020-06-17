@@ -15,6 +15,20 @@ The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and
 * **Fees** The Fuse token is the native currency on the Fuse blockchain and is required to pay fees to the network in order to approve a transaction.
 * **Delegation - Activated Q3 2020** Delegation for token holders will be activated. This will allow any Fuse token holder to delegate their tokens to a validator to split with their rewards. Validators compete between themselves to receive delegated Fuse from token holders. Validators with the most delegated Fuse tokens are elected to validate on Fuse.
 
+
+
+### **Inflation**
+
+* 5% inflation in the network is distributed between the validators. Each cycle \(A cycle is all transactions conducted in 48 hours\) the validators with the highest amount of Fuse tokens staked will split the rewards based on their stake.
+* A fixed inflation rate also helps with stabilization of the token price. At phase 2 of the network an upgrade to a differential inflation schedule will be proposed and voted on by the validators to optimize the inflation/fee price policy. 
+* Large users on Fuse can participate more closely in the governance and the operation of the network and plan ahead so instead of having high operation costs, they can become a stakeholder and benefit from the network’s growth. 
+
+### **Fees** 
+
+* The network charges fees on every transaction that goes to the validators and is capped at 1 cent $ per transaction.
+* While the network has unfilled blocks the cost per transaction will be lower than 1 cent. 
+* The fee cost per transaction in Fuse will be adjusted to be worth 1 cent US dollar once the blocks will start to fill up. At this stage simple transfer transactions will be moved off-chain using second layer technics.
+
 {% hint style="info" %}
 * Watch our token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
 * Check out the [Fuse explorer](https://explorer.fuse.io/)
