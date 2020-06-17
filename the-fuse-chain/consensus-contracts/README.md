@@ -4,6 +4,10 @@ description: An overview of the network's contracts with descriptions and links
 
 # Fuse chain consensus
 
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Fuse network is using a  Delegated Proof of Stake \(DPoS\) consensus model, which may sound complex but it's not. DPoS consensus is a variation of Proof of Stake, in PoS there's a set of validators that responsible to keep the network updated and validate the network's state. They do this in turns, every validator got his turn in line and on his turn the validator supposed to update the network's state, while rest of the validators check that the update is valid.
+
+But being a validator is a tricky business, in addition to staking Fuse,  you need to run a validator software and be responsible for the uptime. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator that will perform the validation for him, while getting part of the reward according to the predefined agreement.
+
 {% hint style="info" %}
 All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts)
 {% endhint %}
