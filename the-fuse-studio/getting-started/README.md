@@ -11,5 +11,7 @@ You can also use our testnet environment by switching to Ropsten network on your
 [Here ](https://faucet.ropsten.be/)you can find a Ropsten faucet to get some Ether on Ropsten.
 {% endhint %}
 
-
+{% hint style="info" %}
+You can access more tutorials on our Youtube channel - [here](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA/videos?view_as=subscriber)
+{% endhint %}
 
