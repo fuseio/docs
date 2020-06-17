@@ -1,8 +1,12 @@
 # Studio overview
 
-Fuse Studio is a DApp \(Decentralized App\) running on the Ethereum and Fuse networks.  It allows anybody with no technical knowledge to launch a community and integrate a token into it. With Fuse studio, a token is easily minted on Ethereum using a friendly wizard. And then moved trough the bridge to the Fuse-chain to add features to it and manage it.  
+Fuse Studio is a DApp \(Decentralized App\) running on the Ethereum and Fuse networks.  It allows anybody with no technical knowledge to launch a community and integrate a token into it. With Fuse studio, a token is easily minted on Ethereum using a friendly wizard. And then moved trough the bridge to the Fuse-chain to add features to it and manage it.
+
+  
   
 Via the DApp you can access to the contracts and the services of the Fuse network. You can launch your community on the Fuse network with a token bridged to Ethereum, intergate web3.0 services from the DeFi \(Decentralized Finance\) ecosystem. The community is upgraded by a variety of plugins that customize the community to your needs. It allows you to:
+
+![](../.gitbook/assets/image%20%284%29.png) 
 
 * Add to your community users, business, admins and more tailor made roles
 * Define transfer and bonus rules for the community members
