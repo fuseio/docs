@@ -8,10 +8,22 @@ Thus the token is used behind the scenes to align interests between all it's hol
 
 The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and can be moved between the Fuse chain and Ethereum using the bridge.
 
+| **Validation** |
+| :--- |
+| Token holders can stake Fuse to become a validator. The minimal staking requirement is 100K, currently 40 validators operate the network \([https://health.fuse.io/](https://health.fuse.io/)\) |
+| **Voting** |
+| Validtor vote on protocol changes with the staked Fuse. Which means validators with higher amounts of Fuse staked can have a bigger vote on network upgrades and governance changes \(until phase 2 where delegation is activated\) |
+| **Fees** |
+| The Fuse token is the native currency on the Fuse blockchain and is required to pay fees to the network in order to approve a transaction.  |
+| **Delegation - Activated Q3 2020** |
+| Delegation for token holders will be activated. This will allow any Fuse token holder to delegate their tokens to a validator to split with their rewards. Validators compete between themselves to receive delegated Fuse from token holders. Validators with the most delegated Fuse tokens are elected to validate on Fuse. |
+| **Lock-up contract - Activated Q3 2020** |
+| In the course of the first year after the sale users that delegate while locking their tokens for more than a year can up to double their rewards for staking. |
+
 {% hint style="info" %}
-* Watch our token on [_Etherscan_](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\_\_
-* \_\_[_Fuse explorer_](https://explorer.fuse.io/)\_\_
-* \_\_[_Get Fuse token_](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)\_\_
+* Watch our token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
+* Check out the [Fuse explorer](https://explorer.fuse.io/)
+* [Get Fuse token](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d) - [Uniswap](https://uniswap.exchange/swap?outputCurrency=0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
 {% endhint %}
 
 \_\_
