@@ -1,6 +1,6 @@
 # Overview
 
-The Fuse chain is an Ethereum sidechain designed specifically to replace traditional means of exchange and make payments on the blockchain more accessible for mainstream audiences. The network is operated by validators which are organizations that are running nodes that can validate transactions and execute smart contracts get paid in the Fuse token.
+The Fuse chain is an Ethereum sidechain designed specifically to replace traditional means of exchange and make payments on the blockchain more accessible for mainstream audiences. The network is operated by validators which are organizations that are running nodes that validate transactions and execute smart contracts. Validators get paid in the Fuse token.
 
 The network validators are companies taking part in building the Fuse software stack.
 
