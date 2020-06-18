@@ -4,9 +4,9 @@ description: An overview of the network's contracts with descriptions and links
 
 # Fuse chain consensus
 
-Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Fuse network is using a  Delegated Proof of Stake \(DPoS\) consensus model, which may sound complex but it's not. DPoS consensus is a variation of Proof of Stake, in PoS there's a set of validators that responsible to keep the network updated and validate the network's state. They do this in turns, every validator got his turn in line and on his turn the validator supposed to update the network's state, while rest of the validators check that the update is valid.
+Consensus is a fault-tolerant mechanism that is used in blockchain systems to achieve the necessary agreement on the single state of the network. Fuse network is using a  Delegated Proof of Stake \(DPoS\) consensus model, which may sound complex but it's not. DPoS consensus is a variation of Proof of Stake. In PoS there are a set of validators that are responsible for keeping the network updated and validating the network's state. They do this in turns, every validator has their turn in line. On their turn the validator updates the network's state, and the rest of the validators check that the update is valid.
 
-But being a validator is a tricky business, in addition to staking Fuse,  you need to run a validator software and be responsible for the uptime. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator that will perform the validation for him, while getting part of the reward according to the predefined agreement.
+Being a validator is technically complex. In addition to staking Fuse, validators need to run specialist software and have 100% uptime hardware. To lower the bar and allow anyone to take part and ownership of the network, the DPoS consensus mechanism was introduced. With Delegated Proof of Stake consensus mechanism, a token holder can delegate his validation rights to a third-party validator who will perform the validation for them, while getting part of the reward according to the predefined agreement.
 
 {% hint style="info" %}
 All the contracts in this section are available on our [Github](https://github.com/fuseio/fuse-network/tree/master/contracts)
@@ -14,11 +14,11 @@ All the contracts in this section are available on our [Github](https://github.c
 
 ## [Consensus - 0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79](https://explorer.fuse.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79)
 
-This contract is responsible for handling the network DPos consensus. The contract is storing the current validator set and choosing a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
+This contract is responsible for handling the network DPos consensus. The contract stores the current validator set and chooses a new validator set at the end of each cycle. The logic for updating the validator set is to select a random snapshot from the snapshots taken during the cycle.
 
-The snapshots taken, are of pending validators, who are those which staked more than the minimum stake needed to become a network validator. Therefore the contract is also responsible for staking, delegating and withdrawing those funds.
+The snapshots are taken of pending validators, who are those which staked more than the minimum stake needed to become a network validator. Therefore the contract is also responsible for staking, delegating and withdrawing those funds.
 
-Stake amount for a validator is the sum of staked and delegated amount to its address.
+Stake amount for a validator is the sum of staked and delegated amount to it's address.
 
 This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki](https://wiki.parity.io/Validator-Set.html#non-reporting-contract).
 
