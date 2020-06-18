@@ -25,7 +25,6 @@ You should read this if your are:
 
 {% hint style="info" %}
 Join our [Telegram group](https://t.me/fuseio)  
-Join the chat on [_Discord_](https://discord.gg/dk4qWA)  
 Or say hello at: hello@fuse.io
 {% endhint %}
 
