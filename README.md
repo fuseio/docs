@@ -8,12 +8,12 @@ description: Welcome to the documentation portal for the Fuse network
 
 **Moving money on Fuse cost a fixed fee of up to 1 cent US Dollar per transaction.** The network is designed to have an easy to use and understand model that is ready for mainstream adoption and superior to existing alternatives.
 
-Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability.  
+Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost to launch and operate micro-finance services which are non-custodial and leverage from the shared business processes blockchains provide. Fuse goal is to lower the bar for entrepreneurs to build products so they spend less money on IT and focus more on reaching clients and sustainability.
 
 You should read this if your are:
 
 * **Non-technical** 
-  * I want to launch a community on Fuse! - Go to the [_Fuse Studio documentation_](the-fuse-studio/overview.md) __
+  * I want to launch a community on Fuse! - Go to the [_Fuse Studio documentation_](the-fuse-studio/overview.md) \_\_
   * I want to know how the network works - Go to [_Fuse network overview_](the-fuse-chain/overview.md)\_\_
 * **Somewhat technical** 
   * I want to be a validator on  - Go to [_Fuse validator guide_](become-a-validator/how-to-become-a-validator.md)\_\_
@@ -27,6 +27,4 @@ You should read this if your are:
 Join our [Telegram group](https://t.me/fuseio)  
 Or say hello at: hello@fuse.io
 {% endhint %}
-
-
 
