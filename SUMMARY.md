@@ -10,6 +10,7 @@
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
+  * [End-of-Cycle flow](the-fuse-chain/consensus-contracts/end-of-cycle-flow.md)
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
 * [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
 * [FIPS](the-fuse-chain/fips.md)
