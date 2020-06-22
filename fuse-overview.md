@@ -1,5 +1,7 @@
 # Fuse overview
 
+![](.gitbook/assets/fuse.png)
+
 ## What is the Fuse network?
 
 The Fuse network is a permissionless and border-less public ledger designed for easy integration of everyday payments. It's anchored to Ethereum using a bridge which allows any token to freely move between Ethereum and the Fuse-chain. A Token is minted on Ethereum and then moved to the Fuse-chain, where it gets access to a wide range of features and business plugins that brings it to life.
@@ -10,7 +12,7 @@ The Fuse Studio allows users to easily launch and operate new communities, with 
 
 ## The Fuse software stack
 
-![](.gitbook/assets/image%20%281%29.png)
+![](.gitbook/assets/fuse-network-architecture2.jpg)
 
 ## What is the status of the network?
 
