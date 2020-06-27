@@ -34,3 +34,11 @@ Ethereum bridge - [0x3014ca10b91cb3D0AD85fEf7A3Cb95BCAc9c0f79](https://etherscan
 Fuse token on Ethereum - [0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d](https://etherscan.io/token/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
 {% endhint %}
 
+**Using the bridge**
+
+**Transfering from Ethereum mainnet to Fusenet** - send your erc20 Fuse tokens to the Ethereum bridge for them to be released from the Fuse chain bridge and be avaliable in your native Fuse wallet.
+
+**Transfering from Fusenet to Ethereum mainnet** - send your Native Fuse tokens to the Fuse chain bridge for them to be released from the mainnet bridge and be avaliable in your Mainnet wallet. *Note: there is currently a minimum transfer amount of 30000 Fuse across the Fuse chain bridge*
+
+
+
