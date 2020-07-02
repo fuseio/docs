@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Fuse.io](README.md)
 * [Fuse overview](fuse-overview.md)
 
 ## Fuse Network basics <a id="the-fuse-chain"></a>
