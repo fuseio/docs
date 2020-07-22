@@ -14,8 +14,10 @@ The basic requirement to become a Fuse chain validator is to have a stake amount
 
 There are two options to stake \(both should be called from the address which would be the validator\)
 
-1. Send Fuse tokens to the [consensus contract](https://explorer.fuse.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79)
-2. Call the \`stake\` function on the [consensus contract](https://explorer.fuse.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79)
+1. Send Fuse tokens to the [consensus contract](https://explorer.fuse.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) - 0x3014ca10b91cb3D0AD85fEf7A3Cb95BCAc9c0f79 on the fuse network.
+2. Call the \`stake\` function on the [consensus contract](https://explorer.fuse.io/address/0x3014ca10b91cb3d0ad85fef7a3cb95bcac9c0f79) - 0x3014ca10b91cb3D0AD85fEf7A3Cb95BCAc9c0f79 on the fuse network
+
+ 
 
 ## Delegate
 

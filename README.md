@@ -4,15 +4,13 @@ description: Welcome to the documentation portal for the Fuse network
 
 # Fuse.io
 
-
-
 ![](.gitbook/assets/rocket-illuss.jpg)
 
-The **Fuse Network** is tailor made for local communities and used to power day-to-day mobile payments for any person with a phone. 
+The **Fuse Network** is tailor made for local communities and used to power day-to-day mobile payments for any person with a phone.
 
 It’s designed to be a very low-cost alternative to traditional cash or cashless payments. It lowers the barriers of entry for entrepreneurs to launch wallets, payments services, loyalty programs, and any other systems that were previously powered by paper.
 
-**Moving money on Fuse costs a fixed fee of _up to_ US Dollar 1 cent (max $0.01) per transaction.** The network is designed to have an easy to use and understandable model that is ready for mainstream adoption and far more effective than existing alternatives.
+**Moving money on Fuse costs a fixed fee of** _**up to**_ **US Dollar 1 cent \(max $0.01\) per transaction.** The network is designed to have an easy to use and understandable model that is ready for mainstream adoption and far more effective than existing alternatives.
 
 Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost to launch and operate non-custodial micro-finance and micro-transaction services. It leverages the powerful shared business processes that blockchains provide.
 
