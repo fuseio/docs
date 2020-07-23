@@ -8,7 +8,7 @@ In order to start using the Fuse Studio all you need to have is a Metamask walle
 
 {% hint style="info" %}
 You can also use our testnet environment by switching to Ropsten network on your Metamask.  
-[Here ](https://faucet.ropsten.be/)you can find a Ropsten faucet to get some Ether on Ropsten.
+[Here](https://faucet.ropsten.be/) you can find a Ropsten faucet to get some Ether on Ropsten.
 {% endhint %}
 
 {% hint style="info" %}
