@@ -25,6 +25,8 @@ _Fuse provides three separate layers of technology, all playing an essential rol
 **Fuse wallet** is an easy to use mobile application that anyone can download and join of the any of the thousands of micro-economies running on Fuse.   
 ****
 
+![](../.gitbook/assets/stack-faq.jpg)
+
 ## **What is the Fuse Studio?**
 
 The Fuse Studio is a smart contract platform built on top of Ethereum intended for entrepreneurs and community leaders. Built with multiple plugins and customizable settings, any individual in a few simple steps can create their own digital wallet and mint their own custom branded currency allowing companies and communities to execute secure and free mobile payments with ease.   
