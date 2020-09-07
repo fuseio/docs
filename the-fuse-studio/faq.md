@@ -5,6 +5,10 @@
   
 ****Fuse is a payment network that utilizes the power of blockchain technology to provide a secure and low-cost way for businesses and communities to transact. The Fuse network enables entrepreneurs and community leaders around the world to turn their existing communities into thriving economies by providing them the tools to build and maintain their own custom-branded mobile wallet and currency. 
 
+Currently for a company or community to enter the mobile payment space they are dependent on existing players such as PayPal and Stripe or they can build their own payment system from scratch. Both these options pose a great challenge to many entities who want to utilize mobile payments. Companies such as PayPal and Stripe charge upwards of 3% per transaction and don't allow for individual customization options while building your own payment system produces a huge technical and monetary burden to build. 
+
+Fuse solves these issues by providing a three-layer technology stack that allows anyone to create their own custom branded currency and wallet without the technical barrier and without high transaction fees. Fees on the Fuse network are at most $0.01!
+
 _Fuse provides three separate layers of technology, all playing an essential role in the Fuse network._ 
 
 #### **Layer 1**
