@@ -46,3 +46,7 @@
 * [Discord channel](https://discord.gg/dk4qWA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
 
+---
+
+* [Wallet Tutorials](wallet-tutorials.md)
+
