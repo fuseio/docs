@@ -43,7 +43,11 @@
 
 ## Links
 
-* [Discord channel](https://discord.gg/dk4qWA)
+* [DIscord](https://discord.com/invite/jpPMeSZ)
+* [GitHub](https://github.com/fuseio)
+* [Medium](https://medium.com/fusenet)
+* [Telegram Discussion](https://t.me/fuseio)
+* [Twitter](https://twitter.com/fuse_network)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
 
 ---
