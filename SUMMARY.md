@@ -44,7 +44,9 @@
 ## Links
 
 * [DIscord](https://discord.com/invite/jpPMeSZ)
+* [Facebook](https://www.facebook.com/fuseio)
 * [GitHub](https://github.com/fuseio)
+* [LinkedIn](https://www.linkedin.com/company/fuseio/)
 * [Medium](https://medium.com/fusenet)
 * [Telegram Discussion](https://t.me/fuseio)
 * [Twitter](https://twitter.com/fuse_network)
