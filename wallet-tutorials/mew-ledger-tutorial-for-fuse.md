@@ -4,7 +4,7 @@ description: >-
   transfer FUSE.
 ---
 
-# MEW Ledger tutorial for FUSE
+# Ledger tutorial for FUSE
 
 This tutorial was made using Ledger Nano S with firmware version 1.6.1 and Ethereum app version on Ledger Nano S was 1.3.7.
 
