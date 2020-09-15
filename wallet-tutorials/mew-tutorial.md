@@ -1,7 +1,7 @@
 ---
 description: >-
-  This tutorial explains how to use your MyEtherWallet (MEW) so that you can
-  view and transfer FUSE.
+  This tutorial explains how to use MyEtherWallet (MEW) so that you can view and
+  transfer FUSE.
 ---
 
 # MEW Tutorial
