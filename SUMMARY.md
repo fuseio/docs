@@ -43,12 +43,12 @@
 
 ## Links
 
-* [DIscord](https://discord.com/invite/jpPMeSZ)
+* [Discord](https://discord.com/invite/jpPMeSZ)
 * [Facebook](https://www.facebook.com/fuseio)
 * [GitHub](https://github.com/fuseio)
 * [LinkedIn](https://www.linkedin.com/company/fuseio/)
 * [Medium](https://medium.com/fusenet)
-* [Telegram Discussion](https://t.me/fuseio)
+* [Telegram](https://t.me/fuseio)
 * [Twitter](https://twitter.com/fuse_network)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
