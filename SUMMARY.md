@@ -56,6 +56,7 @@
 ---
 
 * [Wallet Tutorials](wallet-tutorials/README.md)
-  * [MEW Tutorial](wallet-tutorials/mew-tutorial.md)
   * [Ledger tutorial for FUSE](wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
+  * [MEW Tutorial](wallet-tutorials/mew-tutorial.md)
+  * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
 
