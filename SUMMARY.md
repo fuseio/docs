@@ -59,4 +59,5 @@
   * [Ledger tutorial for FUSE](wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
   * [MEW Tutorial](wallet-tutorials/mew-tutorial.md)
   * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
+  * [Tutorial to store FUSE\(Fusenet\) on Ledger](wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
 
