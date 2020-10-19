@@ -45,9 +45,9 @@ _Fuse provides three separate layers of technology, all playing an essential rol
 The Fuse Studio is a smart contract platform built on top of Ethereum intended for entrepreneurs and community leaders. Built with multiple plugins and customizable settings, any individual in a few simple steps can create their own digital wallet and mint their own custom branded currency allowing companies and communities to execute secure and free mobile payments with ease.   
 ****
 
-## **How is Fuse different from PayPay, Square, Stripe etc.?** 
+## **How is Fuse different from PayPal, Square, Stripe etc.?** 
 
-On Fuse, there is no central authority or intermediary. No one but the user holds their funds. Verified by Fuse’s DPos blockchain there is no need for trust in a 3rd party. And since there's no 3rd party involved looking to earn money, fees on the Fuse Network are extremely low. 1 cent USD per transaction at most as opposed to the 2-5% fees that many payment systems charge. 
+On Fuse, there is no central authority or intermediary. No one but the user holds their funds. Verified by Fuse’s DPoS blockchain there is no need for trust in a 3rd party. And since there's no 3rd party involved looking to earn money, fees on the Fuse Network are extremely low. 1 cents per transaction at most as opposed to the 2-5% fees that many payment systems charge. 
 
 Additionally many payment systems like PayPal do not allow for any customization. You need to use their platform with the predefined framework they built for you. On Fuse you get to mint your own token and customize your economy and wallet with a wide array of different plugins. 
 
