@@ -18,7 +18,7 @@
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
 * [Studio overview](the-fuse-studio/overview.md)
-* [Studio tutorials & walktroughs](the-fuse-studio/getting-started/README.md)
+* [Studio tutorials & walkthroughs](the-fuse-studio/getting-started/README.md)
   * [Difference between using Ethereum Mainnet and Ethereum Ropsten](the-fuse-studio/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
   * [Setting up Metamask and Torus](the-fuse-studio/getting-started/setting-up-metamask-and-torus.md)
   * [Community Creation Tutorial](the-fuse-studio/getting-started/community-creation-tutorial.md)
