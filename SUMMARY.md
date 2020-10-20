@@ -61,3 +61,7 @@
   * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
   * [Tutorial to store FUSE\(Fusenet\) on Ledger](wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
 
+## Bridge Tutorial
+
+* [Wrap ERC20 tokens to Fusenet and Unwrap back to ERC20](bridge-tutorial/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+
