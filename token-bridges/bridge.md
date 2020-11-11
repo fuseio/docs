@@ -1,3 +1,7 @@
+---
+description: This tutorial explains how to transfer
+---
+
 # Bridge between Fuse chain & Ethereum
 
 The bridge, based on POA's bridge implementation, is used to transfer Fuse tokens between the Fuse chain and the Ethereum network.

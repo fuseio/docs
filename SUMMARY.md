@@ -12,7 +12,6 @@
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
   * [End-of-Cycle flow](the-fuse-chain/consensus-contracts/end-of-cycle-flow.md)
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
-* [Bridge between Fuse chain & Ethereum](the-fuse-chain/bridge.md)
 * [FIPS](the-fuse-chain/fips.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
@@ -60,8 +59,8 @@
   * [MEW Tutorial](wallet-tutorials/mew-tutorial.md)
   * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
   * [Tutorial to store FUSE\(Fusenet\) on Ledger](wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
-
-## Bridge Tutorial
-
-* [Wrap ERC20 tokens to Fusenet and Unwrap back to ERC20](bridge-tutorial/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+* [Token Bridges](token-bridges/README.md)
+  * [Bridge between Fuse chain & Ethereum](token-bridges/bridge.md)
+  * [Bridge for ERC20 tokens](token-bridges/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+* [Staking tutorial](staking-tutorial.md)
 

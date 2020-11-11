@@ -2,7 +2,7 @@
 description: Steps to transfer/wrap ERC20 tokens from Ethereum to Fusenet
 ---
 
-# Wrap ERC20 tokens to Fusenet and Unwrap back to ERC20
+# Bridge for ERC20 tokens
 
 Please use this tutorial at your own risk as it involves using Etherscan UI/Fuse explorer to relay the tokens.
 
