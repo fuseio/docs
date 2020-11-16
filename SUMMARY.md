@@ -63,4 +63,5 @@
   * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
   * [Tutorial to store FUSE\(Fusenet\) on Ledger](wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
 * [Staking tutorial](staking-tutorial.md)
+* [Staking tutorial using Ledger](staking-tutorial-using-ledger.md)
 

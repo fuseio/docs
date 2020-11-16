@@ -4,6 +4,8 @@ description: This tutorial will explain how to delegate/stake/unstake your FUSE.
 
 # Staking tutorial
 
+Note: You can only stake FUSE which is on Fuse network. Please make sure you have changed into Fuse network in Metamask while doing any transactions on staking UI. 
+
 How to Stake Fuse:
 
 **Step 1:**
