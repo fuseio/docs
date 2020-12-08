@@ -16,6 +16,7 @@
 * [Token Bridges](the-fuse-chain/token-bridges/README.md)
   * [Bridge between Fuse chain & Ethereum](the-fuse-chain/token-bridges/bridge.md)
   * [Bridge for ERC20 tokens](the-fuse-chain/token-bridges/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+  * [Transfer FUSE using Bridge on Fuseswap](the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
