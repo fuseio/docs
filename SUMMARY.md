@@ -66,3 +66,7 @@
 * [Staking tutorial](staking-tutorial.md)
 * [Staking tutorial using Ledger](staking-tutorial-using-ledger.md)
 
+## Fuseswap
+
+* [Adding liquidity](fuseswap/adding-liquidity.md)
+
