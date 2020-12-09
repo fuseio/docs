@@ -6,5 +6,5 @@ Advantages of using Fuseswap :
 
 * Gas fees restricted to $0.01 for any transactions.
 * Block confirmations much faster than Ethereum chain. 
-* You can create your own community token on Fuse studio and add liquidity for your community token on Fuseswap. 
+* You can create your community token on Fuse studio and add liquidity for that community token on Fuseswap. 
 
