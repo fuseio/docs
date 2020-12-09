@@ -14,9 +14,9 @@
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
 * [FIPS](the-fuse-chain/fips.md)
 * [Token Bridges](the-fuse-chain/token-bridges/README.md)
-  * [Bridge between Fuse chain & Ethereum](the-fuse-chain/token-bridges/bridge.md)
-  * [Bridge for ERC20 tokens](the-fuse-chain/token-bridges/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
-  * [Transfer FUSE using Bridge on Fuseswap](the-fuse-chain/token-bridges/transfer-fuse-using-bridge-on-fuseswap.md)
+  * [Bridge tutorials](the-fuse-chain/token-bridges/bridge-tutorials/README.md)
+    * [Transfer FUSE or ERC20 using Bridge on Fuseswap](the-fuse-chain/token-bridges/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
+    * [Using the bridge with ERC20 tokens directly through the contract](the-fuse-chain/token-bridges/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
@@ -44,6 +44,22 @@
 * [White label wallet](the-mobile-wallet/overview.md)
 * [Backend API](the-mobile-wallet/api.md)
 
+## Fuseswap
+
+* [Overview](fuseswap/overview.md)
+* [Adding liquidity](fuseswap/adding-liquidity.md)
+* [Bridge FUSE/ERC20 tokens](fuseswap/bridge-fuse-erc20-tokens.md)
+
+## Tutorials
+
+* [Wallet Tutorials](tutorials/wallet-tutorials/README.md)
+  * [Ledger tutorial for FUSE](tutorials/wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
+  * [MEW Tutorial](tutorials/wallet-tutorials/mew-tutorial.md)
+  * [Trust wallet tutorial](tutorials/wallet-tutorials/wallet-tutorials.md)
+  * [Tutorial to store FUSE\(Fusenet\) on Ledger](tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
+* [Staking tutorial](tutorials/staking-tutorial.md)
+* [Staking tutorial using Ledger](tutorials/staking-tutorial-using-ledger.md)
+
 ## Links
 
 * [Discord](https://discord.com/invite/jpPMeSZ)
@@ -55,18 +71,4 @@
 * [Twitter](https://twitter.com/fuse_network)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
-
----
-
-* [Wallet Tutorials](wallet-tutorials/README.md)
-  * [Ledger tutorial for FUSE](wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
-  * [MEW Tutorial](wallet-tutorials/mew-tutorial.md)
-  * [Trust wallet tutorial](wallet-tutorials/wallet-tutorials.md)
-  * [Tutorial to store FUSE\(Fusenet\) on Ledger](wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
-* [Staking tutorial](staking-tutorial.md)
-* [Staking tutorial using Ledger](staking-tutorial-using-ledger.md)
-
-## Fuseswap
-
-* [Adding liquidity](fuseswap/adding-liquidity.md)
 
