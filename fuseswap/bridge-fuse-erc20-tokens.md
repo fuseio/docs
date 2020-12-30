@@ -4,7 +4,7 @@
 
 **Step 1:**
 
-Navigate to www.fuseswap.com . The interface will look like as shown below
+Navigate to [https://fuseswap.com](https://fuseswap.com). The interface will look like as shown below.
 
 ![](../.gitbook/assets/0%20%286%29.png)
 
@@ -18,7 +18,7 @@ Click on **“Bridge”**, Select **“FUSE”** from dropdown and enter the amo
 
 ![](../.gitbook/assets/2%20%289%29.png)
 
-Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the FUSE balance in the same address on Fuse network will have the updated balance of FUSE which can be checked through [www.explorer.fuse.io](http://www.explorer.fuse.io/). 
+Once the transaction is confirmed on chain, the **“Transfer”** can be clicked and transaction has to be approved. Once this second transaction is confirmed onchain the FUSE balance in the same address on Fuse network will have the updated balance of FUSE which can be checked through [https://explorer.fuse.io](https://explorer.fuse.io). 
 
 ![](../.gitbook/assets/3%20%288%29.png)
 
@@ -26,7 +26,7 @@ Once the transaction is confirmed on chain, the **“Transfer”** can be clicke
 
 Make sure that your wallet is running on Fuse RPC.
 
-**Step 1:** Navigate to www.fuseswap.com . The interface will look like as shown below
+**Step 1:** Navigate to [https://fuseswap.com](https://fuseswap.com). The interface will look like as shown below.
 
 ![](../.gitbook/assets/4%20%289%29.png)
 
