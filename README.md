@@ -1,5 +1,5 @@
 ---
-description: Welcome to the documentation portal for the Fuse network
+description: Welcome to the documentation portal for the Fuse network+
 ---
 
 # Fuse.io
