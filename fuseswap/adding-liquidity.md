@@ -11,7 +11,7 @@ description: We will learn on how to add liquidity to Fuseswap on FUSE/USDC pair
 
 **Step 1:**
 
-Navigate to [www.fuseswap.com](http://www.fuseswap.com/) .The interface will look like as shown below
+Navigate to [www.fuseswap.com](https://fuseswap.com/) .The interface will look like as shown below
 
 ![](../.gitbook/assets/0%20%287%29.png)
 

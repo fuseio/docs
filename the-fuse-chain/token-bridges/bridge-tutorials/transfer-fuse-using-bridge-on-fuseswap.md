@@ -10,7 +10,7 @@ description: >-
 
 **Step 1:**
 
-Navigate to www.fuseswap.com . The interface will look like as shown below
+Navigate to [www.fuseswap.com](https://fuseswap.com/) . The interface will look like as shown below
 
 ![](../../../.gitbook/assets/0%20%286%29.png)
 
