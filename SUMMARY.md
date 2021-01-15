@@ -24,7 +24,7 @@
 * [Studio tutorials & walkthroughs](the-fuse-studio/getting-started/README.md)
   * [Difference between using Ethereum Mainnet and Ethereum Ropsten](the-fuse-studio/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
   * [Setting up Metamask and Torus](the-fuse-studio/getting-started/setting-up-metamask-and-torus.md)
-  * [Community Creation Tutorial](the-fuse-studio/getting-started/community-creation-tutorial.md)
+  * [Community creation tutorial](the-fuse-studio/getting-started/community-creation-tutorial.md)
   * [How to add Fuse Network to your Metamask](the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)
   * [Testing the studio for free on Ropsten](the-fuse-studio/getting-started/using-the-studio-for-free-on-ropsten.md)
   * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)

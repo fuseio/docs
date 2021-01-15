@@ -1,81 +1,93 @@
 ---
-description: A quick guide to community creation on Fuse studio
+description: >-
+  Introducing a step-by-step guide covering the community creation process on
+  the Fuse Studio. The guide is aimed at teaching you how to create a new
+  community after setting up Metamask or Torus and is
 ---
 
-# Community Creation Tutorial
+# Community creation tutorial
 
-Introducing a step-by-step guide covering the community creation process on the Fuse Studio. The guide is aimed at teaching you how to __**create a new community after setting up** Metamask or Torus __and is suitable for users of all levels of technical understanding. 
+Make sure you are connected to the Fuse network on your Metamask wallet before creating the community. Learn how to add Fuse network to Metamask using [this](https://docs.fuse.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask) tutorial.
 
-## Community Creation Process
+Navigate to https://studio.fuse.io/ and click on **“Login”** at the right hand top corner as shown below. Use your Gmail account to Sign in.
 
-You are now ready to create a community of your own! To do so, simply go through these mini-steps of the process:
+![](../../.gitbook/assets/0%20%289%29.png)
 
-**Step 1 -** After clicking the '**launch your community**' button, put in a name and description for your community and add your email address, then click next.
+Once you **“Sign in”** to Studio using your Gmail account either you can use your Gmail account to create a wallet or connect you existing wallet using Metamask.
 
-**Step 2 -** Choose the **network** you want to deploy to. You have the choice to use either Ethereum mainnet or Ethereum Ropsten \(**recommended for test purposes**\).
+You can also view both your ETH balance and FUSE balance by clicking on “Fuse network”
 
-{% hint style="warning" %}
-As mentioned earlier, for test purposes, pick **Ethereum Ropsten**, then click next.
-{% endhint %}
+![](../../.gitbook/assets/1%20%2812%29.png)
 
-**Step 3 -** Choose between creating a **new token** \(recommended\), or use an **existing token** on Ethereum Ropsten, then click next.
+Click on **“Launch an economy”** and in the next page you can see the following
 
-**Step 4 -** Now configure your community by **customizing** the token settings. 
+**Name your economy** : You can give the desired name for the community you are going to create
 
-{% hint style="info" %}
-You can choose two different types of supplies for your token. A **Mintable/Burnable** token will allow you to create or burn tokens later on. **One time** issued tokens will have a limited supply that you will set.
-{% endhint %}
+**Description** : A brief explanation about the community you are going to create.
 
-This choice will essentially depend on how you wish to make use of these tokens in your community. You will also need to choose an initial supply, currency symbol, community logo, cover photo, and will be able to choose between the following currently available community plugins: 
+Select whether you want to **“Create a new token”** or **“Use an existing token on Fuse”**
 
-* **Business list** — allows you to add/delete businesses in your community.
-* **Join bonus** — define the amount of token’s gifted to new community members.
-* **Invite bonus** — define the amount of token’s gifted to the user’s inviting new community members.
-* **Backup bonus** — contract of a funder account that rewards your users for backing up their mnemonic.
-* **Fiat ramp** — deposit/withdraw currency with a new feature integrated through ****[**Transak**](https://transak.com/) and ****[**Instant Ramp**](https://instant.ramp.network/) giving you more options to handle the exchange.
-* **Wallet banner link** — allows you to insert an image with a link to any webpage which will be shown to all the users of your community.
+![](../../.gitbook/assets/2%20%2812%29.png)
 
-**Step 5 - Review** and **sign** your community using Metamask. The verification process may take some time, so grab a cup of coffee/tea meantime.
+In the below example I am going to create a new token.
 
-**Step 6 -** Congratulations, you have successfully created your own, one of a kind community!
+Enter Various details for the new token you are creating for the community like
 
-![](https://lh3.googleusercontent.com/51-mqx9Rb2EWQSw87zBRMssmCk7ClImNtB2noQNHFHqbAwSP8ujhjl5UvQcNKpwoHwSeWlnbjo-_K6z1N76q1zqBWV8QaeBYWRU5w3Dmrtp5BFoMYfq49q73__uiHRoRUl7lbb2P)
+* Total supply.
+* Whether you want to create a burnable/mintable token or Fixed supply token.
+* Currency symbol
+* Logo
+* Community cover photo
 
-## Before Using Fuse Studio
+Note: A **Mintable/Burnable** token will allow you to create or burn tokens later on. **One time** issued tokens will have a limited supply that you will set.
 
-These last couple of steps are needed to ensure the proper distribution of community balance and Fuse wallet connectivity.
+![](../../.gitbook/assets/3%20%2811%29.png)
 
-**Step 7 -** Well done, you are now in full control of your community! Now, you will need to bridge over some of your **Ropsten Network balance** to the **Fuse Network balance**, allowing you to have a sufficient token balance to begin actions in the studio. 
+Click on **“Next”** and you will see a final page to review before creating the token and community.
 
-![](https://lh3.googleusercontent.com/tDWRHatwG1u3h5ibTVBCWAo71vjfZwP6MfvsMJi4sPyZZCppGa6Zy-YoJ_jR7bn7OBFDsMwnym9kpRWIh4wPdvztQe1ZHSJlHPtYNV4PKDdfbNUb67EMj9K_24KKOGWDZt3lO47J)
+![](../../.gitbook/assets/4%20%2811%29.png)
 
-{% hint style="danger" %}
-After bridging the balance over to the Fuse Network, **switch** to the **Fuse Network custom RPC** that we created in the previous tutorial, on your Metamask or Torus to be able to perform further actions on the Studio.
-{% endhint %}
+Clicking on **“Issue”** will ask for a sign from your wallet. Please confirm the transaction from your wallet which is signed in to Fuse network.
 
-**Step 8 -** It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the Fuse wallet app** on the [App Store](https://apps.apple.com/il/app/fuse-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.fuse.fusecash). 
+After a few seconds of confirmation of the transaction you token is minted and the community is successfully created which can be viewed in the homepage.
 
-{% hint style="info" %}
-You can also type '**Fuse wallet**' in the App Store or Google Play search to find the app.
-{% endhint %}
+![](../../.gitbook/assets/5%20%288%29.png)
 
-![](https://lh3.googleusercontent.com/Beu7nLiHv8aQGewkuc4-tlEYTnNShSa8rjDcUuxRORNnnNBxt0YMxcXuXrzPxeFHzDwg0_UWqpgtRPASv3vv5WmjERkJjfDRrPKSB23kYcJ1P4mrCJYZIr8yP-1RQcu6YBI5t8Qr)
+Click on **"Go to community page"** and now you can see various features on the sidebar like Users list, Plugin store, White label wallet and Settings. 
+
+![](../../.gitbook/assets/6%20%288%29.png)
+
+Now let us setup some Plugins for the community we created. 
+
+Click on Plug-in store and select the plug-in you want to add to your community. In the below example I have chosen **“Bonuses”** Plugin by click **“+Add”** next to it. You can also learn what the specific Plug-in is designed and how it will be helpful by clicking on **“Learn more”**. 
+
+![](../../.gitbook/assets/image%20%285%29.png)
+
+Once you click **“+Add”** it will appear under the Plugin store on left hand side. 
+
+![](../../.gitbook/assets/image%20%286%29.png)
+
+Click on **“Bonuses”** under Plugin store. 
+
+Bonus plugin is used to provide different kind of bonus to the Community Members. 
+
+**Join Bonus-** Rewarding new users for joining the community. 
+
+**Invite Bonus-** Rewarding users for getting their friends and family join the community. 
+
+**Backup Bonus-** Rewarding users for backing up their wallet. 
+
+First we decide and fund the amount of total token allocated for the bonus which when approved will move to a funder wallet from where it will be distributed automatically according to the bonus allocated. 
+
+Enter the amount of token you want to allocate for the Bonus and click on **“Send”**. Approve the transaction, once the transaction is confirmed on chain tokens will be moved to Funder wallet. 
+
+Now you can enable the different kind of Bonus which will be given to community members as shown below. 
+
+![](https://lh3.googleusercontent.com/HlpGHjSXTYef_9oNYfiqquHS12mQN55k51PpgIq0-JzbrdlWdk8dlCVgUt4Vuwi2nu6YceBiSZpanwQ-wwN-ONj3bGcbzJhLHDKu7_kczkFjfl9p7fB4wXXSpI2RiAC1by_ErQ)
+
+Similarly you can add different plug-ins through plug-in store. We are always in the process of adding new Plug-ins, if you have any requirement for a specific plug-in please let us know through our social media channels.
+
+It's been a long road, but you are finally on the last step! To be able to make easy mobile transactions using your community, **download the Fuse wallet app** on the [App Store](https://apps.apple.com/il/app/fuse-wallet/id1491783654) or [Google Play](https://play.google.com/store/apps/details?id=io.fuse.fusecash).
 
 Sign up using your **phone number** and **name** to create a wallet. On the app, click the top-left option bar and click '**Switch community**'. Then, press '**Scan QR to switch**' and navigate your phone camera to QR code that you can find in the '**White label wallet**' tab in the studio. Share this QR code with your community members so they can join too!
-
-![](../../.gitbook/assets/screenshot-2020-07-23-at-16.28.01.png)
-
-{% hint style="info" %}
-Press '**switch community**' and then '**Scan QR to switch**'
-{% endhint %}
-
-![](https://lh4.googleusercontent.com/dRrtQgq5Z-IhHaJT5j-9cj4W0-Y6efXwyJWtwdaycA6CA8HMHE63nr7UBhEahM1l8GH37xwWSQHfTtAcnM-_S1H9DLv6zFa7_MHR_DKRABXhlC_OL9CdVdqduuNDr-ULfvT616XD)
-
-{% hint style="info" %}
-Use your phone camera and navigate it to the QR code
-{% endhint %}
-
-**Step 9:** Congratulations! You are set and done. Begin changing the world one Fuse community at a time!
-
-We hope you have found this article useful and informative, and are now ready to create a community of your own! If you have any other questions regarding the Fuse network, studio, or wallet, don’t hesitate to check out the [FAQ](https://docs.fuse.io/the-fuse-studio/faq). We would love to hear your thoughts and feedback on the project and your communities on [medium](https://medium.com/fusenet), [github](https://github.com/fuseio), [twitter](https://twitter.com/fuse_network), [telegram](https://t.me/fuseio) and [discord](https://discord.com/invite/jpPMeSZ)! Let’s empower communities around the world together with Fuse!
 
