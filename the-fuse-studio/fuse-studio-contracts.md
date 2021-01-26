@@ -1,2 +1,0 @@
-# Fuse studio contracts
-

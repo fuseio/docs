@@ -31,7 +31,6 @@
   * [What is DAI points?](the-fuse-studio/getting-started/what-is-dai-points.md)
 * [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
-* [Fuse studio contracts](the-fuse-studio/fuse-studio-contracts.md)
 
 ## Become a validator
 
