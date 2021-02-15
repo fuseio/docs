@@ -93,5 +93,7 @@ App Store:** [https://apps.apple.com/il/app/fuse-wallet/id1491783654](https://ap
 
 Creating your own customized economy on Fuse is easy and only takes a few minutes. Check out this video walking you through the entire process: [https://www.youtube.com/watch?v=Lh3pKLdUR60](https://www.youtube.com/watch?v=Lh3pKLdUR60)
 
-## 
+## Why is the Bridge so expensive? 
+
+Transferring from Ethereum network to Fuse network involves transaction on the Ethereum blockchain and hence you will need to pay gas on Ethereum network. Once you relay to Fuse network the costs are almost negligible and you can also trade freely on Fuseswap.
 
