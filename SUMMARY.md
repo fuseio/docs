@@ -56,6 +56,7 @@
   * [MEW Tutorial](tutorials/wallet-tutorials/mew-tutorial.md)
   * [Trust wallet tutorial](tutorials/wallet-tutorials/wallet-tutorials.md)
   * [Tutorial to store FUSE\(Fusenet\) on Ledger](tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
+  * [imToken wallet tutorial](tutorials/wallet-tutorials/imtoken-wallet-tutorial.md)
 * [Staking tutorial](tutorials/staking-tutorial.md)
 * [Staking tutorial using Ledger](tutorials/staking-tutorial-using-ledger.md)
 * [Deploying smart contract on Fusenet](tutorials/deploying-smart-contract-on-fusenet.md)
