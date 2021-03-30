@@ -28,7 +28,6 @@
   * [How to add Fuse Network to your Metamask](the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)
   * [Testing the studio for free on Ropsten](the-fuse-studio/getting-started/using-the-studio-for-free-on-ropsten.md)
   * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
-  * [What is DAI points?](the-fuse-studio/getting-started/what-is-dai-points.md)
 * [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
 
