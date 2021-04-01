@@ -47,6 +47,8 @@
 * [Overview](fuseswap/overview.md)
 * [Adding liquidity](fuseswap/adding-liquidity.md)
 * [Bridge FUSE/ERC20 tokens](fuseswap/bridge-fuse-erc20-tokens.md)
+* [Bridge Fuse network&lt;--&gt;BSC](fuseswap/bridge-fuse-network-less-than-greater-than-bsc.md)
+* [Migration tutorial](fuseswap/migration-tutorial.md)
 
 ## Tutorials
 
