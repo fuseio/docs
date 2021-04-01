@@ -45,9 +45,11 @@ Use the “Connect to a wallet” on the right hand top corner to connect your w
 ![](../.gitbook/assets/5%20%2810%29.png)
 
 **Step 2:**  
-Select WETH from the dropdown menu and enter the amount of WETH you want to transfer from BSC to Fuse Network. Click on “Transfer” and approve the transaction on Metamask. Click on “Approve WETH” and approve the transaction on Metamask.  
-  
+Select WETH from the dropdown menu and enter the amount of WETH you want to transfer from BSC to Fuse Network. Click on “Transfer” and approve the transaction on Metamask. Click on “Approve WETH” and approve the transaction on Metamask.
+
+{% hint style="info" %}
 **Note: The contract address of WETH on BSC is 0x2170ed0880ac9a755fd29b2688956bd959f933f8. If you do not find the token ticker of the token you are trying to bridge from BSC to fuse network, Please find out the right contract address from** [**https://bscscan.com.**](https://explorer.fuse.io/)\*\*\*\*
+{% endhint %}
 
 ![](../.gitbook/assets/6%20%289%29.png)
 
