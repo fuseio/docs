@@ -4,7 +4,7 @@ Fuse token is required to be paid to the network to approve transactions. The Fu
 
 Fuse holders can lock it and delegate it to a validator in order to protect against inflation and get rewarded with Fuse tokens. The holders can select their favorite validator and validators are selected based on having the most Fuse tokens staked.
 
-The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and can be moved between the Fuse chain and Ethereum using the bridge.
+The native Fuse token is represented via an ERC-20 token on Ethereum mainnet,BEP-20 token on BSC and can be moved between the Fuse chain, BSC and Ethereum using the bridge.
 
 ## Fuse token utility:
 
@@ -27,6 +27,7 @@ The native Fuse token is represented via an ERC-20 token on Ethereum mainnet and
 
 {% hint style="info" %}
 * Watch our token on [Etherscan](https://etherscan.io/token/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)
+* Watch our token on BSCscan
 * Check out the [Fuse explorer](https://explorer.fuse.io/)
 * [Get Fuse token](https://uniswap.exchange/swap/0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d) - [Uniswap](https://uniswap.exchange/swap?outputCurrency=0x970B9bB2C0444F5E81e9d0eFb84C8ccdcdcAf84d)
 {% endhint %}
