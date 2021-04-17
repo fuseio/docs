@@ -11,6 +11,8 @@ Please note that the bridge works in the following directions
 * ETH – FUSE network and FUSE network-ETH
 * FUSE network - BSC and BSC-FUSE network
 
+If you would like to watch the below tutorial through a video please follow [this link](https://www.youtube.com/watch?v=l17K6mu1uM4).
+
 **Bridging tokens from Fuse network to BSC  
   
 Note:** Make sure you are connected to FUSE network RPC. To learn how to add Fuse network RPC you can follow the tutorial [**here**](https://docs.fuse.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
