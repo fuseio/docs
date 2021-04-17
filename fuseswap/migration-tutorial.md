@@ -1,5 +1,7 @@
 # Migration tutorial
 
+If you would like to watch the below tutorial through a video please follow [this link.](https://www.youtube.com/watch?v=lAT2RAH7t1Q)
+
 We have recently upgraded the smart contract for WETH on Fuse Network. The below tutorial will explain how to migrate the old wrapper tokens to the updated contract WETH, if you are holding the deprecated version of WETH on Fuse network in your wallet.
 
 **Step 1:** Navigate to [https://fuseswap.com](https://fuseswap.com/). The interface will look as shown below
