@@ -61,6 +61,7 @@
 * [Staking tutorial](tutorials/staking-tutorial.md)
 * [Staking tutorial using Ledger](tutorials/staking-tutorial-using-ledger.md)
 * [Deploying smart contract on Fusenet](tutorials/deploying-smart-contract-on-fusenet.md)
+* [Adding Liquidity on PCS](tutorials/adding-liquidity-on-pcs.md)
 
 ## Links
 
