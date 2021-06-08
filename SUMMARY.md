@@ -14,12 +14,11 @@
   * [End-of-Cycle flow](the-fuse-chain/consensus-contracts/end-of-cycle-flow.md)
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
 * [FIPS](the-fuse-chain/fips.md)
-* [Bridges](the-fuse-chain/bridges/README.md)
+* [Token Bridges](the-fuse-chain/bridges/README.md)
   * [ETH ↔ Fuse ERC20 Token Bridge](the-fuse-chain/bridges/eth-fuse-erc20-token-bridge.md)
   * [BSC ↔ Fuse Native](the-fuse-chain/bridges/bsc-fuse-native.md)
   * [BSC  ↔ Fuse ERC20 Bridge](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
   * [ETH ↔ Fuse Native Bridge](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
-* [Token Bridges](the-fuse-chain/token-bridges.md)
 
 ## Become a validator
 
