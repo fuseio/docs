@@ -14,6 +14,7 @@
   * [End-of-Cycle flow](the-fuse-chain/consensus-contracts/end-of-cycle-flow.md)
 * [Fuse network contracts](the-fuse-chain/fuse-network-contracts.md)
 * [FIPS](the-fuse-chain/fips.md)
+* [Fuse Dollar](the-fuse-chain/fuse-dollar.md)
 * [Token Bridges](the-fuse-chain/bridges/README.md)
   * [ETH ↔ Fuse Native Bridge](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
   * [ETH ↔ Fuse ERC20 Token Bridge](the-fuse-chain/bridges/eth-fuse-erc20-token-bridge.md)
