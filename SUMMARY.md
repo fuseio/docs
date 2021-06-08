@@ -6,6 +6,7 @@
 ## Fuse Network basics <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
+* [Network Details](the-fuse-chain/network-details.md)
 * [Fuse token](the-fuse-chain/fuse-token.md)
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
@@ -21,6 +22,7 @@
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
 * [Studio overview](the-fuse-studio/overview.md)
+* [Studio Backend API](the-fuse-studio/studio-backend-api.md)
 * [Studio tutorials & walkthroughs](the-fuse-studio/getting-started/README.md)
   * [Difference between using Ethereum Mainnet and Ethereum Ropsten](the-fuse-studio/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
   * [Setting up Metamask and Torus](the-fuse-studio/getting-started/setting-up-metamask-and-torus.md)
