@@ -7,7 +7,7 @@
 
 * [Overview](the-fuse-chain/overview.md)
 * [Network Details](the-fuse-chain/network-details.md)
-* [Fuse token](the-fuse-chain/fuse-token.md)
+* [Fuse Token](the-fuse-chain/fuse-token.md)
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Stake, Delegate and Withdraw](the-fuse-chain/consensus-contracts/stake-delegate-and-withdraw.md)
   * [Vote](the-fuse-chain/consensus-contracts/vote.md)
@@ -18,6 +18,17 @@
   * [Bridge tutorials](the-fuse-chain/token-bridges/bridge-tutorials/README.md)
     * [Transfer FUSE or ERC20 using Bridge on Fuseswap](the-fuse-chain/token-bridges/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
     * [Using the bridge with ERC20 tokens directly through the contract](the-fuse-chain/token-bridges/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+
+## Become a validator
+
+* [Validation overview](become-a-validator/how-to-become-a-validator.md)
+* [Getting started as a validator](become-a-validator/getting-started.md)
+* [How to run a node?](become-a-validator/run-your-own-validator.md)
+
+## Fuse Services
+
+* [TheGraph](fuse-services/thegraph.md)
+* [Fuseswap API](fuse-services/fuseswap-api.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
@@ -32,12 +43,6 @@
   * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
 * [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
-
-## Become a validator
-
-* [Validation overview](become-a-validator/how-to-become-a-validator.md)
-* [Getting started as a validator](become-a-validator/getting-started.md)
-* [How to run a node?](become-a-validator/run-your-own-validator.md)
 
 ## Build on Fuse <a id="the-mobile-wallet"></a>
 
@@ -76,8 +81,4 @@
 * [Twitter](https://twitter.com/fuse_network)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
-
-## Fuse Services
-
-* [TheGraph](fuse-services/thegraph.md)
 
