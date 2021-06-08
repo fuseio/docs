@@ -30,6 +30,7 @@
 
 * [TheGraph](fuse-services/thegraph.md)
 * [Fuseswap API](fuse-services/fuseswap-api.md)
+* [White label wallet](fuse-services/overview.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
@@ -47,7 +48,6 @@
 
 ## Build on Fuse <a id="the-mobile-wallet"></a>
 
-* [White label wallet](the-mobile-wallet/overview.md)
 * [Backend API](the-mobile-wallet/api.md)
 
 ## Fuseswap
