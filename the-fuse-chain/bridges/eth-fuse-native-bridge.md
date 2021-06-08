@@ -8,24 +8,19 @@ description: >-
 
 Fuse native bridge between Ethereum and Fuse is used to relay the Fuse native token from Fuse to Ethereum network
 
+## Architecture Overview
 
+The Fuse bridged is based on POA's bridge implementation, it is used to transfer Fuse tokens between the Fuse chain and the Ethereum network.
 
-We have two bridges as explained below
+Tokens sent to the respective bridge contract on one network \(whether it's Fuse or Ethereum\) are "locked" in the bridge, "unlocked" on the other network bridge and transferred to the sender. The bridge contracts are deployed on both networks, and bridge oracle processes run on each validators machine as part of the validator deployment stack.
 
-1. Fuse Bridge:  ****The bridge, based on POA's bridge implementation, is used to transfer Fuse tokens between the Fuse chain and the Ethereum network.
-2. ERC20 token bridge: This bridge is used to transfer ERC20 tokens into Fuse chain and back. Please not that Fuse bridge is not supposed to be used to transfer  . 
+Besides the transfer of Fuse tokens between the two networks, the bridge is also responsible for network core functionality events of relaying the block rewards to the Ethereum network:
 
-The bridge, based on POA's bridge implementation, is used to transfer Fuse tokens between the Fuse chain and the Ethereum network.
+**Mint block reward distributed on the Fuse chain on Ethereum**
 
-Tokens sent to the respective bridge contract on one network \(whether it's Fuse or Ethereum\) are "locked" in the bridge, "unlocked" on the other network bridge and transferred to the sender.
+Each cycle the total block reward distributed on Fuse chain is minted on Ethereum and locked on the bridge contract.
 
-The validators of the bridge on both network are the Fuse chain validators. This means that validators, as part of their governance responsibilities, also need to validate bridge transactions and therefore hold Fuse tokens to "approve" bridge transactions on Fuse chain and hold ETH to "approve" transactions on Ethereum.
-
-Each bridge transaction must be approved by a majority \(over 50%\) of the validators in order to be processed successfully.
-
-The bridge contracts are deployed on both networks, and bridge oracle processes run on each validators machine as part of the validator deployment stack.
-
-Besides the transfer of Fuse tokens between the two networks, the bridge is also responsible for network core functionality events:
+This works by listening to the \`RewardedOnCycle\` event emitted by the BlockReward contract on Fuse chain, waiting for all bridge validators on Fuse chain to sign it, and eventually sending a transaction to mint on Ethereum \(by the last signing validator\).
 
 ## Contracts
 
