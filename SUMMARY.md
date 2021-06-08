@@ -17,6 +17,7 @@
 * [Bridges](the-fuse-chain/bridges/README.md)
   * [ETH ↔ Fuse ERC20 Token Bridge](the-fuse-chain/bridges/eth-fuse-erc20-token-bridge.md)
   * [BSC ↔ Fuse Native](the-fuse-chain/bridges/bsc-fuse-native.md)
+  * [BSC  ↔ Fuse ERC20 Bridge](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
   * [ETH ↔ Fuse Native Bridge](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
 * [Token Bridges](the-fuse-chain/token-bridges/README.md)
   * [Bridge tutorials](the-fuse-chain/token-bridges/bridge-tutorials/README.md)
