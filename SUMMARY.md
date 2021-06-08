@@ -77,3 +77,7 @@
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
 
+## Fuse Services
+
+* [TheGraph](fuse-services/thegraph.md)
+
