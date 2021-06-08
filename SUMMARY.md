@@ -19,10 +19,7 @@
   * [BSC ↔ Fuse Native](the-fuse-chain/bridges/bsc-fuse-native.md)
   * [BSC  ↔ Fuse ERC20 Bridge](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
   * [ETH ↔ Fuse Native Bridge](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
-* [Token Bridges](the-fuse-chain/token-bridges/README.md)
-  * [Bridge tutorials](the-fuse-chain/token-bridges/bridge-tutorials/README.md)
-    * [Transfer FUSE or ERC20 using Bridge on Fuseswap](the-fuse-chain/token-bridges/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
-    * [Using the bridge with ERC20 tokens directly through the contract](the-fuse-chain/token-bridges/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
+* [Token Bridges](the-fuse-chain/token-bridges.md)
 
 ## Become a validator
 
@@ -73,6 +70,9 @@
 * [Staking tutorial](tutorials/staking-tutorial.md)
 * [Staking tutorial using Ledger](tutorials/staking-tutorial-using-ledger.md)
 * [Deploying smart contract on Fusenet](tutorials/deploying-smart-contract-on-fusenet.md)
+* [Bridge tutorials](tutorials/bridge-tutorials/README.md)
+  * [Transfer FUSE or ERC20 using Bridge on Fuseswap](tutorials/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
+  * [Using the bridge with ERC20 tokens directly through the contract](tutorials/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
 * [Adding Liquidity on PCS](tutorials/adding-liquidity-on-pcs.md)
 
 ## Links

@@ -24,9 +24,9 @@ This step basically is to approve your wallet to interact with the USDT token co
 
 Please go to USDT token contract on Etherscan via link below.
 
-[https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7\#writeContract](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7#writeContract) ![](../../../.gitbook/assets/0%20%283%29.png)
+[https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7\#writeContract](https://etherscan.io/token/0xdac17f958d2ee523a2206206994597c13d831ec7#writeContract) ![](../../.gitbook/assets/0%20%283%29.png)
 
-![](../../../.gitbook/assets/1%20%286%29.png)
+![](../../.gitbook/assets/1%20%286%29.png)
 
 Click on **“Connect to Web3”** and sign in to your wallet through Metamask.
 
@@ -37,7 +37,7 @@ Click on **“Connect to Web3”** and sign in to your wallet through Metamask.
 
 Click on **“Write”** and approve the transaction on your Metamask wallet and wait for the confirmation on-chain.
 
-![](../../../.gitbook/assets/2%20%286%29.png)
+![](../../.gitbook/assets/2%20%286%29.png)
 
 **Step 3:**
 
@@ -52,7 +52,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 * token \(address\) field: the USDT token contract address on Ethereum \(0xdac17f958d2ee523a2206206994597c13d831ec7\)
 * \_value \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 6\)
 
-![](../../../.gitbook/assets/3%20%285%29.png)
+![](../../.gitbook/assets/3%20%285%29.png)
 
 Once the transaction is confirmed on-chain we wait for 2 blocks to ensure security of transaction and then the USDT tokens should appear on your Fuse address and have been swapped from Ethereum mainnet to Fusenet.
 
@@ -66,7 +66,7 @@ Please go to token contract on Fusenet explorer via link below.
 
 https://explorer.fuse.io/address/0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10/write\_proxy
 
-![](../../../.gitbook/assets/4%20%286%29.png)
+![](../../.gitbook/assets/4%20%286%29.png)
 
 Make sure that the network is FUSE network. If you have not added Fuse network please follow the instructions [here](https://docs.fuse.io/the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask).
 
@@ -79,7 +79,7 @@ Click on **“Connect to Metamask”** and sign in to your wallet through Metama
 
 Click on **“Write”** and approve the transaction on your Metamask wallet and wait for the confirmation on-chain.
 
-![](../../../.gitbook/assets/5%20%284%29.png)
+![](../../.gitbook/assets/5%20%284%29.png)
 
 **Step 3:**
 
@@ -94,7 +94,7 @@ Enter the below details on **“Relay tokens”** and click on **“Write”**
 * token \(address\) field: the USDT token contract address on Fusenet \(0xFaDbBF8Ce7D5b7041bE672561bbA99f79c532e10\)
 * \_value \(uint256\): the amount of tokens to transfer in wei \(Number of decimals should be 6\)
 
-![](../../../.gitbook/assets/6%20%285%29.png)
+![](../../.gitbook/assets/6%20%285%29.png)
 
 After the transaction is confirmed on Fuse network, the bridge oracle will relay your tx on Ethereum. No need to wait for additional confirmations as Fuse is PoS network. After sometime you should be able to see the successful transfer of the token on your ERC20 address.
 
