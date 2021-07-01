@@ -10,7 +10,6 @@ In order to be a Fuse validator, you first must see that you meet the pre-requir
 
 * You know what it means to be a Fuse validator - [Becoming a validator](how-to-become-a-validator.md#what-it-means-to-be-a-validator).
 * You have at least 100K FUSE tokens or you will have an aggregated delegation of at least 100K FUSE tokens \(you can purchase FUSE token on [Uniswap](https://uniswap.exchange/swap/0x970b9bb2c0444f5e81e9d0efb84c8ccdcdcaf84d)\).
-* You should have some ETH for gas, 1 ETH should last you for a few months.
 * You have an always-on hardware that meets the pre-requisites - [Running a validator node](run-your-own-validator.md#pre-requisites)
 
 ## How to become a Fuse validator
@@ -44,19 +43,6 @@ set `<YOUR_API_KEY>` to your infura api key on `FOREIGN_RPC_URL`
 
 {% hint style="success" %}
 After running the script successfully, you will see your address in the [health](https://health.fuse.io/) site.
-{% endhint %}
-
-### Step 4: **Send FUSE tokens and ETH to that account address:**
-
-{% hint style="info" %}
-After running the script, an account is created for you. You can find out your account address in `$HOME/fusenet/config/address`
-{% endhint %}
-
-* Send some ETH to the address that you created or imported in step 1 on the Ethereum network..
-* Send FUSE tokens to the same address, but on the Fuse network.
-
-{% hint style="warning" %}
-In order to connect your wallet to the Fuse network, you should connect it to the Fuse RPC using [Metamask](../the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md) or [MEW](../the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
 {% endhint %}
 
 ### Step 5: Stake and/or delegate!
