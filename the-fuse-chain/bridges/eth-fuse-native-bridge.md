@@ -4,7 +4,7 @@ description: >-
   Ethereum networks
 ---
 
-# ETH ↔ Fuse Native Bridge
+# Fuse: Ethereum ↔ Fuse
 
 Fuse native bridge between Ethereum and Fuse is used to relay the Fuse native token from Fuse to Ethereum network
 

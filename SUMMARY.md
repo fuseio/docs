@@ -16,10 +16,12 @@
 * [FIPS](the-fuse-chain/fips.md)
 * [Fuse Dollar](the-fuse-chain/fuse-dollar.md)
 * [Token Bridges](the-fuse-chain/bridges/README.md)
-  * [ETH ↔ Fuse Native Bridge](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
-  * [ETH ↔ Fuse ERC20 Token Bridge](the-fuse-chain/bridges/eth-fuse-erc20-token-bridge.md)
-  * [BSC ↔ Fuse Native](the-fuse-chain/bridges/bsc-fuse-native.md)
-  * [BSC  ↔ Fuse ERC20 Bridge](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
+  * [Fuse: Ethereum ↔ Fuse](the-fuse-chain/bridges/eth-fuse-native-bridge.md)
+  * [Multi ERC-20: Ethereum ↔ Fuse](the-fuse-chain/bridges/eth-fuse-erc20-token-bridge.md)
+  * [GoodDollar: Ethereum ↔ Fuse](the-fuse-chain/bridges/gooddollar-ethereum-fuse.md)
+  * [Fuse Native: BSC ↔ Fuse](the-fuse-chain/bridges/bsc-fuse-native.md)
+  * [BNB: BSC ↔ Fuse](the-fuse-chain/bridges/bnb-bsc-fuse.md)
+  * [Multi ERC20: BSC ↔ Fuse](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
 
 ## Become a validator
 
