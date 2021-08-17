@@ -32,7 +32,7 @@ Click on **“Approve USDC”** and confirm the transaction through your wallet.
 
 \(Note: If this is the first time you are providing liquidity on Fuseswap using the above pairs you will have to approve the spend transaction.\)
 
-Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.explorer.fuse.io](http://www.explorer.fuse.io/) on your wallet address.
+Once the transaction is confirmed on-chain click on **“Supply”** and approve the transaction. You will receive the liquidity pool tokens on your wallet which can be checked under tokens through [www.explorer.fuse.io](https://explorer.fuse.io/) on your wallet address.
 
 Navigating to **“Pool”** on Fuseswap will also show you list of token pairs with statistics for which you have provided liquidity and other options like add/remove liquidity for that particular token pair as shown below.
 
