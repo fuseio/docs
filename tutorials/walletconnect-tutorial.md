@@ -1,4 +1,4 @@
-# WalletConnect tutorial
+# How to use WalletConnect on fuse.cash and add liquidity on Fuseswap
 
 We will learn how to connect Fuse cash wallet to various fuse DApps through WalletConnect feature and add liquidity to Fuseswap through Fuse cash wallet.
 
@@ -7,13 +7,13 @@ App version used- 0.1.14.144
 
 **Step 1:**
 
-Open your Fuse cash wallet and the interface shown will be similar to the one shown in the image below.
+Open your Fuse cash wallet on your phone and the interface shown will be similar to the one shown in the image below.
 
 ![](../.gitbook/assets/0%20%283%29.jpeg)
 
 **Step 2:**
 
-Navigate to [https://www.fuseswap.com/](https://www.fuseswap.com/)
+Navigate to [https://www.fuseswap.com/](https://www.fuseswap.com/) on your computer and the interface will be as shown below
 
 ![](../.gitbook/assets/1%20%2817%29.png)
 
@@ -21,7 +21,7 @@ Use the “Connect to a wallet” on the right hand top corner and select “Wal
 
 ![](../.gitbook/assets/2%20%2817%29.png)
 
-**Step 3:**On your fuse cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.fuseswap.com](http://www.fuseswap.com/) in the previous step.  
+**Step 3:** On your fuse cash wallet homepage you can spot a small icon which lets you scan the QR code displayed on [www.fuseswap.com](http://www.fuseswap.com/) in the previous step  
 
 
 ![](../.gitbook/assets/3%20%283%29.jpeg)

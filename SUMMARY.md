@@ -77,7 +77,7 @@
   * [Using the bridge with ERC20 tokens directly through the contract](tutorials/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
 * [Adding Liquidity on PCS](tutorials/adding-liquidity-on-pcs.md)
 * [Metamask+ Ledger live tutorial](tutorials/metamask+-ledger-live-tutorial.md)
-* [WalletConnect tutorial](tutorials/walletconnect-tutorial.md)
+* [How to use WalletConnect on fuse.cash and add liquidity on Fuseswap](tutorials/walletconnect-tutorial.md)
 
 ## Security Practices
 
