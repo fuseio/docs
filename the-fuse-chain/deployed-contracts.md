@@ -1,4 +1,4 @@
-# Deployed contracts
+# Deployed Contracts
 
 ## Core
 

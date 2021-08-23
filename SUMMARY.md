@@ -22,7 +22,7 @@
   * [Fuse Native: BSC ↔ Fuse](the-fuse-chain/bridges/bsc-fuse-native.md)
   * [BNB: BSC ↔ Fuse](the-fuse-chain/bridges/bnb-bsc-fuse.md)
   * [Multi ERC20: BSC ↔ Fuse](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
-* [Deployed contracts](the-fuse-chain/deployed-contracts.md)
+* [Deployed Contracts](the-fuse-chain/deployed-contracts.md)
 
 ## Become a validator
 
