@@ -24,17 +24,18 @@
   * [Multi ERC20: BSC ↔ Fuse](the-fuse-chain/bridges/bsc-fuse-erc20-bridge.md)
 * [Deployed Contracts](the-fuse-chain/deployed-contracts.md)
 
+## For developers <a id="fuse-services"></a>
+
+* [TheGraph](fuse-services/thegraph.md)
+* [Fuseswap API](fuse-services/fuseswap-api.md)
+* [White label wallet](fuse-services/overview.md)
+* [Studio API](fuse-services/api.md)
+
 ## Become a validator
 
 * [Validation overview](become-a-validator/how-to-become-a-validator.md)
 * [Getting started as a validator](become-a-validator/getting-started.md)
 * [How to run a node?](become-a-validator/run-your-own-validator.md)
-
-## Fuse Services
-
-* [TheGraph](fuse-services/thegraph.md)
-* [Fuseswap API](fuse-services/fuseswap-api.md)
-* [White label wallet](fuse-services/overview.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
@@ -49,10 +50,6 @@
   * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
 * [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
-
-## Build on Fuse <a id="the-mobile-wallet"></a>
-
-* [Backend API](the-mobile-wallet/api.md)
 
 ## Fuseswap
 
