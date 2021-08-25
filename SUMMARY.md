@@ -6,6 +6,7 @@
 ## Fuse Network basics <a id="the-fuse-chain"></a>
 
 * [Overview](the-fuse-chain/overview.md)
+* [Fuse ecosystem](the-fuse-chain/fuse-ecosystem.md)
 * [Network Details](the-fuse-chain/network-details.md)
 * [Fuse Token](the-fuse-chain/fuse-token.md)
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
