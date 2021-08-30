@@ -12,7 +12,7 @@ It’s designed to be a very low-cost alternative to traditional cash or cashles
 
 **Moving money on Fuse costs a fixed fee of** _**up to**_ **US Dollar 1 cent \(max $0.01\) per transaction.** The network is designed to have an easy to use and understandable model that is ready for mainstream adoption and far more effective than existing alternatives.
 
-Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost to launch and operate non-custodial micro-finance and micro-transaction services. It leverages the powerful shared business processes that blockchains provide.
+Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost for launching and operating non-custodial micro-finance and micro-transaction services. It leverages the powerful shared business processes that blockchains provide.
 
 Fuse lowers the bar of entry for entrepreneurs to build powerful, effective and sustainable products. So they spend less time and money on IT, and can focus on reaching and growing their clients and customers.
 
