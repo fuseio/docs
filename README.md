@@ -10,7 +10,7 @@ The **Fuse Network** platform is tailor-made for local communities and designed 
 
 It’s designed to be a very low-cost alternative to traditional cash or cashless payments. It lowers the barriers of entry for entrepreneurs to launch wallets, payments services, loyalty programs, and any other systems that were previously powered by paper.
 
-**Moving money on Fuse costs a fixed fee of** _**up to**_ **US Dollar 1 cent \(max $0.01\) per transaction.** The network is designed to have an easy to use and understandable model that is ready for mainstream adoption and far more effective than existing alternatives.
+**Moving money on Fuse costs less one cent \($0.01\) per transaction.** The network is designed to have an easy to use and understandable model that is ready for mainstream adoption and far more effective than existing alternatives.
 
 Fuse provides a new way to launch services and reach customers using mobile payments. It allows entrepreneurs to integrate everyday payments into their businesses. It reduces the cost for launching and operating non-custodial micro-finance and micro-transaction services. It leverages the powerful shared business processes that blockchains provide.
 
