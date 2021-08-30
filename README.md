@@ -6,7 +6,7 @@ description: Welcome to the documentation portal for the Fuse network
 
 ![](.gitbook/assets/rocket-illuss.jpg)
 
-The **Fuse Network** is tailor-made for local communities and used to power day-to-day mobile payments for any person with a phone.
+The **Fuse Network** platform is tailor-made for local communities and designed to power day-to-day mobile payments for any person with a phone.
 
 It’s designed to be a very low-cost alternative to traditional cash or cashless payments. It lowers the barriers of entry for entrepreneurs to launch wallets, payments services, loyalty programs, and any other systems that were previously powered by paper.
 
