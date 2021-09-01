@@ -1,5 +1,5 @@
 ---
-description: Projects that are deployed or building on the Fuse network
+description: Projects and platforms building or built upon or partnering with Fuse
 ---
 
 # Fuse ecosystem
@@ -10,24 +10,62 @@ description: Projects that are deployed or building on the Fuse network
 
 ## Partnerships
 
-* Ramp
-* Chainlink...
+* Ramp Network
+* Chainlink
+* Pocket Network
+* Request Network
+* Boson Protocol
+* 0Chain
+* Orion Protocol
+* Loopring
+* e-Money
+* MANTRA DAO
+* Transak
+* Monerium
+* ICHI
+* Ola Finance
+* Krystal DeFi
+* Dapp.com
+* GetBlock
+* Staking Rewards
+* ChangeNOW
+* Unstoppable Domains
+* Mintgate
 
 ## Infrastructure/developer tools
 
-* The graph
+* Fuse Studio?
+* The Graph
+* Unmarshal
+* OpenZeppelin
 
 ## DeFi
 
-* fuseswap
+* FuseSwap
+* Fuse Lending Network
+* Fuse Rewards
+* Fuse Staking
 
 ## Communities
 
-* Gooddollar
+* GoodDollar
+* Kolektivo
+* Comunitaria
+* PeeplEat
+* Bitazza?
+* Cannons Creek?
 
-## Misc
+## Wallets
 
-* NFT...
+* Fuse Cash
+* Fuse Wallet
+* CuraDAI
+* MetaMask Mobile
+* imToken
+
+
+
+
 
 
 
