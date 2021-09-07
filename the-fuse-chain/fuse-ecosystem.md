@@ -10,8 +10,14 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 ## Partnerships and integrations
 
-* [Ramp Network](https://ramp.network)
-* [Chainlink](https://chain.link)
+### [Ramp Network](https://ramp.network)
+
+Ramp Network is a leading global provider of fiat on- and off-ramp solutions for crypto projects. Fuse's partnership with Ramp enables fast, convenient on-ramps from bank users' bank accounts to fUSD on Fuse.
+
+### [Chainlink](https://chain.link)
+
+Chainlink is a leading decentralized network of oracles for blockchain-powered applications. Chainlink's proof of reserve functionality will be used to enhance the full backing of the FuseDollar stablecoin with USDC.    
+
 * [Pocket Network](https://pokt.network)
 * [Request Network](https://request.network)
 * [Boson Protocol](https://bosonprotocol.io)
