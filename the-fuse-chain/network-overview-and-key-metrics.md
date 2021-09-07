@@ -1,4 +1,4 @@
-# Network Details
+# Network Overview and Key Metrics
 
 * Network name: **Fuse Network**
 * ChanId: **122**
