@@ -45,6 +45,8 @@ description: Projects and platforms building or built upon or partnering with Fu
 * [Fuse Lending Network](https://app.ola.finance/networks/0x5809FAB2Bf39efae6DD8691B7F90c468c234A1A7/markets)
 * [Fuse Rewards](https://rewards.fuse.io)
 * [Fuse Staking](https://staking.fuse.io)
+* FuseDollar
+* oneFUSE
 
 ## Communities
 
