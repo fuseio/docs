@@ -54,6 +54,7 @@ description: Projects and platforms building or built upon or partnering with Fu
 * PeeplEat
 * [Bitazza](https://bitazza.com)
 * The Wellbeing Protocol
+* ByeleX
 
 ## Wallets
 
