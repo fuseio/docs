@@ -3,11 +3,10 @@
 * [Fuse.io](README.md)
 * [Fuse overview](fuse-overview.md)
 
-## Fuse Network basics <a id="the-fuse-chain"></a>
+## Fuse Network Blockchain <a id="the-fuse-chain"></a>
 
-* [Overview](the-fuse-chain/overview.md)
-* [Fuse ecosystem](the-fuse-chain/fuse-ecosystem.md)
 * [Network Overview and Key Metrics](the-fuse-chain/network-overview-and-key-metrics.md)
+* [Fuse ecosystem](the-fuse-chain/fuse-ecosystem.md)
 * [Fuse Token](the-fuse-chain/fuse-token.md)
 * [Fuse chain consensus](the-fuse-chain/consensus-contracts/README.md)
   * [Contracts Overview](the-fuse-chain/consensus-contracts/fuse-network-contracts.md)

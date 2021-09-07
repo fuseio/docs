@@ -20,7 +20,7 @@ You should read this if your are:
 
 * **Non-technical** 
   * I want to launch a community on Fuse! - Go to the [_Fuse Studio documentation_](the-fuse-studio/overview.md) \_\_
-  * I want to know how the network works - Go to the [_Fuse Chain overview_](the-fuse-chain/overview.md)\_\_
+  * I want to know how the network works - Go to the [_Fuse Chain overview_]()\_\_
 * **Somewhat technical** 
   * I want to be a Validator on  - Go to the [_Fuse Validator guide_](become-a-validator/how-to-become-a-validator.md)\_\_
   * I want to learn about the Wallet and it's benefits - Go to the [_Fuse Wallet overview_](fuse-services/overview.md)\_\_
