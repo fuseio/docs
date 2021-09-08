@@ -12,7 +12,7 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 ### [Ramp Network](https://ramp.network)
 
-Ramp Network is a leading global provider of fiat on- and off-ramp solutions for crypto projects. Fuse's partnership with Ramp enables fast, convenient on-ramps from users' bank accounts to their accounts on Fuse by purchasing Fuse-native stablecoins, including FuseDollar.
+Ramp Network is a leading global provider of fiat on- and off-ramp solutions for crypto projects. Fuse's exclusive partnership with Ramp enables fast, convenient on-ramps from users' bank accounts to their accounts on Fuse by purchasing Fuse-native stablecoins, including FuseDollar.
 
 ### [Chainlink](https://chain.link)
 
@@ -28,15 +28,32 @@ Request Network is a platform for optimizing the processing of crypto payments b
 
 ### [Boson Protocol](https://bosonprotocol.io)
 
-Boson Protocol is a project working on decentralizing e-commerce through the use of tokenization, including special NFTs and tokens representing units of goods \(Thing Tokens\). Fuse will integrate Boson's Thing Tokens to make them discoverable and tradable within the Fuse ecosystem.  
+Boson Protocol is a project working on decentralizing e-commerce through the use of tokenization, including special NFTs and tokens representing units of goods \(Thing Tokens\). Fuse will integrate Boson's Thing Tokens to make them discoverable and tradable within the Fuse ecosystem. 
 
-* [0Chain](https://0chain.net)
-* [Orion Protocol](https://orionprotocol.io)
-* [Loopring](https://loopring.org)
-* [e-Money](https://e-money.com)
-* [MANTRA DAO](https://mantradao.com)
-* [Transak](https://transak.com)
-* [Moneri](https://monerium.com)
+### [0Chain](https://0chain.net)
+
+0Chain is a decentralized storage platform that combines on- and off-chain storage for optimal results. Fuse's integration with 0Chain is set to explore the possibility of storing Fuse payment communities' data and the metadata for NFTs on Fuse
+
+### [Orion Protocol](https://orionprotocol.io)
+
+Orion Protocol is a platform aiming at aggregating all the liquidity available on both centralized and decentralized crypto exchanges. Fuse will integrate Orion's Liquidity Boost plugin to provide FuseSwap traders with access to substantial exchange liquidity
+
+### [e-Money](https://e-money.com)
+
+e-Money is a leading provider of fully collateralized, compliant, interest-bearing stablecoins. The goal of the collaboration between Fuse and e-Money is to bring e-Money stablecoins to the Fuse ecosystem. This will be achieved through the building of a bridge between the e-Money chain and Fuse Network.
+
+### [MANTRA DAO](https://mantradao.com)
+
+MANTRA DAO is a community-governed DeFi platform focusing on staking, lending and governance. MANTRA DAO helps secure Fuse by running a validator node on Fuse Network. Fuse and MANTRA DAO collaborate on launching liquidity reward programs on Fuse.
+
+### [Transak](https://transak.com)
+
+Transak is a major fiat on-ramp provider. Fuse integrates Transak for enabling fiat on-ramps in the jurisdictions where Ramp Network services are not available for Fuse users. 
+
+### [Moneri](https://monerium.com)u[m](https://ichi.org)
+
+Monerium enables the issuance of tokenized electronic money on the blockchain. Unlike stablecoins, e-money is backed by funds on users' bank accounts opened with Monerium. The goal of the collaboration is to bring tokenized e-money to Fuse. 
+
 * [ICHI](https://ichi.org)
 * [Ola Finance](https://ola.finance)
 * [Krystal DeFi](https://krystal.app)
