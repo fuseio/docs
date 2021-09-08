@@ -72,7 +72,7 @@ Fuse Studio is a platform for issuing tokens and creating payment-focused commun
 
 ### [White Label Wallet](https://github.com/fuseio/fuse-wallet)
 
-The Fuse White Label wallet is the second core piece of Fuse's mobile-centric payment infrastructure. It is an open-source wallet that can be freely forked and customized by any project building on top of Fuse via its API. It is build using the Flutter 2.2 framework, which makes its codebase suitable for multiple platforms, including mobile and desktop. More than 60 forks of the wallet have already been created, including Fuse Cash, CuraDAI and Peepl. The Fuse team is also working on creating an SDK for the white label wallet, enabling developers to borrow some of its components into their solutions instead of forking the whole of it.
+The Fuse White Label wallet is the second core piece of Fuse's mobile-centric payment infrastructure. It is an open-source smart contract-based wallet that can be freely forked and customized by any project building on top of Fuse via its API. It is build using the Flutter 2.2 framework, which makes its codebase suitable for multiple platforms, including mobile and desktop. More than 60 forks of the wallet have already been created, including Fuse Cash, CuraDAI and Peepl. The Fuse team is also working on creating an SDK for the white label wallet, enabling developers to borrow some of its components into their solutions instead of forking the whole of it.
 
 ### [The Graph](https://thegraph.com)
 
@@ -87,9 +87,17 @@ The Graph is a decentralized protocol enabling convenient indexing of the data g
 
 FuseSwap is the first Fuse-native AMM-based decentralized exchange \(DEX\) based on a fork of Uniswap 2.0. Its main advantages are its speed and low cost of trades thanks to it running on top of Fuse Network.
 
-* [Fuse Lending Network](https://app.ola.finance/networks/0x5809FAB2Bf39efae6DD8691B7F90c468c234A1A7/markets)
-* [Fuse Rewards](https://rewards.fuse.io)
-* [Fuse Staking](https://staking.fuse.io)
+### [Fuse Lending Network](https://app.ola.finance/networks/0x5809FAB2Bf39efae6DD8691B7F90c468c234A1A7/markets)
+
+Fuse Lending Network is the first decentralized lending network on Fuse developed in collaboration with Ola Finance and running on top of the Ola protocol.
+
+### [Fuse Rewards](https://rewards.fuse.io)
+
+Fuse Rewards is a cross-platform gateway for enabling users to conveniently participate in yield farming programs run by Fuse. It currently supports yield farming programs on Fuse Network, Ethereum and Binance Smart Chain.  
+
+### [Fuse Staking](https://staking.fuse.io)
+
+Fuse Staking is a platform created by the Fuse team to make it easier for FUSE token holders to delegate their tokens to the network validators of their choice. 
 
 ### [FuseDollar](https://medium.com/fusenet/introducing-fusedollar-an-asset-backed-stable-coin-designed-for-first-time-users-dbf143d35e58)
 
@@ -101,9 +109,18 @@ oneFUSE is an innovative stablecoin for the Fuse community created by ICHI. It i
 
 ## Communities
 
-* [GoodDollar](https://gooddollar.org)
-* [Kolektivo](https://kolektivo.co)
-* [Comunitaria](https://comunitaria.com)
+### GoodDollar
+
+GoodDollar is a digital universal basic income \(UBI\) project on top of Fuse and has consistently featured among the top 10 dApps by the number of daily users. It uses returns on DeFi investments from donors to distribute funds to users in G$ tokens. Users can claim their share of available G$ daily. 
+
+### [Kolektivo](https://kolektivo.co)
+
+Kolektivo is a project developing regenerative economies. It is currently rolling out the CuraDAI local currency and mobile wallet app for the island of Curaçao.
+
+### [Comunitaria](https://comunitaria.com)
+
+Comunitaria \(formerly Wikibank\) deploys Fuse in several Spanish cities to solve an important problem in the charity industry. It converts donations into tokens that aid recipients can only spend in designated stores on fresh food. 
+
 * PeeplEat
 * [Bitazza](https://bitazza.com)
 * The Wellbeing Protocol
@@ -111,11 +128,13 @@ oneFUSE is an innovative stablecoin for the Fuse community created by ICHI. It i
 
 ## Wallets
 
-* [Fuse Cash](https://fuse.cash)
+### [Fuse Cash](https://fuse.cash)
+
+Fuse Cash is a consumer-focused implementation of the Fuse Wallet technology. Fuse's answer to Venmo and Cash App, it is an extremely user-friendly mobile gateway to crypto payments and DeFi. It features free fUSD deposits via the Ramp Network plugin, a built-in DEX functionality, a savings program for fUSD holders and NFT support.
 
 ### Fuse Wallet \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.fusecash&hl=en&gl=US); on [iOS](https://apps.apple.com/il/app/fuse-wallet/id1491783654)\)
 
-Fuse Wallet is an instance of the Fuse White Label wallet available for download on both Android and iOS. 
+Fuse Wallet is an instance of the Fuse White Label wallet available for download on both Android and iOS. It enables easy onboarding of users to communities created through the Fuse Studio no-coding UI.
 
 * CuraDAI \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.curadai&hl=en&gl=US); on [iOS](https://apps.apple.com/fr/app/curadai/id1553242607)\)
 * MetaMask Mobile
