@@ -52,12 +52,24 @@ Transak is a major fiat on-ramp provider. Fuse integrates Transak for enabling f
 
 ### [Moneri](https://monerium.com)u[m](https://ichi.org)
 
-Monerium enables the issuance of tokenized electronic money on the blockchain. Unlike stablecoins, e-money is backed by funds on users' bank accounts opened with Monerium. The goal of the collaboration is to bring tokenized e-money to Fuse. 
+Monerium enables the issuance of tokenized electronic money on the blockchain. Unlike stablecoins, e-money is backed by funds on users' bank accounts opened with Monerium. The goal of the collaboration is to bring tokenized e-money to Fuse.
 
-* [ICHI](https://ichi.org)
-* [Ola Finance](https://ola.finance)
-* [Krystal DeFi](https://krystal.app)
-* [Dapp.com](https://dapp.com)
+### [ICHI](https://ichi.org)
+
+ICHI is a platform for issuing and managing fully-backed hybrid stablecoins for blockchain communities. ICHI-powered stablecoins are also community-governed in contrast to the currently dominant fiat-backed alternatives. The partnership with ICHI has resulted in the issuance of the oneFUSE stablecoin.
+
+### [Ola Finance](https://ola.finance)
+
+Ola Finance is a cross-platform protocol for creating custom decentralized lending networks. Unlike with other major lending protocols, networks created on top of Ola can support any combinations of crypto assets on both the supply and borrowing side. The partnership with Ola helped launch Fuse Lending Network.
+
+### [Krystal DeFi](https://krystal.app)
+
+Krystal DeFi is a mobile app that strives to be a single access point to DeFi on multiple chains. The initial stage of the integration with Fuse will involve the addition of the FuseSwap DEX to the app's DEX aggregator. Later on, Krystal will also integrate the Fuse RPC and support Fuse Network natively.
+
+### Dapp.com
+
+Dapp.com is a major data aggregator for blockchain-powered applications \(dApps\). It tracks the activity on Fuse dApps and also helps secure Fuse Network by running a validator node. 
+
 * [GetBlock](https://getblock.io)
 * [Staking Rewards](https://stakingrewards.com)
 * [ChangeNOW](https://changenow.io)
@@ -122,7 +134,6 @@ Kolektivo is a project developing regenerative economies. It is currently rollin
 Comunitaria \(formerly Wikibank\) deploys Fuse in several Spanish cities to solve an important problem in the charity industry. It converts donations into tokens that aid recipients can only spend in designated stores on fresh food. 
 
 * PeeplEat
-* [Bitazza](https://bitazza.com)
 * The Wellbeing Protocol
 * ByeleX
 
@@ -136,9 +147,13 @@ Fuse Cash is a consumer-focused implementation of the Fuse Wallet technology. Fu
 
 Fuse Wallet is an instance of the Fuse White Label wallet available for download on both Android and iOS. It enables easy onboarding of users to communities created through the Fuse Studio no-coding UI.
 
-* CuraDAI \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.curadai&hl=en&gl=US); on [iOS](https://apps.apple.com/fr/app/curadai/id1553242607)\)
-* MetaMask Mobile
-* imToken
+### CuraDAI \(on [Android](https://play.google.com/store/apps/details?id=io.fuse.curadai&hl=en&gl=US); on [iOS](https://apps.apple.com/fr/app/curadai/id1553242607)\)
+
+CuraDAI is Kolektivo's fork of Fuse Wallet designed to support transactions with the CuraDAI local currency for the island of Curaçao and promote the CuraDAI community engagement. 
+
+### Other wallets 
+
+Other wallets currently supporting Fuse Network natively include Metamask \(browser extension\), Metamask Mobile and imToken.  
 
 
 
