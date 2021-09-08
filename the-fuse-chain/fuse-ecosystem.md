@@ -153,7 +153,7 @@ CuraDAI is Kolektivo's fork of Fuse Wallet designed to support transactions with
 
 ### Other wallets 
 
-Other wallets currently supporting Fuse Network natively include Metamask \(browser extension\), Metamask Mobile and imToken.  
+Other wallets currently supporting Fuse Network natively include Metamask \(browser extension on PC\), Metamask Mobile and imToken.  
 
 
 
