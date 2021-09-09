@@ -156,6 +156,10 @@ PeeplEat is a Fuse ecosystem project working to decentralize and disrupt the foo
 
 The vision of The Wellbeing Protocol is to facilitate the creation of local communities focused on the wellbeing of their members. It is currently running the first pilot in Cannons Creek, New Zealand.
 
+### [Flambu](https://flambu.com)
+
+Flambu is a project building a sharing economy on Fuse. Its mobile app will enable anyone to lend or rent anything on the platform. Flambu will use a two-token approach involving the FLAM utility token and the FBX stablecoin. 
+
 
 
 ## Wallets
