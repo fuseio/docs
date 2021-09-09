@@ -4,10 +4,6 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 # Fuse ecosystem
 
-{% hint style="info" %}
-**Check out our website for more projects and announcements and reach out to submit new projects to the list hello@fuse.io**
-{% endhint %}
-
 ## Partnerships and integrations
 
 ### [Ramp Network](https://ramp.network)
