@@ -148,11 +148,11 @@ Kolektivo is a project developing regenerative economies. It is currently rollin
 
 Comunitaria \(formerly Wikibank\) deploys Fuse in several Spanish cities to solve an important problem in the charity industry. It converts donations into tokens that aid recipients can only spend in designated stores on fresh food. 
 
-### PeeplEat
+### [PeeplEat](https://itsaboutpeepl.com/)
 
 PeeplEat is a Fuse ecosystem project working to decentralize and disrupt the food delivery platforms like Deliveroo and UberEats. It connects customers to restaurants via a fork of Fuse Wallet and uses the PPL token for incentivizing community participation.
 
-### The Wellbeing Protocol
+### [The Wellbeing Protocol](https://www.thewellbeingprotocol.org/)
 
 The vision of The Wellbeing Protocol is to facilitate the creation of local communities focused on the wellbeing of their members. It is currently running the first pilot in Cannons Creek, New Zealand.
 
