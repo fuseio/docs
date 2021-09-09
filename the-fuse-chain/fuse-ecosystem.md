@@ -74,7 +74,9 @@ Dapp.com is a major data aggregator for blockchain-powered applications \(dApps\
 
 GetBlock is a service that offers fast and easy connections to the nodes of multiple blockchains via a convenient API. GetBlock runs a dedicated node for Fuse.
 
-* [Staking Rewards](https://stakingrewards.com)
+### [Staking Rewards](https://stakingrewards.com)
+
+ Staking Rewards is a leading platform aggregating data for users wishing to earn yield with crypto assets. The integration with Staking Rewards provides the Fuse community with a convenient tool for tracking the passive income opportunities involving the Fuse token. 
 
 ### [ChangeNOW](https://changenow.io)
 
