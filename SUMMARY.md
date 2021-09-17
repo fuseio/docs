@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Fuse.io](README.md)
+* [Summary](README.md)
 
 ## GENERAL
 

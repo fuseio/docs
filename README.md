@@ -2,7 +2,7 @@
 description: Welcome to the documentation portal for Fuse Network
 ---
 
-# Fuse.io
+# Summary
 
 ![](.gitbook/assets/rocket-illuss.jpg)
 
