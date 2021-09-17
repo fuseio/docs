@@ -6,7 +6,7 @@ description: Welcome to the documentation portal for Fuse Network
 
 ![](.gitbook/assets/rocket-illuss.jpg)
 
-Welcome to the go-to portal for in-depth information about the Fuse Network \(Fuse\) platform and ecosystem!
+Welcome to the go-to portal for in-depth information about the Fuse Network \(Fuse\) platform and ecosystem and how to interact with them!
 
 The Fuse documentation is separated into three major parts:
 
