@@ -17,25 +17,25 @@
 * [FIPS](general/fips.md)
 * [Fuse Dollar](general/fuse-dollar.md)
 
-## For developers <a id="fuse-services"></a>
+## Technical Docs
 
-* [TheGraph](fuse-services/thegraph.md)
-* [Fuseswap API](fuse-services/fuseswap-api.md)
-* [White label wallet](fuse-services/overview.md)
-* [Studio API](fuse-services/api.md)
-* [Fuse Network Consensus \(technical\)](fuse-services/fuse-consensus-technical/README.md)
-  * [Contracts Overview](fuse-services/fuse-consensus-technical/fuse-network-contracts.md)
-  * [Stake, Delegate and Withdraw](fuse-services/fuse-consensus-technical/stake-delegate-and-withdraw.md)
-  * [Vote](fuse-services/fuse-consensus-technical/vote.md)
-  * [End-of-Cycle flow](fuse-services/fuse-consensus-technical/end-of-cycle-flow.md)
-* [Fuse Bridges \(technical\)](fuse-services/bridges/README.md)
-  * [Fuse: Ethereum ↔ Fuse](fuse-services/bridges/eth-fuse-native-bridge.md)
-  * [Multi ERC-20: Ethereum ↔ Fuse](fuse-services/bridges/eth-fuse-erc20-token-bridge.md)
-  * [GoodDollar: Ethereum ↔ Fuse](fuse-services/bridges/gooddollar-ethereum-fuse.md)
-  * [Fuse Native: BSC ↔ Fuse](fuse-services/bridges/bsc-fuse-native.md)
-  * [BNB: BSC ↔ Fuse](fuse-services/bridges/bnb-bsc-fuse.md)
-  * [Multi ERC20: BSC ↔ Fuse](fuse-services/bridges/bsc-fuse-erc20-bridge.md)
-* [Major Deployed Contracts](fuse-services/major-deployed-contracts.md)
+* [TheGraph](technical-docs/thegraph.md)
+* [Fuseswap API](technical-docs/fuseswap-api.md)
+* [White label wallet](technical-docs/overview.md)
+* [Studio API](technical-docs/api.md)
+* [Fuse Network Consensus \(technical\)](technical-docs/fuse-consensus-technical/README.md)
+  * [Contracts Overview](technical-docs/fuse-consensus-technical/fuse-network-contracts.md)
+  * [Stake, Delegate and Withdraw](technical-docs/fuse-consensus-technical/stake-delegate-and-withdraw.md)
+  * [Vote](technical-docs/fuse-consensus-technical/vote.md)
+  * [End-of-Cycle flow](technical-docs/fuse-consensus-technical/end-of-cycle-flow.md)
+* [Fuse Bridges \(technical\)](technical-docs/bridges/README.md)
+  * [Fuse: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-native-bridge.md)
+  * [Multi ERC-20: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-erc20-token-bridge.md)
+  * [GoodDollar: Ethereum ↔ Fuse](technical-docs/bridges/gooddollar-ethereum-fuse.md)
+  * [Fuse Native: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-native.md)
+  * [BNB: BSC ↔ Fuse](technical-docs/bridges/bnb-bsc-fuse.md)
+  * [Multi ERC20: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-erc20-bridge.md)
+* [Major Deployed Contracts](technical-docs/major-deployed-contracts.md)
 
 ## Become a validator
 
