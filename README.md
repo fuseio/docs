@@ -26,7 +26,7 @@ You should read this if your are:
   * I want to learn about the Wallet and it's benefits - Go to the [_Fuse Wallet overview_](fuse-services/overview.md)\_\_
 * **I am a developer**
   * I want to integrate! - Go to the [_Fuse API reference_](fuse-services/api.md)\_\_
-  * I want to learn about Fuse contracts - Go to the [_Fuse Chain contracts_](the-fuse-chain/consensus-contracts/)\_\_
+  * I want to learn about Fuse contracts - Go to the [_Fuse Chain contracts_](fuse-services/fuse-consensus-technical/)\_\_
   * Check us out on [_Github_ ](https://github.com/fuseio)
 
 {% hint style="info" %}
