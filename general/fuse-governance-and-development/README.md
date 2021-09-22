@@ -10,7 +10,7 @@ Fuse Foundation **employs the Fuse project team** whose members' profiles can be
 
 The project team implements network protocol updates adopted by the validators, other protocol changes that do not require validator votes, maintains the full node software. It develops the mobile-centric infrastructure for creating and managing token communities on Fuse. It also works on boosting the adoption of the network through improving the Fuse tech stack, securing new partnerships and integrations, onboarding ecosystem projects and marketing the platform within the crypto space and beyond.
 
-That said, since Fuse is a decentralized platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Fuse. The project team's role is only to facilitate and coordinate.
+That said, since Fuse is a decentralized platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Fuse, including the development of the network and node software. The project team's role is only to facilitate and coordinate.
 
 3\) **Fuse Assembly.** See the Assembly [page](https://docs.fuse.io/general/fuse-governance/fuse-assembly) for more details.   
 
