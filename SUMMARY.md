@@ -16,6 +16,8 @@
   * [FUSE Supply and Current Distribution](general/fuse-token/fuse-supply-and-current-distribution.md)
   * [FUSE Tokenomics](general/fuse-token/fuse-tokenomics.md)
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)
+* [Fuse Governance](general/fuse-governance/README.md)
+  * [Fuse Assembly](general/fuse-governance/fuse-assembly.md)
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
 * [FIPS](general/fips.md)
 * [Fuse Dollar](general/fuse-dollar.md)
