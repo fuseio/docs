@@ -45,11 +45,11 @@
 * [Getting started as a validator](technical-docs/getting-started-2/README.md)
   * [Getting started as a validator on Spark \(Testnet\)](technical-docs/getting-started-2/getting-started-as-a-validator-on-spark-testnet.md)
 * [How to run a node?](technical-docs/run-your-own-validator.md)
+* [Studio Backend API](technical-docs/studio-backend-api.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
 * [Studio overview](the-fuse-studio/overview.md)
-* [Studio Backend API](the-fuse-studio/studio-backend-api.md)
 * [Studio tutorials & walkthroughs](the-fuse-studio/getting-started/README.md)
   * [Difference between using Ethereum Mainnet and Ethereum Ropsten](the-fuse-studio/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
   * [Setting up Metamask and Torus](the-fuse-studio/getting-started/setting-up-metamask-and-torus.md)
