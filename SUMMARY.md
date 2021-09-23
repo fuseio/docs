@@ -33,6 +33,7 @@
   * [Stake, Delegate and Withdraw](technical-docs/fuse-consensus-technical/stake-delegate-and-withdraw.md)
   * [Vote](technical-docs/fuse-consensus-technical/vote.md)
   * [End-of-Cycle flow](technical-docs/fuse-consensus-technical/end-of-cycle-flow.md)
+  * [Contract Addresses](technical-docs/fuse-consensus-technical/contract-addresses.md)
 * [Fuse Bridges \(technical\)](technical-docs/bridges/README.md)
   * [Fuse: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-native-bridge.md)
   * [Multi ERC-20: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-erc20-token-bridge.md)
@@ -45,7 +46,8 @@
 ## Become a validator
 
 * [Validation overview](become-a-validator/how-to-become-a-validator.md)
-* [Getting started as a validator](become-a-validator/getting-started.md)
+* [Getting started as a validator](become-a-validator/getting-started/README.md)
+  * [Getting started as a validator on Spark \(Testnet\)](become-a-validator/getting-started/getting-started-as-a-validator-on-spark-testnet.md)
 * [How to run a node?](become-a-validator/run-your-own-validator.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>

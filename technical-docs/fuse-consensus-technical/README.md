@@ -25,7 +25,7 @@ This contract is based on `non-reporting ValidatorSet` [described in Parity Wiki
 {% hint style="info" %}
 minimum stake amount = 100,000 Fuse token
 
-cycle duration blocks = 1440 \(approximately 2 hours\)
+cycle duration blocks = 35460 \(approximately 2 days\)
 
 snapshots taken per cycle = 10
 {% endhint %}
