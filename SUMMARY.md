@@ -50,7 +50,6 @@
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
 * [Studio overview](the-fuse-studio/overview.md)
-* [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
 
 ## Fuseswap
@@ -85,6 +84,7 @@
   * [How to add Fuse Network to your Metamask](tutorials/getting-started/how-to-add-fuse-to-your-metamask.md)
   * [Testing the studio for free on Ropsten](tutorials/getting-started/using-the-studio-for-free-on-ropsten.md)
   * [How to add Fuse Network to MEW](tutorials/getting-started/how-to-add-fuse-network-to-mew.md)
+* [Open your community on Fuse wallet](tutorials/getting-started-1.md)
 
 ## Security Practices
 
