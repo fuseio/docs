@@ -22,7 +22,7 @@
   * [Fuse Studio](general/fuse-infrastructure/fuse-studio.md)
   * [Fuse Wallet Technology](general/fuse-infrastructure/wallet-technology.md)
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
-* [FIPS](general/fips.md)
+* [Fuse Improvement Proposals \(FIPs\)](general/fips.md)
 * [DeFi on Fuse](general/defi-on-fuse.md)
 
 ## Technical Docs

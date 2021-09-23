@@ -1,4 +1,4 @@
-# FIPS
+# Fuse Improvement Proposals \(FIPs\)
 
 FIPS are Fuse Improvement proposals that are published on Github and  extend capabilities of the network and improve it over time. Proposals can be suggested by any entity and discussed under this Github repository:
 
