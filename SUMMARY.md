@@ -42,13 +42,9 @@
   * [BNB: BSC ↔ Fuse](technical-docs/bridges/bnb-bsc-fuse.md)
   * [Multi ERC20: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-erc20-bridge.md)
 * [Major Deployed Contracts](technical-docs/major-deployed-contracts.md)
-
-## Become a validator
-
-* [Validation overview](become-a-validator/how-to-become-a-validator.md)
-* [Getting started as a validator](become-a-validator/getting-started/README.md)
-  * [Getting started as a validator on Spark \(Testnet\)](become-a-validator/getting-started/getting-started-as-a-validator-on-spark-testnet.md)
-* [How to run a node?](become-a-validator/run-your-own-validator.md)
+* [Getting started as a validator](technical-docs/getting-started-2/README.md)
+  * [Getting started as a validator on Spark \(Testnet\)](technical-docs/getting-started-2/getting-started-as-a-validator-on-spark-testnet.md)
+* [How to run a node?](technical-docs/run-your-own-validator.md)
 
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
