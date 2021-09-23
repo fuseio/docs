@@ -18,9 +18,12 @@
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)
 * [Fuse Governance and Development](general/fuse-governance-and-development/README.md)
   * [Fuse Assembly](general/fuse-governance-and-development/fuse-assembly.md)
+* [Fuse Mobile-Centric Infrastructure](general/fuse-infrastructure/README.md)
+  * [Fuse Studio](general/fuse-infrastructure/fuse-studio.md)
+  * [Fuse Wallet Technology](general/fuse-infrastructure/wallet-technology.md)
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
 * [FIPS](general/fips.md)
-* [Fuse Dollar](general/fuse-dollar.md)
+* [DeFi on Fuse](general/defi-on-fuse.md)
 
 ## Technical Docs
 
@@ -46,11 +49,6 @@
   * [Getting started as a validator on Spark \(Testnet\)](technical-docs/getting-started-2/getting-started-as-a-validator-on-spark-testnet.md)
 * [How to run a node?](technical-docs/run-your-own-validator.md)
 * [Studio Backend API](technical-docs/studio-backend-api.md)
-
-## Launch a community on Fuse <a id="the-fuse-studio"></a>
-
-* [Studio overview](the-fuse-studio/overview.md)
-* [FAQ](the-fuse-studio/faq.md)
 
 ## Fuseswap
 
