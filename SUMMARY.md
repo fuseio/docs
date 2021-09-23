@@ -50,13 +50,6 @@
 ## Launch a community on Fuse <a id="the-fuse-studio"></a>
 
 * [Studio overview](the-fuse-studio/overview.md)
-* [Studio tutorials & walkthroughs](the-fuse-studio/getting-started/README.md)
-  * [Difference between using Ethereum Mainnet and Ethereum Ropsten](the-fuse-studio/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
-  * [Setting up Metamask and Torus](the-fuse-studio/getting-started/setting-up-metamask-and-torus.md)
-  * [Community creation tutorial](the-fuse-studio/getting-started/community-creation-tutorial.md)
-  * [How to add Fuse Network to your Metamask](the-fuse-studio/getting-started/how-to-add-fuse-to-your-metamask.md)
-  * [Testing the studio for free on Ropsten](the-fuse-studio/getting-started/using-the-studio-for-free-on-ropsten.md)
-  * [How to add Fuse Network to MEW](the-fuse-studio/getting-started/how-to-add-fuse-network-to-mew.md)
 * [Open your community on Fuse wallet](the-fuse-studio/getting-started-1.md)
 * [FAQ](the-fuse-studio/faq.md)
 
@@ -85,6 +78,13 @@
 * [Adding Liquidity on PCS](tutorials/adding-liquidity-on-pcs.md)
 * [Metamask+ Ledger live tutorial](tutorials/metamask+-ledger-live-tutorial.md)
 * [How to use WalletConnect on fuse.cash and add liquidity on Fuseswap](tutorials/walletconnect-tutorial.md)
+* [Studio tutorials & walkthroughs](tutorials/getting-started/README.md)
+  * [Difference between using Ethereum Mainnet and Ethereum Ropsten](tutorials/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
+  * [Setting up Metamask and Torus](tutorials/getting-started/setting-up-metamask-and-torus.md)
+  * [Community creation tutorial](tutorials/getting-started/community-creation-tutorial.md)
+  * [How to add Fuse Network to your Metamask](tutorials/getting-started/how-to-add-fuse-to-your-metamask.md)
+  * [Testing the studio for free on Ropsten](tutorials/getting-started/using-the-studio-for-free-on-ropsten.md)
+  * [How to add Fuse Network to MEW](tutorials/getting-started/how-to-add-fuse-network-to-mew.md)
 
 ## Security Practices
 
