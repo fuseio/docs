@@ -2,7 +2,7 @@
 description: Security practices for keeping your fuse.cash wallet secured
 ---
 
-# fuse.cash wallet
+# fuse.cash wallet security guidelines
 
 ## Useful Guidelines on Keeping Your fuse.cash Wallet Secured 🔐
 

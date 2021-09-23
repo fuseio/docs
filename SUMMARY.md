@@ -83,10 +83,7 @@
   * [Testing the studio for free on Ropsten](tutorials/getting-started/using-the-studio-for-free-on-ropsten.md)
   * [How to add Fuse Network to MEW](tutorials/getting-started/how-to-add-fuse-network-to-mew.md)
 * [Open your community on Fuse wallet](tutorials/getting-started-1.md)
-
-## Security Practices
-
-* [fuse.cash wallet](security-practices/fusecash.md)
+* [fuse.cash wallet security guidelines](tutorials/fusecash.md)
 
 ## Links
 
