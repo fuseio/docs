@@ -36,7 +36,7 @@
 
 * [TheGraph](technical-docs/thegraph.md)
 * [Fuseswap API](technical-docs/fuseswap-api.md)
-* [Studio API](technical-docs/api.md)
+* [Fuse Studio API](technical-docs/api.md)
 * [Fuse Network Consensus \(technical\)](technical-docs/fuse-consensus-technical/README.md)
   * [Contracts Overview](technical-docs/fuse-consensus-technical/fuse-network-contracts.md)
   * [Stake, Delegate and Withdraw](technical-docs/fuse-consensus-technical/stake-delegate-and-withdraw.md)
