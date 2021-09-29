@@ -32,7 +32,7 @@
   * [Stablecoins](general/defi-on-fuse/stablecoins.md)
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
 
-## Technical Docs
+## Developer Docs <a id="technical-docs"></a>
 
 * [TheGraph](technical-docs/thegraph.md)
 * [Fuseswap API](technical-docs/fuseswap-api.md)
