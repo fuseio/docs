@@ -14,7 +14,7 @@ As of August 5, 2021, the distribution of the FUSE tokens issued at genesis amon
 
 ![](../../.gitbook/assets/token-dist-current.png)
 
-96,800,000 FUSE tokens had been distributed into circulation via the private and public sale, the allocations made using the unlocked portion of the Bootstrap Pool and the unlock of FUSE tokens allocated to the early investors, advisors and team. 
+96,800,000 FUSE tokens had been distributed into circulation via the private and public sale, the allocations made using the unlocked portion of the Bootstrap Pool and the unlock of FUSE tokens allocated to early contributors, advisors and team. 
 
 203.2 million FUSE remained locked or undistributed in the Future Dev pool, Bootstrap Pool and ETOP \(Employee Token Option Plan\). 
 
