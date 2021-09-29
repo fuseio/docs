@@ -34,7 +34,7 @@ _**Council Member, Business & Marketing**_
 
 _**Council Member, Business & Finance**_
 
-> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the Fuse ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of the network as an investment opportunity.
+> Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the Fuse ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of Fuse in the business community.
 
 ### **4. Bertrand Juglas** <a id="41a8"></a>
 
