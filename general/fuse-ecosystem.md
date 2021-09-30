@@ -142,6 +142,12 @@ oneFUSE is an innovative stablecoin for the Fuse community created by ICHI. It i
 
 vfat is a multichain platform enabling users to participate in yield farming programs on various chains. vfat currently covers yield farming programs on the Fuse-native DEX FuseSwap.
 
+## NFTs
+
+### [The FUSE BAR](https://www.fusel.io/)
+
+The FUSE BAR is the first NFT project running live on top of Fuse Network. It enables users to generate Fusels, or NFTs with random drink recipes with several degrees of rarity.  
+
 ## Communities
 
 ### GoodDollar
