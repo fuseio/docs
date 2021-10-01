@@ -2,7 +2,7 @@
 description: We will learn how to add liquidity on FUSE-BNB pair on Pancakeswap.
 ---
 
-# Adding Liquidity on PCS
+# Adding Liquidity on Pancake Swap
 
 **Prerequisites:**
 

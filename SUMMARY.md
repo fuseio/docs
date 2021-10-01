@@ -70,6 +70,7 @@
   * [MEW Tutorial](consumer-tutorials/wallet-tutorials/mew-tutorial.md)
   * [Trust wallet tutorial](consumer-tutorials/wallet-tutorials/wallet-tutorials.md)
   * [Tutorial to store FUSE\(Fusenet\) on Ledger](consumer-tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
+  * [fuse.cash wallet security guidelines](consumer-tutorials/wallet-tutorials/fusecash.md)
   * [imToken wallet tutorial](consumer-tutorials/wallet-tutorials/imtoken-wallet-tutorial.md)
 * [Staking tutorials](consumer-tutorials/staking-tutorials/README.md)
   * [Staking tutorial using Ledger](consumer-tutorials/staking-tutorials/staking-tutorial-using-ledger.md)
@@ -81,7 +82,6 @@
   * [Bridge Fuse network&lt;--&gt;BSC](consumer-tutorials/bridge-tutorials/bridge-fuse-network-less-than-greater-than-bsc.md)
   * [Transfer FUSE or ERC20 using Bridge on Fuseswap](consumer-tutorials/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
   * [Using the bridge with ERC20 tokens directly through the contract](consumer-tutorials/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
-* [Adding Liquidity on PCS](consumer-tutorials/adding-liquidity-on-pcs.md)
 * [Studio tutorials & walkthroughs](consumer-tutorials/getting-started/README.md)
   * [Difference between using Ethereum Mainnet and Ethereum Ropsten](consumer-tutorials/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
   * [Setting up Metamask and Torus](consumer-tutorials/getting-started/setting-up-metamask-and-torus.md)
@@ -89,7 +89,7 @@
   * [How to add Fuse Network to your Metamask](consumer-tutorials/getting-started/how-to-add-fuse-to-your-metamask.md)
   * [Testing the studio for free on Ropsten](consumer-tutorials/getting-started/using-the-studio-for-free-on-ropsten.md)
   * [How to add Fuse Network to MEW](consumer-tutorials/getting-started/how-to-add-fuse-network-to-mew.md)
-* [fuse.cash wallet security guidelines](consumer-tutorials/fusecash.md)
+* [Adding Liquidity on Pancake Swap](consumer-tutorials/adding-liquidity-on-pcs.md)
 
 ## Links
 

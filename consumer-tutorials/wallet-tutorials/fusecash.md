@@ -6,7 +6,7 @@ description: Security practices for keeping your fuse.cash wallet secured
 
 ## Useful Guidelines on Keeping Your fuse.cash Wallet Secured 🔐
 
-![](../.gitbook/assets/fuse-cash-card-image-1200x628-.png)
+![](../../.gitbook/assets/fuse-cash-card-image-1200x628-.png)
 
 ###  **1. Start with a Secure Foundation for Your Wallet**
 
