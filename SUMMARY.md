@@ -23,6 +23,7 @@
   * [Communities, Their Creation and Management](general/fuse-infrastructure/fuse-communities-1.md)
   * [Fuse Wallet Technology](general/fuse-infrastructure/wallet-technology.md)
   * [Proxy Wallets and Fee Abstraction](general/fuse-infrastructure/proxy-wallets-and-fee-abstraction.md)
+  * [Fuse Mobile Infrastructure Use Cases](general/fuse-infrastructure/use-cases.md)
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
 * [Community](general/community.md)
 * [Fuse Improvement Proposals \(FIPs\)](general/fips.md)
