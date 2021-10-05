@@ -59,7 +59,7 @@
 * [Studio Backend API](technical-docs/studio-backend-api.md)
 * [FuseDollar Contracts](technical-docs/fusd-contracts.md)
 
-## Consumer Tutorials and Guides <a id="consumer-tutorials"></a>
+## Tutorials and Guides <a id="consumer-tutorials"></a>
 
 * [Network Use Tutorials](consumer-tutorials/network-use/README.md)
   * [Metamask+ Ledger live tutorial](consumer-tutorials/network-use/metamask+-ledger-live-tutorial.md)
