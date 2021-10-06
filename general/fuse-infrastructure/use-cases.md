@@ -2,7 +2,7 @@
 
 Given its easily customizable character, Fuse's mobile-centric infrastructure for issuing tokens and creating communities around them has a wide range of potential applications.
 
-Companies and other organizations can use either Fuse Studio or Fuse Studio in conjunction with a customized version of Fuse Wallet to create tokens to be used by users onboarded either to their proprietary app or a fork of Fuse Wallet. 
+Companies and other organizations can use either Fuse Studio or Fuse Studio in conjunction with a customized version of Fuse Wallet to create tokens to be used by users onboarded either to their proprietary app or a fork of Fuse Wallet. They can also whitelist businesses for the token community ecosystem and activate fiat on-ramps.  
 
 In what follows, we would like to provide a few already implemented token community use cases for illustration.
 
@@ -12,7 +12,7 @@ Community creators on Fuse Studio can either rely on a newly issued token or an 
 
 CuraDAI is the token of a community and mobile app of the same name. The goal of the token is to facilitate the production and trading of locally produced goods and rewarding community members for engagement.
 
-The CuraDAI projects illustrates the low cost of creating and managing token communities.  
+The CuraDAI projects illustrates the low cost of creating and managing token communities and payment systems on Fuse.   
 
 ## A Customer Rewards Token and Food Delivery app
 
