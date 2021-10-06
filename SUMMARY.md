@@ -59,6 +59,9 @@
 * [How to run a node?](technical-docs/run-your-own-validator.md)
 * [Studio Backend API](technical-docs/studio-backend-api.md)
 * [FuseDollar Contracts](technical-docs/fusd-contracts.md)
+* [Earn Sdk](technical-docs/earn-sdk/README.md)
+  * [SingleRewardProgram](technical-docs/earn-sdk/singlerewardprogram.md)
+  * [MultiRewardProgram](technical-docs/earn-sdk/multirewardprogram.md)
 
 ## Tutorials and Guides <a id="consumer-tutorials"></a>
 
