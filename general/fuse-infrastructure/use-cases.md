@@ -2,9 +2,9 @@
 
 Given its easily customizable character, Fuse's mobile-centric infrastructure for issuing tokens and creating communities around them has a wide range of potential applications.
 
-Companies and other organizations can use either Fuse Studio or Fuse Studio in conjunction with a customized version of Fuse Wallet to 
+Companies and other organizations can use either Fuse Studio or Fuse Studio in conjunction with a customized version of Fuse Wallet to create tokens to be used by users onboarded either to their proprietary app or a fork of Fuse Wallet. 
 
-In what follows, we would like to provide a few already implemented use cases for illustration.
+In what follows, we would like to provide a few already implemented token community use cases for illustration.
 
 ## A Stable Currency for a Local Economy
 
