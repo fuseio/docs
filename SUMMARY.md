@@ -35,11 +35,6 @@
   * [Stablecoins](general/defi-on-fuse/stablecoins.md)
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
 
----
-
-* [Fuse Job Openings](job-openings/README.md)
-  * [Full-Stack Developer](job-openings/full-stack-developer.md)
-
 ## Developer Docs <a id="technical-docs"></a>
 
 * [TheGraph](technical-docs/thegraph.md)
@@ -111,4 +106,6 @@
 * [Twitter](https://twitter.com/fuse_network)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
+* [Fuse Job Openings](links/job-openings/README.md)
+  * [Full-Stack Developer](links/job-openings/full-stack-developer.md)
 
