@@ -35,6 +35,11 @@
   * [Stablecoins](general/defi-on-fuse/stablecoins.md)
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
 
+---
+
+* [Fuse Job Openings](job-openings/README.md)
+  * [Full-Stack Developer](job-openings/full-stack-developer.md)
+
 ## Developer Docs <a id="technical-docs"></a>
 
 * [TheGraph](technical-docs/thegraph.md)
