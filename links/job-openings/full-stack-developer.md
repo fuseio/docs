@@ -11,23 +11,23 @@ As a full-stack developer, you will be working directly with the CEO and his tea
 ### Responsibilities
 
 * Build frontend components for Fuse business tools and mobile wallet infrastructure. 
-* Link frontend components to our smart contracts using web3 libraries
-* Integrating projects into Fuse ecosystem
-* Work in close collaboration with the team on product architecture and design
+* Link frontend components to our smart contracts using web3 libraries.
+* Integrating projects into Fuse ecosystem.
+* Work in close collaboration with the team on product architecture and design.
 
 ### Minimum qualifications
 
-* Senior-level React/Redux \(or another front-end library\) development experience
-* Familiarity with databases and full-stack frameworks \(NodeJS/Express, CSS, HTML, Typescript\)
+* Senior-level React/Redux \(or another front-end library\) development experience.
+* Familiarity with databases and full-stack frameworks \(NodeJS/Express, CSS, HTML, Typescript\)..
 * Knowledge of Web3 tech stack: front end libraries, Solidity, EVM.
-* Passion for learning new technologies and tackling novel technical problems
-* Excellent English communication skills
+* Passion for learning new technologies and tackling novel technical problems.
+* Excellent English communication skills.
 
 ### Nice to have
 
-* Experience working with Figma and UI/UX experience more generally
+* Experience working with Figma and UI/UX experience more generally.
 * General knowledge about DeFi. 
-* Bachelor’s degree in Computer Science or similar working experience
+* Bachelor’s degree in Computer Science or similar working experience.
 
 ### Apply now
 
