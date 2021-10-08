@@ -90,6 +90,10 @@ The Mintgate project enables developers to use their tokens of choice for gating
 
 Unmarshal is a cross-chain platform for streamlined indexing and quering of DeFi data. The goal of the partnership with Unmarshal is to extend its support to Fuse Network. [Read more](https://blog.unmarshal.io/unmarshal-forms-strategic-partnership-with-fuse-to-provide-on-chain-data-enhancing-decentralized-2b283c7a51da) on the Unmarshal blog.
 
+### [MultiSender](https://multisender.app)
+
+MultiSender is an online app that enables users to batch-send multiple ERC-20 tokens, including FUSE.
+
 ## Infrastructure/developer tools
 
 ### [Fuse Studio](https://studio.fuse.io)
