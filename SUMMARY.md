@@ -6,13 +6,14 @@
 
 * [Fuse Overview: vision, strategy and platform components](general/fuse-overview.md)
 * [The Fuse Network Blockchain](general/fuse-network-blockchain/README.md)
+  * [Discovering the Network](general/fuse-network-blockchain/discovering-the-network.md)
   * [Fuse Network Consensus](general/fuse-network-blockchain/fuse-consensus.md)
-  * [Validators and Delegation through Staking](general/fuse-network-blockchain/validators-and-delegation.md)
-  * [Ethereum \(EVM\) Compatibility and Smart Contracts](general/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
+  * [Delegation through Staking with Validators](general/fuse-network-blockchain/validators-and-delegation.md)
+  * [Ethereum (EVM) Compatibility and Smart Contracts](general/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
   * [Scaling. Flutter Layer 2 Payments](general/fuse-network-blockchain/scaling-l2-payments.md)
   * [Bridges to Other Chains](general/fuse-network-blockchain/bridges.md)
   * [Fuse Network's Spark Testnet](general/fuse-network-blockchain/fuse-testnet.md)
-* [Fuse Token \(FUSE\)](general/fuse-token/README.md)
+* [Fuse Token (FUSE)](general/fuse-token/README.md)
   * [FUSE Supply and Current Distribution](general/fuse-token/fuse-supply-and-current-distribution.md)
   * [FUSE Tokenomics](general/fuse-token/fuse-tokenomics.md)
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)
@@ -26,7 +27,7 @@
   * [Fuse Mobile Infrastructure Use Cases](general/fuse-infrastructure/use-cases.md)
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
 * [Community](general/community.md)
-* [Fuse Improvement Proposals \(FIPs\)](general/fips.md)
+* [Fuse Improvement Proposals (FIPs)](general/fips.md)
 * [Reference DeFi Products on Fuse](general/defi-on-fuse/README.md)
   * [FuseSwap DEX](general/defi-on-fuse/fuseswap.md)
   * [Fuse Lending Network and the Ola Finance Protocol](general/defi-on-fuse/fuse-lending-network.md)
@@ -34,19 +35,20 @@
   * [Fuse Staking Platform](general/defi-on-fuse/fuse-staking.md)
   * [Stablecoins](general/defi-on-fuse/stablecoins.md)
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
+* [Grants and Bounties](general/grants-and-bounties.md)
 
-## Developer Docs <a id="technical-docs"></a>
+## Developer Docs <a href="technical-docs" id="technical-docs"></a>
 
 * [TheGraph](technical-docs/thegraph.md)
 * [Fuseswap API](technical-docs/fuseswap-api.md)
 * [Fuse Studio API](technical-docs/api.md)
-* [Fuse Network Consensus \(technical\)](technical-docs/fuse-consensus-technical/README.md)
+* [Fuse Network Consensus (technical)](technical-docs/fuse-consensus-technical/README.md)
   * [Contracts Overview](technical-docs/fuse-consensus-technical/fuse-network-contracts.md)
   * [Stake, Delegate and Withdraw](technical-docs/fuse-consensus-technical/stake-delegate-and-withdraw.md)
   * [Vote](technical-docs/fuse-consensus-technical/vote.md)
   * [End-of-Cycle flow](technical-docs/fuse-consensus-technical/end-of-cycle-flow.md)
   * [Contract Addresses](technical-docs/fuse-consensus-technical/contract-addresses.md)
-* [Fuse Bridges \(technical\)](technical-docs/bridges/README.md)
+* [Fuse Bridges (technical)](technical-docs/bridges/README.md)
   * [Fuse: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-native-bridge.md)
   * [Multi ERC-20: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-erc20-token-bridge.md)
   * [GoodDollar: Ethereum ↔ Fuse](technical-docs/bridges/gooddollar-ethereum-fuse.md)
@@ -55,7 +57,7 @@
   * [Multi ERC20: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-erc20-bridge.md)
 * [Major Deployed Contracts](technical-docs/major-deployed-contracts.md)
 * [Getting started as a validator](technical-docs/getting-started-2/README.md)
-  * [Getting started as a validator on Spark \(Testnet\)](technical-docs/getting-started-2/getting-started-as-a-validator-on-spark-testnet.md)
+  * [Getting started as a validator on Spark (Testnet)](technical-docs/getting-started-2/getting-started-as-a-validator-on-spark-testnet.md)
 * [How to run a node?](technical-docs/run-your-own-validator.md)
 * [Studio Backend API](technical-docs/studio-backend-api.md)
 * [FuseDollar Contracts](technical-docs/fusd-contracts.md)
@@ -63,7 +65,7 @@
   * [SingleRewardProgram](technical-docs/earn-sdk/singlerewardprogram.md)
   * [MultiRewardProgram](technical-docs/earn-sdk/multirewardprogram.md)
 
-## Tutorials and Guides <a id="consumer-tutorials"></a>
+## Tutorials and Guides <a href="consumer-tutorials" id="consumer-tutorials"></a>
 
 * [Network Use Tutorials](consumer-tutorials/network-use/README.md)
   * [Metamask+ Ledger live tutorial](consumer-tutorials/network-use/metamask+-ledger-live-tutorial.md)
@@ -73,7 +75,7 @@
   * [Ledger tutorial for FUSE](consumer-tutorials/wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
   * [MEW Tutorial](consumer-tutorials/wallet-tutorials/mew-tutorial.md)
   * [Trust wallet tutorial](consumer-tutorials/wallet-tutorials/wallet-tutorials.md)
-  * [Tutorial to store FUSE\(Fusenet\) on Ledger](consumer-tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
+  * [Tutorial to store FUSE(Fusenet) on Ledger](consumer-tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
   * [fuse.cash wallet security guidelines](consumer-tutorials/wallet-tutorials/fusecash.md)
   * [imToken wallet tutorial](consumer-tutorials/wallet-tutorials/imtoken-wallet-tutorial.md)
 * [Staking tutorials](consumer-tutorials/staking-tutorials/README.md)
@@ -83,7 +85,7 @@
   * [How to use WalletConnect on fuse.cash and add liquidity on Fuseswap](consumer-tutorials/fuseswap-tutorials/walletconnect-tutorial.md)
 * [Bridge tutorials](consumer-tutorials/bridge-tutorials/README.md)
   * [Bridge FUSE/ERC20 tokens](consumer-tutorials/bridge-tutorials/bridge-fuse-erc20-tokens.md)
-  * [Bridge Fuse network&lt;--&gt;BSC](consumer-tutorials/bridge-tutorials/bridge-fuse-network-less-than-greater-than-bsc.md)
+  * [Bridge Fuse network<-->BSC](consumer-tutorials/bridge-tutorials/bridge-fuse-network-less-than-greater-than-bsc.md)
   * [Transfer FUSE or ERC20 using Bridge on Fuseswap](consumer-tutorials/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
   * [Using the bridge with ERC20 tokens directly through the contract](consumer-tutorials/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
 * [Studio tutorials & walkthroughs](consumer-tutorials/getting-started/README.md)
@@ -108,4 +110,3 @@
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
 * [Fuse Job Openings](links/job-openings/README.md)
   * [Full-Stack Developer](links/job-openings/full-stack-developer.md)
-

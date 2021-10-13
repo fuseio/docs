@@ -6,7 +6,7 @@ Fuse Network is a project and ecosystem featuring a fast and low-cost Ethereum-c
 
 ### About the job
 
-As a full-stack developer, you will be working directly with the CEO and his team of experienced engineers on product development. You’ll have an opportunity to work across frontend + web3 integrations as well as backend applications \(such as building SDKs\).
+As a full-stack developer, you will be working directly with the CEO and his team of experienced engineers on product development. You’ll have an opportunity to work across frontend + web3 integrations as well as backend applications (such as building SDKs).
 
 ### Responsibilities
 
@@ -17,8 +17,8 @@ As a full-stack developer, you will be working directly with the CEO and his tea
 
 ### Minimum qualifications
 
-* Senior-level React/Redux \(or another front-end library\) development experience.
-* Familiarity with databases and full-stack frameworks \(NodeJS/Express, CSS, HTML, Typescript\)..
+* Senior-level React/Redux (or another front-end library) development experience.
+* Familiarity with databases and full-stack frameworks (NodeJS/Express, CSS, HTML, Typescript)..
 * Knowledge of Web3 tech stack: front end libraries, Solidity, EVM.
 * Passion for learning new technologies and tackling novel technical problems.
 * Excellent English communication skills.
@@ -31,7 +31,7 @@ As a full-stack developer, you will be working directly with the CEO and his tea
 
 ### Apply now
 
-Please contact [leon@fuse.io](mailto:leon@fuse.io) describing your interest in the role and attach a CV.   
+Please contact [leon@fuse.io](mailto:leon@fuse.io) describing your interest in the role and attach a CV. \
 
 
 ### LOCATION
@@ -53,4 +53,3 @@ Attractive compensation package including token allocation and the option of get
 ### KEYWORDS
 
 EVM, DeFi, Engineer, Ethereum, Frontend, Full Stack Engineer, React, Web3
-

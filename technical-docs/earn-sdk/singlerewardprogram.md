@@ -15,43 +15,43 @@ const rewardProgram = new SingleRewardProgram(stakingAddress, web3Provider)
 
 ### Hierarchy
 
-* `RewardProgram`
+*   `RewardProgram`
 
-  ↳ **`SingleRewardProgram`**
+    ↳ **`SingleRewardProgram`**
 
 ### Table of contents
 
 #### Constructors
 
-* [constructor](SingleRewardProgram.md#constructor)
+* [constructor](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#constructor)
 
 #### Properties
 
-* [stakingAddress](SingleRewardProgram.md#stakingaddress)
-* [web3](SingleRewardProgram.md#web3)
+* [stakingAddress](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#stakingaddress)
+* [web3](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#web3)
 
 #### Methods
 
-* [deposit](SingleRewardProgram.md#deposit)
-* [getStakerInfo](SingleRewardProgram.md#getstakerinfo)
-* [getStakingTimes](SingleRewardProgram.md#getstakingtimes)
-* [getStats](SingleRewardProgram.md#getstats)
-* [getStatsData](SingleRewardProgram.md#getstatsdata)
-* [withdraw](SingleRewardProgram.md#withdraw)
-* [withdrawReward](SingleRewardProgram.md#withdrawreward)
+* [deposit](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#deposit)
+* [getStakerInfo](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#getstakerinfo)
+* [getStakingTimes](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#getstakingtimes)
+* [getStats](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#getstats)
+* [getStatsData](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#getstatsdata)
+* [withdraw](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#withdraw)
+* [withdrawReward](https://app.gitbook.com/s/-Ldmf-muel7HZszBB8qU/technical-docs/earn-sdk/SingleRewardProgram.md#withdrawreward)
 
 ### Constructors
 
 #### constructor
 
-• **new SingleRewardProgram**\(`stakingAddress`, `provider`\)
+• **new SingleRewardProgram**(`stakingAddress`, `provider`)
 
 **Parameters**
 
-| Name | Type |
-| :--- | :--- |
+| Name             | Type     |
+| ---------------- | -------- |
 | `stakingAddress` | `string` |
-| `provider` | `any` |
+| `provider`       | `any`    |
 
 **Overrides**
 
@@ -87,7 +87,7 @@ RewardProgram.web3
 
 #### deposit
 
-▸ **deposit**\(`amount`, `account`\): `Promise`&lt;`any`&gt;
+▸ **deposit**(`amount`, `account`): `Promise`<`any`>
 
 Deposit the provided amount of the staking token into the staking contract
 
@@ -100,14 +100,14 @@ rewardProgram.deposit(
 
 **Parameters**
 
-| Name | Type | Description |
-| :--- | :--- | :--- |
-| `amount` | `string` | the number of staking tokens to deposit |
-| `account` | `string` | the account sending the transaction |
+| Name      | Type     | Description                             |
+| --------- | -------- | --------------------------------------- |
+| `amount`  | `string` | the number of staking tokens to deposit |
+| `account` | `string` | the account sending the transaction     |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Overrides**
 
@@ -119,7 +119,7 @@ RewardProgram.deposit
 
 #### getStakerInfo
 
-▸ **getStakerInfo**\(`account`\): `Promise`&lt;`any`&gt;
+▸ **getStakerInfo**(`account`): `Promise`<`any`>
 
 Get reward information for the provided address and rewardToken
 
@@ -132,13 +132,13 @@ rewardProgram.getStakerInfo(
 
 **Parameters**
 
-| Name | Type | Description |
-| :--- | :--- | :--- |
+| Name      | Type     | Description                                 |
+| --------- | -------- | ------------------------------------------- |
 | `account` | `string` | address to fetch the reward information for |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Overrides**
 
@@ -150,13 +150,13 @@ RewardProgram.getStakerInfo
 
 #### getStakingTimes
 
-▸ **getStakingTimes**\(\): `Promise`&lt;`StakingTimes`&gt;
+▸ **getStakingTimes**(): `Promise`<`StakingTimes`>
 
 Gets the start, duration and end of staking
 
 **Returns**
 
-`Promise`&lt;`StakingTimes`&gt;
+`Promise`<`StakingTimes`>
 
 **Overrides**
 
@@ -168,7 +168,7 @@ RewardProgram.getStakingTimes
 
 #### getStats
 
-▸ **getStats**\(`account`, `pairAddress`, `networkId`, `rewards?`\): `Promise`&lt;`any`&gt;
+▸ **getStats**(`account`, `pairAddress`, `networkId`, `rewards?`): `Promise`<`any`>
 
 Gets global reward stats for rewardProgram
 
@@ -183,16 +183,16 @@ rewardProgram.getStats(
 
 **Parameters**
 
-| Name | Type | Description |
-| :--- | :--- | :--- |
-| `account` | `string` | the account to get stats for |
-| `pairAddress` | `string` | the address of the staking token |
-| `networkId` | `number` | the networkId where contract is deployed |
-| `rewards?` | `string`\[\] | array of rewards offerred |
+| Name          | Type        | Description                              |
+| ------------- | ----------- | ---------------------------------------- |
+| `account`     | `string`    | the account to get stats for             |
+| `pairAddress` | `string`    | the address of the staking token         |
+| `networkId`   | `number`    | the networkId where contract is deployed |
+| `rewards?`    | `string`\[] | array of rewards offerred                |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Overrides**
 
@@ -204,17 +204,17 @@ RewardProgram.getStats
 
 #### getStatsData
 
-▸ `Private` **getStatsData**\(`account`\): `Promise`&lt;`any`&gt;
+▸ `Private` **getStatsData**(`account`): `Promise`<`any`>
 
 **Parameters**
 
-| Name | Type |
-| :--- | :--- |
+| Name      | Type     |
+| --------- | -------- |
 | `account` | `string` |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Defined in**
 
@@ -222,7 +222,7 @@ RewardProgram.getStats
 
 #### withdraw
 
-▸ **withdraw**\(`amount`, `account`\): `Promise`&lt;`any`&gt;
+▸ **withdraw**(`amount`, `account`): `Promise`<`any`>
 
 Withdraw the provided amount of the staking token from the staking contract
 
@@ -235,14 +235,14 @@ rewardProgram.withdraw(
 
 **Parameters**
 
-| Name | Type | Description |
-| :--- | :--- | :--- |
-| `amount` | `string` | the number of staking tokens to withdraw |
-| `account` | `string` | the account sending the transaction |
+| Name      | Type     | Description                              |
+| --------- | -------- | ---------------------------------------- |
+| `amount`  | `string` | the number of staking tokens to withdraw |
+| `account` | `string` | the account sending the transaction      |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Overrides**
 
@@ -254,7 +254,7 @@ RewardProgram.withdraw
 
 #### withdrawReward
 
-▸ **withdrawReward**\(`account`\): `Promise`&lt;`any`&gt;
+▸ **withdrawReward**(`account`): `Promise`<`any`>
 
 Withdraw the rewards accured
 
@@ -266,13 +266,13 @@ rewardProgram.withdrawReward(
 
 **Parameters**
 
-| Name | Type | Description |
-| :--- | :--- | :--- |
+| Name      | Type     | Description                         |
+| --------- | -------- | ----------------------------------- |
 | `account` | `string` | the account sending the transaction |
 
 **Returns**
 
-`Promise`&lt;`any`&gt;
+`Promise`<`any`>
 
 **Overrides**
 
@@ -281,4 +281,3 @@ RewardProgram.withdrawReward
 **Defined in**
 
 [rewards/SingleRewardProgram.ts:96](https://github.com/fuseio/earn-sdk/blob/fe50e4d/src/rewards/SingleRewardProgram.ts#L96)
-
