@@ -64,6 +64,10 @@
 * [Earn Sdk](technical-docs/earn-sdk/README.md)
   * [SingleRewardProgram](technical-docs/earn-sdk/singlerewardprogram.md)
   * [MultiRewardProgram](technical-docs/earn-sdk/multirewardprogram.md)
+* [Network Upgrades](technical-docs/network-upgrades/README.md)
+  * [Upgrade Guide](technical-docs/network-upgrades/upgrade-guide.md)
+  * [Upgrade Guide (Explorer Nodes)](technical-docs/network-upgrades/upgrade-guide-explorer-nodes.md)
+  * [Block 1400000 Fork](technical-docs/network-upgrades/block-1400000-fork.md)
 
 ## Tutorials and Guides <a href="consumer-tutorials" id="consumer-tutorials"></a>
 
