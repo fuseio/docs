@@ -39,7 +39,6 @@
 
 ## Developer Docs <a href="technical-docs" id="technical-docs"></a>
 
-* [TheGraph](technical-docs/thegraph.md)
 * [Fuseswap API](technical-docs/fuseswap-api.md)
 * [Fuse Studio API](technical-docs/api.md)
 * [Fuse Network Consensus (technical)](technical-docs/fuse-consensus-technical/README.md)
