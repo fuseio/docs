@@ -46,7 +46,6 @@
   * [Fuse Native: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-native.md)
   * [BNB: BSC ↔ Fuse](technical-docs/bridges/bnb-bsc-fuse.md)
   * [Multi ERC20: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-erc20-bridge.md)
-* [Major Deployed Contracts](technical-docs/major-deployed-contracts.md)
 * [Network Upgrades](technical-docs/network-upgrades/README.md)
   * [Upgrade Guide](technical-docs/network-upgrades/upgrade-guide.md)
   * [Upgrade Guide (Explorer Nodes)](technical-docs/network-upgrades/upgrade-guide-explorer-nodes.md)
