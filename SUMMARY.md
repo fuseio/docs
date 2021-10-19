@@ -39,12 +39,6 @@
 
 ## Developer Docs <a href="technical-docs" id="technical-docs"></a>
 
-* [Fuse Network Consensus (technical)](technical-docs/fuse-consensus-technical/README.md)
-  * [Contracts Overview](technical-docs/fuse-consensus-technical/fuse-network-contracts.md)
-  * [Stake, Delegate and Withdraw](technical-docs/fuse-consensus-technical/stake-delegate-and-withdraw.md)
-  * [Vote](technical-docs/fuse-consensus-technical/vote.md)
-  * [End-of-Cycle flow](technical-docs/fuse-consensus-technical/end-of-cycle-flow.md)
-  * [Contract Addresses](technical-docs/fuse-consensus-technical/contract-addresses.md)
 * [Fuse Bridges (technical)](technical-docs/bridges/README.md)
   * [Fuse: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-native-bridge.md)
   * [Multi ERC-20: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-erc20-token-bridge.md)
