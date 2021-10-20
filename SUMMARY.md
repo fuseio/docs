@@ -37,38 +37,6 @@
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
 * [Grants and Bounties](general/grants-and-bounties.md)
 
-## Tutorials and Guides <a href="consumer-tutorials" id="consumer-tutorials"></a>
-
-* [Network Use Tutorials](consumer-tutorials/network-use/README.md)
-  * [Metamask+ Ledger live tutorial](consumer-tutorials/network-use/metamask+-ledger-live-tutorial.md)
-  * [Deploying smart contract on Fusenet](consumer-tutorials/network-use/deploying-smart-contract-on-fusenet.md)
-* [Wallet Tutorials](consumer-tutorials/wallet-tutorials/README.md)
-  * [Open your community on Fuse wallet](consumer-tutorials/wallet-tutorials/getting-started-1.md)
-  * [Ledger tutorial for FUSE](consumer-tutorials/wallet-tutorials/mew-ledger-tutorial-for-fuse.md)
-  * [MEW Tutorial](consumer-tutorials/wallet-tutorials/mew-tutorial.md)
-  * [Trust wallet tutorial](consumer-tutorials/wallet-tutorials/wallet-tutorials.md)
-  * [Tutorial to store FUSE(Fusenet) on Ledger](consumer-tutorials/wallet-tutorials/tutorial-to-store-fuse-fusenet-on-ledger.md)
-  * [fuse.cash wallet security guidelines](consumer-tutorials/wallet-tutorials/fusecash.md)
-  * [imToken wallet tutorial](consumer-tutorials/wallet-tutorials/imtoken-wallet-tutorial.md)
-* [Staking tutorials](consumer-tutorials/staking-tutorials/README.md)
-  * [Staking tutorial using Ledger](consumer-tutorials/staking-tutorials/staking-tutorial-using-ledger.md)
-* [FuseSwap Tutorials](consumer-tutorials/fuseswap-tutorials/README.md)
-  * [Adding liquidity to FuseSwap](consumer-tutorials/fuseswap-tutorials/adding-liquidity.md)
-  * [How to use WalletConnect on fuse.cash and add liquidity on Fuseswap](consumer-tutorials/fuseswap-tutorials/walletconnect-tutorial.md)
-* [Bridge tutorials](consumer-tutorials/bridge-tutorials/README.md)
-  * [Bridge FUSE/ERC20 tokens](consumer-tutorials/bridge-tutorials/bridge-fuse-erc20-tokens.md)
-  * [Bridge Fuse network<-->BSC](consumer-tutorials/bridge-tutorials/bridge-fuse-network-less-than-greater-than-bsc.md)
-  * [Transfer FUSE or ERC20 using Bridge on Fuseswap](consumer-tutorials/bridge-tutorials/transfer-fuse-using-bridge-on-fuseswap.md)
-  * [Using the bridge with ERC20 tokens directly through the contract](consumer-tutorials/bridge-tutorials/wrap-erc20-tokens-to-fusenet-and-unwrap-back-to-erc20.md)
-* [Studio tutorials & walkthroughs](consumer-tutorials/getting-started/README.md)
-  * [Difference between using Ethereum Mainnet and Ethereum Ropsten](consumer-tutorials/getting-started/difference-between-using-ethereum-mainnet-and-ethereum-ropsten.md)
-  * [Setting up Metamask and Torus](consumer-tutorials/getting-started/setting-up-metamask-and-torus.md)
-  * [Community creation tutorial](consumer-tutorials/getting-started/community-creation-tutorial.md)
-  * [How to add Fuse Network to your Metamask](consumer-tutorials/getting-started/how-to-add-fuse-to-your-metamask.md)
-  * [Testing the studio for free on Ropsten](consumer-tutorials/getting-started/using-the-studio-for-free-on-ropsten.md)
-  * [How to add Fuse Network to MEW](consumer-tutorials/getting-started/how-to-add-fuse-network-to-mew.md)
-* [Adding Liquidity on Pancake Swap](consumer-tutorials/adding-liquidity-on-pcs.md)
-
 ## Links
 
 * [Discord](https://discord.com/invite/jpPMeSZ)
