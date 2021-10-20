@@ -2,7 +2,7 @@
 
 * [Summary](README.md)
 
-## GENERAL
+## DOCUMENTATION <a href="general" id="general"></a>
 
 * [Fuse Overview: vision, strategy and platform components](general/fuse-overview.md)
 * [The Fuse Network Blockchain](general/fuse-network-blockchain/README.md)
