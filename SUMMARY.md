@@ -37,20 +37,6 @@
   * [Fuse Cash Consumer-Facing Wallet](general/defi-on-fuse/fuse-cash.md)
 * [Grants and Bounties](general/grants-and-bounties.md)
 
-## Developer Docs <a href="technical-docs" id="technical-docs"></a>
-
-* [Fuse Bridges (technical)](technical-docs/bridges/README.md)
-  * [Fuse: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-native-bridge.md)
-  * [Multi ERC-20: Ethereum ↔ Fuse](technical-docs/bridges/eth-fuse-erc20-token-bridge.md)
-  * [GoodDollar: Ethereum ↔ Fuse](technical-docs/bridges/gooddollar-ethereum-fuse.md)
-  * [Fuse Native: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-native.md)
-  * [BNB: BSC ↔ Fuse](technical-docs/bridges/bnb-bsc-fuse.md)
-  * [Multi ERC20: BSC ↔ Fuse](technical-docs/bridges/bsc-fuse-erc20-bridge.md)
-* [Network Upgrades](technical-docs/network-upgrades/README.md)
-  * [Upgrade Guide](technical-docs/network-upgrades/upgrade-guide.md)
-  * [Upgrade Guide (Explorer Nodes)](technical-docs/network-upgrades/upgrade-guide-explorer-nodes.md)
-  * [Block 1400000 Fork](technical-docs/network-upgrades/block-1400000-fork.md)
-
 ## Tutorials and Guides <a href="consumer-tutorials" id="consumer-tutorials"></a>
 
 * [Network Use Tutorials](consumer-tutorials/network-use/README.md)
