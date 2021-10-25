@@ -1,10 +1,10 @@
 # Fuse Assembly
 
-Fuse Assembly is a governance body formed from particularly active members of the Fuse community. Its formation is the first step in transitioning full governance and ownership over the Fuse platform to the community.  
+Fuse Assembly is a governance body formed from particularly active members of the Fuse community. Its formation is the first step in transitioning full governance and ownership over the Fuse platform to the community. &#x20;
 
 Currently, Fuse Assembly consists of five Fuse ecosystem members independent from Fuse Foundation who have shown consistent dedication and commitment to the project, and already have a voice within the community.
 
-Fuse Assembly's **current role includes the following**: 
+Fuse Assembly's **current role includes the following**:&#x20;
 
 * taking over the control over the [Fuse Forum](https://forum.fuse.io) community discussion platform;
 * implementing the Snapshot voting mechanism on Fuse; and
@@ -14,7 +14,7 @@ Fuse Assembly's **current role includes the following**:
 
 Fuse Assembly's budget will be initially constituted by the **Community Token Pool**. Each month, **200,000 FUSE** will be allocated to it from the Fuse Bootstrap Pool (discussed [here](https://docs.fuse.io/general/fuse-token/fuse-supply-and-current-distribution)).
 
-Fuse Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation.  
+Fuse Assembly will regularly distribute the Community Token Pool funds to finance grants, bounties, marketing, and other initiatives designed to serve communities building on the platform and drive innovation. &#x20;
 
 ## Current Assembly members
 
@@ -30,7 +30,7 @@ _**Council Member, Business & Marketing**_
 
 > [Luc](https://www.luclammers.com)** **is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Fuse ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
-### **3. Lucas van den Breemer** <a href="2105" id="2105"></a>
+### **3. Lucas @ Fuse Core** <a href="2105" id="2105"></a>
 
 _**Council Member, Business & Finance**_
 
