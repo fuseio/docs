@@ -16,7 +16,7 @@
 * [Fuse Token (FUSE)](general/fuse-token/README.md)
   * [FUSE Supply and Current Distribution](general/fuse-token/fuse-supply-and-current-distribution.md)
   * [FUSE Tokenomics](general/fuse-token/fuse-tokenomics.md)
-  * [Exchanges and Wallets Supporting FUSE](general/fuse-token/exchanges-and-wallets-supporting-fuse.md)
+  * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FUSE](general/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)
 * [Fuse Governance and Development](general/fuse-governance-and-development/README.md)
   * [Fuse Assembly](general/fuse-governance-and-development/fuse-assembly.md)
