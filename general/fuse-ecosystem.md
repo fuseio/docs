@@ -90,7 +90,7 @@ Unstoppable Domains enables anyone to associate a human-readable domain name to 
 
 The Mintgate project enables developers to use their tokens of choice for gating access to certain content. The initial stage of the integration will enable content creators to use Fuse-native tokens for content access control. [Read more](https://medium.com/fusenet/fuse-integrates-mintgate-to-enhance-studio-features-and-bolster-adoption-786ecdd1e0d2) on the our blog.&#x20;
 
-### Unmarshal
+### [Unmarshal](https://unmarshal.io)
 
 Unmarshal is a cross-chain platform for streamlined indexing and quering of DeFi data. The goal of the partnership with Unmarshal is to extend its support to Fuse Network. [Read more](https://blog.unmarshal.io/unmarshal-forms-strategic-partnership-with-fuse-to-provide-on-chain-data-enhancing-decentralized-2b283c7a51da) on the Unmarshal blog.
 
