@@ -78,6 +78,10 @@ GetBlock is a service that offers fast and easy connections to the nodes of mult
 
 &#x20;Staking Rewards is a leading platform aggregating data for users wishing to earn yield with crypto assets. The integration with Staking Rewards provides the Fuse community with a convenient tool for tracking the passive income opportunities involving the Fuse token. [Read more](https://medium.com/fusenet/fuse-integrates-staking-rewards-to-track-fuse-passive-income-metrics-3c21762734a3) on our blog.&#x20;
 
+### [DEXTools](https://dextools.io)
+
+DEXTools offers traders on decentralized exchanges a variety of services aimed at improving their trading experience and boosting results. Accessible through the DEXTools app, those include, among others, a pool and pair explorer, a multiswap feature and the creation of unique trading strategies using bots.
+
 ### [ChangeNOW](https://changenow.io)
 
 ChangeNOW is a platform providing users with a non-custodial swapping service connected to a range of centralized and decentralized crypto exchanges. The FUSE token (on Ethereum) is available for purchase via ChangeNOW. [Read more](https://medium.com/fusenet/fuses-native-token-fuse-listed-on-the-changenow-instant-swapping-service-4f1e3561bd5e) on our blog.
