@@ -8,7 +8,7 @@ The Fuse Network blockchain uses a variant of delegated Proof of Stake (dPoS) fo
 
 Validators are also responsible for the most important type of governance on Fuse, namely, adopting the network protocol changes via [Fuse Improvement Proposals](https://docs.fuse.io/general/fips) (FIPs). 
 
-The native token of the network is called FUSE. New FUSE tokens are issued with every added block and are also use to pay for gas, just like ETH on Ethereum. 
+The native token of the network is called FUSE. New FUSE tokens are issued with every added block and are also used to pay for gas, just like ETH on Ethereum. 
 
 The Fuse Network blockchain is designed to ensure fast block confirmation times and a low cost of transactions. The average block interval on Fuse is around 5 seconds, and it currently costs much less than $0.01 to get a transaction confirmed.
 

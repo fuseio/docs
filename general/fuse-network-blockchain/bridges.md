@@ -20,7 +20,7 @@ The minimum value of tokens that can be bridged from Fuse to Ethereum is USD 100
 
 ### Fuse-BSC Bridge  
 
-Fuse Network is also connected via a two-way broidge to Binance Smart Chain. Currently, the Fuse-BSC bridge supports a more limited set of tokens than its Ethereum counterpart: WBNB, WETH and FUSE.
+Fuse Network is also connected via a two-way bridge to Binance Smart Chain. Currently, the Fuse-BSC bridge supports a more limited set of tokens than its Ethereum counterpart: WBNB, WETH and FUSE.
 
 The minimum value of tokens that can be bridged from Fuse to BSC is USD 20.
 
