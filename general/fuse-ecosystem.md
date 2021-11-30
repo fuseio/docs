@@ -8,7 +8,7 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 ### [Ramp Network](https://ramp.network)
 
-Ramp Network is a leading global provider of fiat on- and off-ramp solutions for crypto projects. Fuse's exclusive partnership with Ramp enables fast, convenient on-ramps from users' bank accounts to their accounts on Fuse by purchasing Fuse-native stablecoins, including FuseDollar. [Read more](https://medium.com/fusenet/ramp-networks-fiat-on-ramp-integration-is-fully-live-on-fuse-62f467cd4f9b) on our blog.
+Ramp Network is a leading global provider of fiat on- and off-ramp solutions for crypto projects. Fuse's partnership with Ramp enables fast, convenient on-ramps from users' bank accounts to their accounts on Fuse by purchasing Fuse-native stablecoins, including FuseDollar. [Read more](https://medium.com/fusenet/ramp-networks-fiat-on-ramp-integration-is-fully-live-on-fuse-62f467cd4f9b) on our blog.
 
 ### [Chainlink](https://chain.link)
 
@@ -153,6 +153,12 @@ oneFUSE is an innovative stablecoin for the Fuse community created by ICHI. It i
 ### [vfat](https://vfat.tools)
 
 vfat is a multichain platform enabling users to participate in yield farming programs on various chains. vfat currently covers yield farming programs on the Fuse-native DEX FuseSwap.
+
+## Interoperability/Bridges
+
+### [Elk Finance](https://elk.finance)
+
+Elk Finance is a value transfer layer for public blockchains where transfers between chains are mediated via Elk's native asset ELK. Fuse is one of the blockchains supported by Elk.&#x20;
 
 ## NFTs
 
