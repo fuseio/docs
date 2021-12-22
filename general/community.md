@@ -1,12 +1,12 @@
 # Community
 
-**Twitter**: [https://twitter.com/fuse\_network](https://twitter.com/Fuse_network) 
+**Twitter**: [https://twitter.com/fuse\_network](https://twitter.com/Fuse\_network)&#x20;
 
 **Facebook**: [https://www.facebook.com/fuseio](https://www.facebook.com/fuseio)
 
-**Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ) 
+**Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
-**Fuse Forum**: [https://forum.fuse.io/](https://forum.fuse.io/)
+**Fuse Forum**: [https://forum.fuse.io/](https://forum.fuse.io)
 
 ### Public Telegram groups
 
@@ -18,7 +18,9 @@
 
 **FuseSwap group**: [https://t.me/fuseswap](https://t.me/fuseswap)
 
-**Fuse NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs) 
+**Fuse NFTs**: [https://t.me/fuseNFTs](https://t.me/fuseNFTs)&#x20;
 
+**Italian Fuse Telegram community:** [https://t.me/itfuse](https://t.me/itfuse)
 
+**Indonesian Fuse Telegram community:** [https://t.me/idfuse](https://t.me/idfuse)
 
