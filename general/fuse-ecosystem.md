@@ -4,7 +4,7 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 # Fuse Ecosystem
 
-## Partnerships and integrations
+## ePartnerships and integrations
 
 ### [Ramp Network](https://ramp.network)
 
@@ -216,9 +216,17 @@ Fuse Wallet is an instance of the Fuse White Label wallet available for download
 
 CuraDAI is Kolektivo's fork of Fuse Wallet designed to support transactions with the CuraDAI local currency for the island of Curaçao and promote the CuraDAI community engagement.
 
+### [BitKeep](https://bitkeep.org)
+
+BitKeep is a popular DeFi-based mobile wallet supporting 40+ blockchains, including Fuse Network.
+
 ### [imToken](https://token.im)
 
 imToken is a multichain mobile wallet and DApp browser that also supports Fuse Network natively. Fuse RPC can be added via the Chainlist DApp in the in-app browser.&#x20;
+
+### [iME](https://imem.app)
+
+iME is a Telegram-based mobile wallet and chat app that supports the FUSE token. &#x20;
 
 ### Other wallets&#x20;
 
