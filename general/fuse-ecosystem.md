@@ -66,7 +66,7 @@ Krystal DeFi is a mobile app that strives to be a single access point to DeFi on
 
 DappRadar is a leading platform for tracking, ranking and analyzing DApps on public blockchains. Fuse Network will be listed on DAppRadar soon. [Read more](https://medium.com/fusenet/fuse-network-to-integrate-with-leading-dapp-aggregator-dappradar-a64f239c32a3) on our blog.&#x20;
 
-### Dapp.com
+### [Dapp.com](https://dapp.com)
 
 Dapp.com is a major data aggregator for blockchain-powered applications (dApps). It tracks the activity on Fuse dApps and also helps secure Fuse Network by running a validator node. [Read more](https://medium.com/fusenet/dapp-com-partners-with-fuse-to-become-a-network-validator-aab082987ea1) on our blog.
 
