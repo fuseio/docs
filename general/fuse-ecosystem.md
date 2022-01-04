@@ -46,7 +46,7 @@ MANTRA DAO is a community-governed DeFi platform focusing on staking, lending an
 
 Transak is a major fiat on-ramp provider. Fuse integrates Transak for enabling fiat on-ramps in the jurisdictions where Ramp Network services are not available for Fuse users. [Read more](https://medium.com/fusenet/fuse-partners-with-transak-to-provide-fiat-on-ramp-to-hundreds-of-cryptocurrencies-5e3014a557d5) on our blog.
 
-### [Moneri](https://monerium.com)u[m](https://ichi.org)
+### [Monerium](https://monerium.com)
 
 Monerium enables the issuance of tokenized electronic money on the blockchain. Unlike stablecoins, e-money is backed by funds on users' bank accounts opened with Monerium. The goal of the collaboration is to bring tokenized e-money to Fuse. [Read more](https://medium.com/fusenet/fuse-partners-with-monerium-to-put-regulated-fiat-money-on-blockchain-e1e05f343b54) on our blog.
 
