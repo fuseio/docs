@@ -176,7 +176,7 @@ The FUSE BAR is the first NFT project running live on top of Fuse Network. It en
 
 ## Communities
 
-### GoodDollar
+### [GoodDollar](https://gooddollar.org)
 
 GoodDollar is a digital universal basic income (UBI) project on top of Fuse and has consistently featured among the top 10 dApps by the number of daily users. It leverages DeFi  to create a stream of free digital currency. Users can claim their share of available G$ daily. [Read more](https://medium.com/fusenet/the-future-of-universal-basic-income-within-hands-reach-48d5e4527eac) on their [blog](https://www.gooddollar.org/how-gooddollar-works/).
 
