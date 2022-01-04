@@ -158,7 +158,15 @@ vfat is a multichain platform enabling users to participate in yield farming pro
 
 ### [Elk Finance](https://elk.finance)
 
-Elk Finance is a value transfer layer for public blockchains where transfers between chains are mediated via Elk's native asset ELK. Fuse is one of the blockchains supported by Elk.&#x20;
+Elk Finance is a value transfer layer for public blockchains where transfers between chains are mediated via Elk's native asset ELK. Fuse is one of the blockchains supported by Elk.
+
+### [ChainPort](https://chainport.io)
+
+ChainPort is an interoperability platform enabling permissionless custodial ERC20 bridges between EVM-compatible chains. ChainPort fully supports Fuse Network.
+
+### [Connext](https://connext.network)
+
+Connext is an interoperability platform enabling permissionless non-custodial ERC20 bridges between EVM-compatible chains. Tokens can be bridged to and from Fuse Network using the [xPollinate](https://xpollinate.io) interface.&#x20;
 
 ## NFTs
 
