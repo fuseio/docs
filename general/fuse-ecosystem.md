@@ -4,7 +4,7 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 # Fuse Ecosystem
 
-## ePartnerships and integrations
+## Partnerships and integrations
 
 ### [Ramp Network](https://ramp.network)
 
@@ -169,6 +169,14 @@ ChainPort is an interoperability platform enabling permissionless custodial ERC2
 Connext is an interoperability platform enabling permissionless non-custodial ERC20 bridges between EVM-compatible chains. Tokens can be bridged to and from Fuse Network using the [xPollinate](https://xpollinate.io) interface.&#x20;
 
 ## NFTs
+
+### [Artrific](https://artri)
+
+Artrific is the first general-purpose NFT minting and marketplace platform running natively on Fuse Network.
+
+### [Cozy Cosmonauts](fuse-ecosystem.md#partnerships-and-integrations)
+
+Cozy Cosmonauts is an original NFT art project on Fuse Network offering users a collection of 999 NFT avatars with metadata stored on IPFS.
 
 ### [The FUSE BAR](https://www.fusel.io)
 
