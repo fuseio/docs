@@ -2,7 +2,7 @@
 
 * [Summary](README.md)
 
-## DOCUMENTATION <a href="general" id="general"></a>
+## DOCUMENTATION <a href="#general" id="general"></a>
 
 * [Fuse Overview: vision, strategy and platform components](general/fuse-overview.md)
 * [The Fuse Network Blockchain](general/fuse-network-blockchain/README.md)
@@ -18,6 +18,7 @@
   * [FUSE Tokenomics](general/fuse-token/fuse-tokenomics.md)
   * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FUSE](general/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)
+* [Interoperability](general/interoperability.md)
 * [Fuse Governance and Development](general/fuse-governance-and-development/README.md)
   * [Fuse Assembly](general/fuse-governance-and-development/fuse-assembly.md)
 * [Fuse Mobile-Centric B2B Infrastructure](general/fuse-infrastructure/README.md)
