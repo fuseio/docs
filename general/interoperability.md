@@ -49,8 +49,16 @@ The Connext bridge is currently accessible directly via the [xPollinate](https:/
 
 ### The Multichain (formerly Anyswap) Bridge
 
+The Multichain (formerly Anyswap) bridge is one of the most popular interoperability platforms in the crypto space.&#x20;
+
+Currently, Multichain **only provides a bridge from Fuse to Ethereum**. The whitelisted tokens include WETH, USDC, BIFI and agEUR.
+
+The bridge interface is accessible [here](https://app.multichain.org/#/router). &#x20;
+
 ### The ChainPort Bridge
 
-ChainPort's bridges are permissionless. This means that anyone can bridge a token from Ethereum to any other supported chain (including Fuse Network), even if the token has not been ported, yet.&#x20;
+ChainPort's bridges are permissionless. This means that anyone can bridge a token from Ethereum to any other supported chain (including Fuse Network), even if the token has not been ported, yet.
+
+In addition to Fuse Network, the list of chains added to ChainPort includes **Ethereum, BSC, Polygon and Avalanche**. &#x20;
 
 **IMPORTANT!!!** Please note that ChainPort currently only supports transfers of tokens that originate on the Ethereum mainnet. Also, ChainPort's wrappers on Fuse for the **popular Ethereum-originating tokens such as USDC, WETH, USDT, etc**. will by design be different from the currently existing ones that were created using the FuseFi bridge. **We currently do not recommend users to bridge those tokens to Fuse using ChainPort**.  &#x20;
