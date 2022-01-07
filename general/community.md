@@ -2,8 +2,6 @@
 
 **Twitter**: [https://twitter.com/fuse\_network](https://twitter.com/Fuse\_network)&#x20;
 
-**Facebook**: [https://www.facebook.com/fuseio](https://www.facebook.com/fuseio)
-
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
 **Fuse Forum**: [https://forum.fuse.io/](https://forum.fuse.io)
