@@ -35,7 +35,7 @@ The bridge can be accessed via the FuseFi app. More information on its functioni
 
 ### The Elk Finance Value Transfer Platform
 
-Elk Finance is not a typical multichain bridge because the only token that actually moves between the supported chains is ELK. If a user wants to get tokens on another chain, they can buy ELK on Elk DEX on Fuse bridge ELK to the desired chain and buy the desired token on Elk DEX on that chain.
+Elk Finance is not a typical multichain bridge because the only token that actually moves between the supported chains is ELK. If a user wants to get tokens on another chain, they can buy ELK on Elk DEX on Fuse, bridge ELK to the desired chain and buy the desired token on Elk DEX on that chain.
 
 Elk connects Fuse Network, among others, to **BSC, Polygon, Avalanche, Fantom, Harmony, Moonriver**. It does not currently support Ethereum. The full list of supported chains is available in the [Elk DApp](https://app.elk.finance).&#x20;
 
@@ -59,6 +59,6 @@ The bridge interface is accessible [here](https://app.multichain.org/#/router). 
 
 ChainPort's bridges are permissionless. This means that anyone can bridge a token from Ethereum to any other supported chain (including Fuse Network), even if the token has not been ported, yet.
 
-In addition to Fuse Network, the list of chains added to ChainPort includes **Ethereum, BSC, Polygon and Avalanche**. &#x20;
+In addition to Fuse Network, the list of chains added to ChainPort includes **Ethereum, BSC, Polygon and Avalanche**. The bridge interface can be found [here](https://app.chainport.io).&#x20;
 
 **IMPORTANT!!!** Please note that ChainPort currently only supports transfers of tokens that originate on the Ethereum mainnet. Also, ChainPort's wrappers on Fuse for the **popular Ethereum-originating tokens such as USDC, WETH, USDT, etc**. will by design be different from the currently existing ones that were created using the FuseFi bridge. **We currently do not recommend users to bridge those tokens to Fuse using ChainPort**.  &#x20;
