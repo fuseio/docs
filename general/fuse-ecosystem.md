@@ -242,13 +242,15 @@ imToken is a multichain mobile wallet and DApp browser that also supports Fuse N
 
 ### [iME](https://imem.app)
 
-iME is a Telegram-based mobile wallet and chat app that supports the FUSE token. &#x20;
+iME is a Telegram-based mobile wallet and chat app that supports the FUSE token.
 
-### Other wallets&#x20;
+### [MathWallet](https://mathwallet.org)
 
-Other wallets currently supporting Fuse Network natively include Metamask (browser extension on PC) and Metamask Mobile. &#x20;
+MathWallet is a popular multichain mobile and browser extension web3 wallet supporting 90+ blockchains, including Fuse Network.&#x20;
 
+### [MetaMask](https://metamas)
 
+MetaMask is a popular multichain mobile and browser extension web3 wallet for EVM-compatible chains, including Fuse Network.
 
 
 
