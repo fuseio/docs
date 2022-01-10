@@ -224,6 +224,8 @@ Fuse Wallet is an instance of the Fuse White Label wallet available for download
 
 CuraDAI is Kolektivo's fork of Fuse Wallet designed to support transactions with the CuraDAI local currency for the island of Curaçao and promote the CuraDAI community engagement.
 
+### Third-Party Technology Wallets
+
 ### [AlphaWallet](https://alphawallet.com)
 
 AlphaWallet is a 100% open-source DeFi-focused web3 mobile wallet that extends the functionalities of tokens via the Tokenscript technology.&#x20;
