@@ -12,4 +12,4 @@ The project team implements network protocol updates adopted by the validators, 
 
 That said, since Fuse is a decentralized public blockchain platform, **no permission of the project team is required** for anyone who wishes to integrate with or develop on top of Fuse, including the development of the network and node software.
 
-3\) **Fuse Assembly. **See the Assembly [page](https://docs.fuse.io/general/fuse-governance/fuse-assembly) for more details.   
+3\) **Fuse Assembly.** See the Assembly [page](https://docs.fuse.io/general/fuse-governance/fuse-assembly) for more details.  &#x20;

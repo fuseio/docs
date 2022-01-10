@@ -14,7 +14,6 @@
   * [Bridges to Other Chains](general/fuse-network-blockchain/bridges.md)
   * [Fuse Network's Spark Testnet](general/fuse-network-blockchain/fuse-testnet.md)
 * [Fuse Token (FUSE)](general/fuse-token/README.md)
-  * [FUSE Supply and Current Distribution](general/fuse-token/fuse-supply-and-current-distribution.md)
   * [FUSE Tokenomics](general/fuse-token/fuse-tokenomics.md)
   * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FUSE](general/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
   * [FUSE on Other Chains](general/fuse-token/fuse-on-other-chains.md)

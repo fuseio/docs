@@ -2,9 +2,9 @@
 
 
 
-The following information will help you discover and connect to the Fuse Network blockchain:   
+The following information will help you discover and connect to the Fuse Network blockchain:  &#x20;
 
-* Network name:** Fuse Network**
+* Network name: **Fuse Network**
 * ChanId: **122**
 * Gas price: **1 gwei**
 * RPC

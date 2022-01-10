@@ -18,31 +18,31 @@ Fuse Assembly will regularly distribute the Community Token Pool funds to financ
 
 ## Current Assembly members
 
-### **1. Rob Brown, PhD** <a href="b624" id="b624"></a>
+### **1. Rob Brown, PhD** <a href="#b624" id="b624"></a>
 
 _**Council Chairman**_
 
 > Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com)**,** an independent organization that was one of the first validators on Fuse Network, and has been heavily involved in Fuse community management and strategic project development since 2019.
 
-### **2. Luc Lammers** <a href="1b91" id="1b91"></a>
+### **2. Luc Lammers** <a href="#1b91" id="1b91"></a>
 
 _**Council Member, Business & Marketing**_
 
-> [Luc](https://www.luclammers.com)** **is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Fuse ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
+> [Luc](https://www.luclammers.com) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Fuse ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
-### **3. Lucas @ Fuse Core** <a href="2105" id="2105"></a>
+### **3. Lucas @ Fuse Core** <a href="#2105" id="2105"></a>
 
 _**Council Member, Business & Finance**_
 
 > Lucas is a financial expert and bank-less enthusiast with over 16 years of experience in financial management and consulting. Lucas joined the Fuse ecosystem in late 2020 and runs a validator. He brings an extra dimension to the development and presentation of Fuse in the business community.
 
-### **4. Bertrand Juglas** <a href="41a8" id="41a8"></a>
+### **4. Bertrand Juglas** <a href="#41a8" id="41a8"></a>
 
 _**Council Member, Technology**_
 
 > Bertrand brings over twenty years of open-source engineering and DevOps experience to the team, having worked extensively with Linux and other leading technologies. He was originally introduced to Fuse Network whilst working on the GoodDollar project where he remains a leading voice and prominent community member.
 
-### **5. Jan Owiesniak** <a href="bce2" id="bce2"></a>
+### **5. Jan Owiesniak** <a href="#bce2" id="bce2"></a>
 
 _**Council Member, Business & Technology**_
 
