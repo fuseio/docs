@@ -4,6 +4,12 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 # Fuse Ecosystem
 
+```
+Coin98 Wallet is the #1 non-custodial, multi-chain wallet and DeFi gateway, designed to seamlessly connect users to the crypto world in a safe and secure manner.
+
+Coin98 Extension Wallet offers you fast, convenient and secure procedures of storing, sending, receiving on 21 popular blockchains
+```
+
 ## Partnerships and integrations
 
 ### [Ramp Network](https://ramp.network)
@@ -224,9 +230,17 @@ Fuse Wallet is an instance of the Fuse White Label wallet available for download
 
 CuraDAI is Kolektivo's fork of Fuse Wallet designed to support transactions with the CuraDAI local currency for the island of Curaçao and promote the CuraDAI community engagement.
 
+### [AlphaWallet](https://alphawallet.com)
+
+AlphaWallet is a 100% open-source DeFi-focused web3 mobile wallet that extends the functionalities of tokens via the Tokenscript technology.&#x20;
+
 ### [BitKeep](https://bitkeep.org)
 
 BitKeep is a popular DeFi-based mobile wallet supporting 40+ blockchains, including Fuse Network.
+
+### [Coin98](https://t.co/schRgP9DUk)
+
+Coin98 is a leading non-custodial multichain mobile crypto wallet and DeFi and NFT gateway. Coin98 integrates 20+ blockchains, including Fuse Network.
 
 ### [imToken](https://token.im)
 
