@@ -4,12 +4,6 @@ description: Projects and platforms building or built upon or partnering with Fu
 
 # Fuse Ecosystem
 
-```
-Coin98 Wallet is the #1 non-custodial, multi-chain wallet and DeFi gateway, designed to seamlessly connect users to the crypto world in a safe and secure manner.
-
-Coin98 Extension Wallet offers you fast, convenient and secure procedures of storing, sending, receiving on 21 popular blockchains
-```
-
 ## Partnerships and integrations
 
 ### [Ramp Network](https://ramp.network)
