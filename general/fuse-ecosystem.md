@@ -122,17 +122,13 @@ OpenZeppelin is a leading provider of security products to build, automate, and 
 
 ## DeFi
 
-### [FuseSwap](https://fuseswap.com)
+### [Voltage Finance](https://voltage.finance)
 
-FuseSwap is the first Fuse-native AMM-based decentralized exchange (DEX) based on a fork of Uniswap 2.0. Its main advantages are its speed and low cost of trades thanks to it running on top of Fuse Network.
+Voltage Finance (previously FuseFi) is an all-in-one DeFi platform running natively on the Fuse Network blockchain. It is governed by the community via the VOLT governance token. Voltage's documentation is available [here](https://docs.voltage.finance/welcome/introduction).&#x20;
 
 ### [SUSHI](https://sushi.com)
 
 SUSHI is a leading multichain DeFi platform consisting of the AMM Sushiswap, Kashi lending protocol, BentoBox dApps ecosystem and the xSUSHI staking platform. SUSHI is now deployed on Fuse Network.&#x20;
-
-### [Fuse Lending Network](https://app.ola.finance/networks/0x5809FAB2Bf39efae6DD8691B7F90c468c234A1A7/markets)
-
-Fuse Lending Network is the first decentralized lending network on Fuse developed in collaboration with Ola Finance and running on top of the Ola protocol. Read more [here](https://medium.com/fusenet/lending-powered-by-ola-finance-a-new-paradigm-in-defi-on-fuse-230cd407125c) and [here](https://medium.com/fusenet/your-guide-to-lending-on-fuse-powered-by-ola-finance-e5b79f69f185).&#x20;
 
 ### [Fuse Rewards](https://rewards.fuse.io)
 
