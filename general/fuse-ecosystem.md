@@ -166,7 +166,7 @@ Connext is an interoperability platform enabling permissionless non-custodial ER
 
 ### [XP.NETWORK](https://xp.network)
 
-XP.NETWORK is a major multichain bridge for non-fungible tokens (NFTSs). It fully supports NFT transfers to and from the Fuse Network blockchain.&#x20;
+XP.NETWORK is a major multichain bridge for non-fungible tokens (NFTs). It fully supports ERC721-compatible NFT transfers to and from the Fuse Network blockchain.&#x20;
 
 ## NFTs
 
