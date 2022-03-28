@@ -166,7 +166,11 @@ ChainPort is an interoperability platform enabling permissionless custodial ERC2
 
 ### [Connext](https://connext.network)
 
-Connext is an interoperability platform enabling permissionless non-custodial ERC20 bridges between EVM-compatible chains. Tokens can be bridged to and from Fuse Network using the [xPollinate](https://xpollinate.io) interface.&#x20;
+Connext is an interoperability platform enabling permissionless non-custodial ERC20 bridges between EVM-compatible chains. Tokens can be bridged to and from Fuse Network using the [xPollinate](https://xpollinate.io) interface.
+
+### [XP.NETWORK](https://xp.network)
+
+XP.NETWORK is a major multichain bridge for non-fungible tokens (NFTSs). It fully supports NFT transfers to and from the Fuse Network blockchain.&#x20;
 
 ## NFTs
 
