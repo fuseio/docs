@@ -8,12 +8,12 @@ The Fuse ecosystem has seen massive growth since the launch of the platform in 2
 
 1\) **Basic infrastructure**. This category includes:&#x20;
 
-* Fuse-operated tools like the Fuse RPC, Fuse Explorer, Fuse Staking, etc.
+* Fuse-operated tools like the [Fuse RPC](https://rpc.fuse.io), [Fuse Explorer](https://explorer.fuse.io), [Fuse Staking](https://staking.fuse.io), etc.
 * Fuse's mobile-centric B2B infrastructure enabling corporate clients to create token-powered applications and on-board clients via mobile wallets and apps.&#x20;
-* Other basic infrastructure providers like Pocket Network (decentralized full node layer), The Graph (smart contract indexing), Chainlink and DIA (oracles)
-* Fiat on- and off-ramps, including, among others, Ramp Network, XanPool and Transak.
+* Other basic infrastructure providers like [Pocket Network](https://pokt.network) (decentralized full node layer), [The Graph](https://thegraph.com) (smart contract indexing), [Chainlink](https://chain.link) and [DIA](https://diadata.org) (oracles)
+* Fiat on- and off-ramps, including, among others, [Ramp Network](https://ramp.network), [XanPool](https://xanpool.com) and [Transak](https://transak.com).
 
-2\) **Interoperability tools**. This includes multichain bridge and inter-chain transfer protocols, such as Multichain (previously Anyswap), Connext, the Voltage bridge, Elk Finance and others.
+2\) **Interoperability tools**. This includes multichain bridge and inter-chain transfer protocols, such as [Multichain](https://multichain.org) (previously Anyswap), [Connext](https://connext.network), the [Voltage bridge](https://app.voltage.finance/#/bridge), [Elk Finance](https://elk.financ) and others.
 
 3\) **Payment-focused applications built on top of Fuse's B2B infrastructure**. These include, among others, Peepl, GoodDollar, Kolektivo, Comunitaria and Flambu.
 
