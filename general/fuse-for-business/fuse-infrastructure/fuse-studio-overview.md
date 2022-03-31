@@ -4,13 +4,13 @@
 
 Currently, The Studio has three key components:
 
-1\) **The Studio \(Playground\) Frontend**. This application enables the creation and management of simple token communities without writing a single line of code. It may, for instance, be used for demonstration or proof-of-concept purposes.
+1\) **The Studio (Playground) Frontend**. This application enables the creation and management of simple token communities without writing a single line of code. It may, for instance, be used for demonstration or proof-of-concept purposes.
 
 2\) **The Studio backend**. The Studio's backend consists of the factories for creating the smart contracts for each token community, the subgraph for The Studio, the Studio Server and IPFS node for storing the community data that is stored off-chain
 
-3\) **The Studio API**.   
+3\) **The Studio API**.  &#x20;
 
-![Fuse Studio architecture](../../.gitbook/assets/image%20%283%29.png)
+![Fuse Studio architecture](<../../../.gitbook/assets/image (3).png>)
 
 ## Backend Infrastructure
 
@@ -26,7 +26,7 @@ Fuse studio is designed to launch DeFi communities on the Fuse network. The comm
 
 * Entities List contract to store community members and their roles
 * Community ERC20 tokens on Fuse network with transfer rules
-* The community's ERC20 token \(if a community-specific token is used\). This is the token that the community creator issues as part of the community deployment process
+* The community's ERC20 token (if a community-specific token is used). This is the token that the community creator issues as part of the community deployment process
 
 ## Plugins
 
@@ -34,6 +34,5 @@ The plugins are used to customize the community to your specific needs. These ca
 
 * Business List - allows you to add businesses to you community. Businesses are Entities List members with special roles.
 * Join Bonus - define a join bonus for new community members.
-* Fiat Ramp - Currently integrated to [Transak](https://transak.com/) and [Moonpay](https://www.moonpay.io/) to allow easy deposit and withdraw using Bank Accounts and Payment Cards.
+* Fiat Ramp - Currently integrated to [Transak](https://transak.com) and [Moonpay](https://www.moonpay.io) to allow easy deposit and withdraw using Bank Accounts and Payment Cards.
 * More plug-ins coming soon.
-
