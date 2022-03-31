@@ -23,9 +23,9 @@ The Fuse ecosystem has seen massive growth since the launch of the platform in 2
 
 6\) **NFTs, metaverses and gaming**. The most prominent NFT projects on Fuse include the [Artrific](https://artrific.io) and [tofuNFT](https://tofunft.com) marketplaces, [Cozy Cosmonauts](https://cozycosmonauts.com) and [Fuse Foxes](https://fusefoxes.com). The first metaverse to soon be deployed on Fuse Network is [Tollan Worlds](https://tollan.io).
 
-7\) **Wallets and dApp browsers**. MetaMask, Brave Wallet, BitKeep, Math Wallet.&#x20;
+7\) **Wallets and dApp browsers**. These include, among others, [Fuse Cash](https://fuse.cash), [MetaMask](https://metamask.io), [Brave Wallet](https://brave.com/wallet), [BitKeep](https://bitkeep.com), [Math Wallet](https://mathwallet.org).&#x20;
 
-8\) **Other tools, aggregators, trackers, bounties, etc**. Among these, the most noteworthy are DappRadar, Dapp.com, Staking Rewards, DeBank, ImmuneFi.
+8\) **Other tools, aggregators, trackers, bounties, etc**. Among these, the most noteworthy are [DappRadar](https://dappradar.com), [Dapp.com](https://dapp.com), [Staking Rewards](https://stakingrewards.com), [DeBank](https://debank.com), ImmuneFi.
 
 
 
