@@ -29,7 +29,7 @@
 * [Fuse Ecosystem](general/fuse-ecosystem.md)
 * [Community](general/community.md)
 * [Fuse Improvement Proposals (FIPs)](general/fips.md)
-* [Reference DeFi Products on Fuse](general/defi-on-fuse/README.md)
+* [DeFi on Fuse](general/defi-on-fuse/README.md)
   * [FuseSwap DEX](general/defi-on-fuse/fuseswap.md)
   * [Fuse Lending Network and the Ola Finance Protocol](general/defi-on-fuse/fuse-lending-network.md)
   * [Fuse Rewards Platform](general/defi-on-fuse/fuse-rewards.md)
