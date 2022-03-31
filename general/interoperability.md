@@ -21,7 +21,9 @@ The Fuse team has been making considerable progress in getting Fuse Network adde
 
 4\) The Multichain (formerly, Anyswap) bridge.
 
-5\) The ChainPort bridge.
+5\) The Allbridge bridge.
+
+6\) The ChainPort bridge.
 
 ### The Voltage Finance Bridge
 
@@ -45,11 +47,17 @@ The [Connext bridge](https://bridge.connext.network) is a non-custodial multicha
 
 **Please note** that Connext's capacity to execute transfers depends on the availability of liquidity in a given token on the routers. Currently, the liquidity-provisioned tokens include **USDC, USDT and DAI**.
 
+### The Allbridge Bridge
+
+The Allbridge multichain [bridge](https://app.allbridge.io/bridge) connects Fuse Network to a number of major chains, including Solana and Terra. It is currently the only bridge to connect Fuse Network to the latter two.
+
+At present, Allbridge's native ABR token can be transferred between Fuse Network and all the other covered chains. Terra-native assets LUNA and UST are bridgeable between to and from Terra. &#x20;
+
 ### The Multichain (formerly Anyswap) Bridge
 
 The [Multichain](https://multichain.org) (formerly Anyswap) bridge is one of the most popular interoperability platforms in the crypto space.&#x20;
 
-Currently, Multichain **only provides a bridge from Fuse to Ethereum**. The whitelisted tokens include WETH, USDC, BIFI and agEUR.
+Multichain has already enabled transfers for **Fuse’s native FUSE token** between the Fuse Network blockchain and Ethereum, BNB Chain (formerly Binance Smart Chain) and Polygon. **WETH and USDC** transfers via Multichain are available between Fuse Network and Ethereum. Beefy Finance’s **BIFI token** can be bridged to and from almost all the networks that Multichain supports. The **agEUR** stablecoin can be transferred between Fuse Network and Ethereum, BNB Chain, Fantom, Harmony and Avalanche.&#x20;
 
 The bridge interface is accessible [here](https://app.multichain.org/#/router). &#x20;
 
