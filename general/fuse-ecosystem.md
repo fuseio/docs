@@ -15,9 +15,9 @@ The Fuse ecosystem has seen massive growth since the launch of the platform in 2
 
 2\) **Interoperability tools**. This includes multichain bridge and inter-chain transfer protocols, such as [Multichain](https://multichain.org) (previously Anyswap), [Connext](https://connext.network), the [Voltage bridge](https://app.voltage.finance/#/bridge), [Elk Finance](https://elk.financ) and others.
 
-3\) **Payment-focused applications built on top of Fuse's B2B infrastructure**. These include, among others, Peepl, GoodDollar, Kolektivo, Comunitaria and Flambu.
+3\) **Payment-focused applications built on top of Fuse's B2B infrastructure**. These include, among others, [Peepl](https://itsaboutpeepl.com), [GoodDollar](https://gooddollar.org), [Kolektivo](https://kolektivo.co), [Comunitaria](https://comunitar) and [Flambu](https://flambu.com).
 
-4\) **Centralized and decentralized exchanges** (on other chains) where Fuse's native FUSE token and other Fuse-powered assets are traded. The most prominent CEXs are [Gate.io](https://gate.io), [Huobi Global](https://huobi.com) and [MEXC](https://mexc.com). Notable DEXs on other chains include [Uniswap](https://uniswap) (V2 and V3), PancakeSwap and QuickSwap.&#x20;
+4\) **Centralized and decentralized exchanges** (on other chains) where Fuse's native FUSE token and other Fuse-powered assets are traded. The most prominent CEXs are [Gate.io](https://gate.io), [Huobi Global](https://huobi.com) and [MEXC](https://mexc.com). Notable DEXs on other chains include [Uniswap](https://uniswap) (V2 and V3), [PancakeSwap](https://pancakeswap.finance) and [QuickSwap](https://quickswap.exchange).&#x20;
 
 5\) **DeFi tools**. The DeFi space on Fuse is led by the community-governed [Voltage Finance](https://voltage.finance) (formerly FuseFi) platform. Other major DeFi platforms include [Sushi](https://sushi.com), [Beefy Finance](https://beefy.finance) and [Elk Finance](https://elk.finance).
 
