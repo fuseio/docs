@@ -1,4 +1,0 @@
-# DeFi on Fuse
-
-
-
