@@ -4,7 +4,7 @@ description: Welcome to the documentation portal for Fuse Network
 
 # Summary
 
-![](<.gitbook/assets/Fuse.Ecosystem Banner .jpg>)
+![](<.gitbook/assets/docs 1500x500.png>)
 
 Welcome to the go-to portal for in-depth information about the Fuse Network (Fuse) platform and ecosystem and how to interact with them!
 
