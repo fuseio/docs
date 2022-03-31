@@ -17,11 +17,11 @@ The Fuse ecosystem has seen massive growth since the launch of the platform in 2
 
 3\) **Payment-focused applications built on top of Fuse's B2B infrastructure**. These include, among others, Peepl, GoodDollar, Kolektivo, Comunitaria and Flambu.
 
-4\) **Centralized and decentralized exchanges** (on other chains) where Fuse's native FUSE token and other Fuse-powered assets are traded. The most prominent CEXs are Gate.io, MEXC and AscendEX. Notable DEXs on other chains include Uniswap (V2 and V3), PancakeSwap and QuickSwap.&#x20;
+4\) **Centralized and decentralized exchanges** (on other chains) where Fuse's native FUSE token and other Fuse-powered assets are traded. The most prominent CEXs are [Gate.io](https://gate.io), [Huobi Global](https://huobi.com) and [MEXC](https://mexc.com). Notable DEXs on other chains include [Uniswap](https://uniswap) (V2 and V3), PancakeSwap and QuickSwap.&#x20;
 
-5\) **DeFi tools**. The DeFi space on Fuse is led by the community-governed Voltage Finance (formerly FuseFi) platform. Other major DeFi platforms include Sushi, Beefy Finance and Elk Finance.
+5\) **DeFi tools**. The DeFi space on Fuse is led by the community-governed [Voltage Finance](https://voltage.finance) (formerly FuseFi) platform. Other major DeFi platforms include [Sushi](https://sushi.com), [Beefy Finance](https://beefy.finance) and [Elk Finance](https://elk.finance).
 
-6\) **NFTs, metaverses and gaming**. The most prominent NFT projects on Fuse include the Artrific and tofuNFT marketplaces, Cozy Cosmonauts and Fuse Foxes. The first metaverse to soon be deployed on Fuse Network is Tollan Worlds.
+6\) **NFTs, metaverses and gaming**. The most prominent NFT projects on Fuse include the [Artrific](https://artrific.io) and [tofuNFT](https://tofunft.com) marketplaces, [Cozy Cosmonauts](https://cozycosmonauts.com) and [Fuse Foxes](https://fusefoxes.com). The first metaverse to soon be deployed on Fuse Network is [Tollan Worlds](https://tollan.io).
 
 7\) **Wallets and dApp browsers**. MetaMask, Brave Wallet, BitKeep, Math Wallet.&#x20;
 
