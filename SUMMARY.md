@@ -29,9 +29,10 @@
     * [Fuse Wallet Technology](general/fuse-for-business/fuse-infrastructure/wallet-technology.md)
     * [Proxy Wallets and Fee Abstraction](general/fuse-for-business/fuse-infrastructure/proxy-wallets-and-fee-abstraction.md)
     * [Fuse Mobile Infrastructure Use Cases](general/fuse-for-business/fuse-infrastructure/use-cases.md)
-* [Fuse Ecosystem](general/fuse-ecosystem.md)
-* [Community](general/community.md)
-* [Grants and Bounties](general/grants-and-bounties.md)
+* [Things you can do on Fuse](general/things-you-can-do-on-fuse/README.md)
+  * [Fuse Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
+  * [Community](general/things-you-can-do-on-fuse/community.md)
+  * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
 
 ## Links
 
