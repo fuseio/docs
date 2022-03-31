@@ -23,9 +23,9 @@ The Fuse team has been making considerable progress in getting Fuse Network adde
 
 5\) The ChainPort bridge.
 
-### The FuseFi Bridge
+### The Voltage Finance Bridge
 
-The FuseFi bridge was created by the Fuse team and has been transferred to the FuseFi platform that will soon be governed by the FuseFi DAO.&#x20;
+The Voltage Finance (previously FuseFi) [bridge](https://app.voltage.finance/#/bridge) was originally created by the Fuse team and has been transferred to the community-governed Voltage Finance DeFi platform.&#x20;
 
 It connects Fuse Network to **Ethereum and Binance Smart Chain (BSC)**. Both bridges are custodial. The bridge to Ethereum is permissionless, while new tokens need to be added to the BSC bridge.
 
@@ -41,15 +41,13 @@ Elk connects Fuse Network, among others, to **BSC, Polygon, Avalanche, Fantom, H
 
 ### The Connext Bridge
 
-Connext is a non-custodial multichain bridge that connects Fuse Network to **Ethereum, BSC, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Moonriver and xDAI**.
+The [Connext bridge](https://bridge.connext.network) is a non-custodial multichain bridge that connects Fuse Network to **Ethereum, BSC, Polygon, Arbitrum, Optimism, Avalanche, Fantom, Moonriver and xDAI**.
 
-The Connext bridge is currently accessible directly via the [xPollinate](https://xpollinate.io) interface. It can also be integrated into DApps.
-
-**Please note** that Connext's capacity to execute transfers depends on the availability of liquidity in a given token on the routers. Currently, the provisioned tokens include **WETH, USDC, USDT and DAI**.
+**Please note** that Connext's capacity to execute transfers depends on the availability of liquidity in a given token on the routers. Currently, the liquidity-provisioned tokens include **USDC, USDT and DAI**.
 
 ### The Multichain (formerly Anyswap) Bridge
 
-The Multichain (formerly Anyswap) bridge is one of the most popular interoperability platforms in the crypto space.&#x20;
+The [Multichain](https://multichain.org) (formerly Anyswap) bridge is one of the most popular interoperability platforms in the crypto space.&#x20;
 
 Currently, Multichain **only provides a bridge from Fuse to Ethereum**. The whitelisted tokens include WETH, USDC, BIFI and agEUR.
 
