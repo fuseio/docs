@@ -54,4 +54,4 @@ _**Council Member, Business & Technology**_
 
 _**Council Member**_
 
-> Maor is a software developer and founder of Flambu.&#x20;
+> Maor is a software developer, a long-time active participant of the Fuse community and a co-founder of Flambu.&#x20;
