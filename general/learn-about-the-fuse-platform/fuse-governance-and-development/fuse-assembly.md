@@ -47,3 +47,11 @@ _**Council Member, Technology**_
 _**Council Member, Business & Technology**_
 
 > Jan has over 10 years of business and software development experience and currently serves as CTO and co-founder of an Augmented Reality platform designed to drive customer loyalty and boost sales. Having joined the Fuse ecosystem more recently in 2021, Jan has shown an enormous amount of commitment, providing support and feedback across the various different technologies that we are building.
+
+
+
+### **6. Maor Smati** <a href="#b624" id="b624"></a>
+
+_**Council Member**_
+
+> Maor is a software developer and founder of Flambu.&#x20;
