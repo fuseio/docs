@@ -50,7 +50,7 @@ _**Council Member, Business & Technology**_
 
 
 
-### **6. Maor Smati** <a href="#b624" id="b624"></a>
+### **6. Maor Stamati** <a href="#b624" id="b624"></a>
 
 _**Council Member**_
 
