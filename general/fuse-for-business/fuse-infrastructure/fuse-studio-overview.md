@@ -34,5 +34,5 @@ The plugins are used to customize the community to your specific needs. These ca
 
 * Business List - allows you to add businesses to you community. Businesses are Entities List members with special roles.
 * Join Bonus - define a join bonus for new community members.
-* Fiat Ramp - Currently integrated to [Transak](https://transak.com) and [Moonpay](https://www.moonpay.io) to allow easy deposit and withdraw using Bank Accounts and Payment Cards.
+* Fiat Ramp - Currently integrated to [Transak](https://transak.com/) and [Moonpay](https://www.moonpay.io/) to allow easy deposit and withdraw using Bank Accounts and Payment Cards.
 * More plug-ins coming soon.

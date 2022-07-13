@@ -5,7 +5,7 @@ The FUSE token is the native currency of the Fuse Network blockchain and platfor
 ## FUSE utility:
 
 * **Transaction fees** Being the native currency on the Fuse blockchain, FUSE is required to pay fees to the network in order to approve transactions.
-* **Validation** Token holders can stake Fuse to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. ([https://health.fuse.io/](https://health.fuse.io))
+* **Validation** Token holders can stake Fuse to become a validator. The minimal staking requirement is 100K. The network is growing, currently there are 50+ validators. ([https://health.fuse.io/](https://health.fuse.io/))
 * **Voting** Validators vote on protocol changes with their staked Fuse. Which means validators with higher amounts of Fuse staked can have a bigger vote on network upgrades and governance changes (until phase 2 where delegation is activated)
 * **Staking (for delegators)** Any FUSE holder can choose one or more validators to delegate any amount of FUSE they wish. They receive a share of the Fuse block rewards proportionate to the share of their stake in the total stake, minus the minimum 15% fee paid to the validator(s).
 * **Payments** As FUSE is the native currency on Fuse Network, sending it does not require interactions with smart contracts. Thus, FUSE transfers are potentially faster and less costly in terms of transaction fees.

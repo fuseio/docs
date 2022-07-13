@@ -1,6 +1,6 @@
 # Fuse Network's Spark Testnet
 
-Like other public blockchains, Fuse Network has a constantly running [testnet](https://fusespark.io) called Spark. It has the same network protocol and block interval as the mainnet. &#x20;
+Like other public blockchains, Fuse Network has a constantly running [testnet](https://fusespark.io/) called Spark. It has the same network protocol and block interval as the mainnet. &#x20;
 
 It can be used by developers wishing to deploy their dApps in a safe and costless mode, first.&#x20;
 

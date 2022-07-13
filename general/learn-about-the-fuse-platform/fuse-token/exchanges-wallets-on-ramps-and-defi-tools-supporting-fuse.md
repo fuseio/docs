@@ -28,9 +28,9 @@ DoDo
 
 ## On-ramps
 
-[ChangeNOW](https://changenow.io)
+[ChangeNOW](https://changenow.io/)
 
-[Guardarian](https://guardarian.com)
+[Guardarian](https://guardarian.com/)
 
 ## Wallets
 
@@ -56,4 +56,4 @@ Trust Wallet (Binance Smart Chain)
 
 [Fuse Lending Network](https://app.ola.finance/networks/0x26a562B713648d7F3D1E1031DCc0860A4F3Fa340/markets)
 
-[Staking Rewards](https://www.stakingrewards.com)
+[Staking Rewards](https://www.stakingrewards.com/)

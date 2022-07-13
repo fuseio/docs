@@ -4,7 +4,7 @@
 
 **Discord**: [https://discord.com/invite/jpPMeSZ](https://discord.com/invite/jpPMeSZ)&#x20;
 
-**Fuse Forum**: [https://forum.fuse.io/](https://forum.fuse.io)
+**Fuse Forum**: [https://forum.fuse.io/](https://forum.fuse.io/)
 
 ### Public Telegram groups
 

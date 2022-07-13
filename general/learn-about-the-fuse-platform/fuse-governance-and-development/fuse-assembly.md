@@ -6,7 +6,7 @@ Currently, Fuse Assembly consists of five Fuse ecosystem members independent fro
 
 Fuse Assembly's **current role includes the following**:&#x20;
 
-* taking over the control over the [Fuse Forum](https://forum.fuse.io) community discussion platform;
+* taking over the control over the [Fuse Forum](https://forum.fuse.io/) community discussion platform;
 * implementing the Snapshot voting mechanism on Fuse; and
 * managing the Community Token Pool.
 
@@ -22,13 +22,13 @@ Fuse Assembly will regularly distribute the Community Token Pool funds to financ
 
 _**Council Chairman**_
 
-> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com)**,** an independent organization that was one of the first validators on Fuse Network, and has been heavily involved in Fuse community management and strategic project development since 2019.
+> Rob is a software developer and business operations expert with over 20 years of experience. He runs [Fuseprime](https://fuseprime.com/)**,** an independent organization that was one of the first validators on Fuse Network, and has been heavily involved in Fuse community management and strategic project development since 2019.
 
 ### **2. Luc Lammers** <a href="#1b91" id="1b91"></a>
 
 _**Council Member, Business & Marketing**_
 
-> [Luc](https://www.luclammers.com) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Fuse ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
+> [Luc](https://www.luclammers.com/) **** is a business development expert, SaaS leader, and startup enthusiast. He has been a committed member of the Fuse ecosystem since mid-2020 and brings a depth of growth-oriented experience to the team.
 
 ### **3. Lucas @ Fuse Core** <a href="#2105" id="2105"></a>
 
