@@ -12,7 +12,6 @@
     * [Delegation through Staking with Validators](general/learn-about-the-fuse-platform/fuse-network-blockchain/validators-and-delegation.md)
     * [Ethereum (EVM) Compatibility and Smart Contracts](general/learn-about-the-fuse-platform/fuse-network-blockchain/ethereum-compatibility-and-smart-contracts.md)
     * [Boosting Fuse's Scalability](general/learn-about-the-fuse-platform/fuse-network-blockchain/scaling-l2-payments.md)
-    * [Fuse Network's Spark Testnet](general/learn-about-the-fuse-platform/fuse-network-blockchain/fuse-testnet.md)
   * [Fuse Token (FUSE)](general/learn-about-the-fuse-platform/fuse-token/README.md)
     * [FUSE Tokenomics](general/learn-about-the-fuse-platform/fuse-token/fuse-tokenomics.md)
     * [Exchanges, Wallets, On-Ramps and DeFi Tools Supporting FUSE](general/learn-about-the-fuse-platform/fuse-token/exchanges-wallets-on-ramps-and-defi-tools-supporting-fuse.md)
@@ -37,7 +36,13 @@
 
 ## Developers <a href="#general" id="general"></a>
 
-* [Network Details](general-1/network-details.md)
+* [Network Details](general-1/network-details/README.md)
+  * [Fuse Network Mainnet](general-1/network-details/fuse-network-mainnet.md)
+  * [Fuse Network Testnet Spark](general-1/network-details/fuse-testnet.md)
+  * [Token Faucets](general-1/network-details/token-faucets.md)
+* [Resources & Tools](general-1/resources-and-tools/README.md)
+  * [TheGraph](general-1/resources-and-tools/thegraph.md)
+  * [WalletConnect on Fuse](general-1/resources-and-tools/walletconnect-on-fuse.md)
 
 ## Links
 

@@ -1,5 +1,7 @@
 # Network Details
 
+### Mainnet
+
 * Network name: **Fuse Network**
 * ChanId: **122**
 * Gas price: **1 gwei**
