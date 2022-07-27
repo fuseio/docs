@@ -23,8 +23,6 @@
   * [Wallets supporting Fuse Network](general/learn-about-the-fuse-platform/wallets-supporting-fuse-network.md)
 * [Fuse for Business](general/fuse-for-business/README.md)
   * [Fuse Mobile-Centric B2B Infrastructure](general/fuse-for-business/fuse-infrastructure/README.md)
-    * [Fuse Studio Overview](general/fuse-for-business/fuse-infrastructure/fuse-studio-overview.md)
-    * [Communities, Their Creation and Management](general/fuse-for-business/fuse-infrastructure/fuse-communities-1.md)
     * [Fuse Wallet Technology](general/fuse-for-business/fuse-infrastructure/wallet-technology.md)
     * [Proxy Wallets and Fee Abstraction](general/fuse-for-business/fuse-infrastructure/proxy-wallets-and-fee-abstraction.md)
     * [Fuse Mobile Infrastructure Use Cases](general/fuse-for-business/fuse-infrastructure/use-cases.md)
