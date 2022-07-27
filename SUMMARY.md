@@ -41,6 +41,17 @@
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
   * [WalletConnect on Fuse](general-1/resources-and-tools/walletconnect-on-fuse.md)
+* [Important smart contracts](general-1/important-smart-contracts/README.md)
+  * [Fuse Token](general-1/important-smart-contracts/fuse-token.md)
+  * [Fuse Dollar](general-1/important-smart-contracts/fuse-dollar.md)
+  * [Major Deployed Contracts](general-1/important-smart-contracts/major-deployed-contracts.md)
+  * [Bridges](general-1/important-smart-contracts/bridges/README.md)
+    * [Ethereum ↔ Fuse GoodDollar Token](general-1/important-smart-contracts/bridges/ethereum-fuse-gooddollar-token.md)
+    * [Ethereum ↔ Fuse ERC20 Tokens](general-1/important-smart-contracts/bridges/ethereum-fuse-erc20-tokens.md)
+    * [BSC ↔ Fuse BNB](general-1/important-smart-contracts/bridges/bsc-fuse-bnb.md)
+    * [BSC ↔ Fuse Native](general-1/important-smart-contracts/bridges/bsc-fuse-native.md)
+    * [BSC  ↔ Fuse ERC20](general-1/important-smart-contracts/bridges/bsc-fuse-erc20.md)
+    * [Ethereum ↔ Fuse Native](general-1/important-smart-contracts/bridges/ethereum-fuse-native.md)
 
 ## Links
 
@@ -53,5 +64,3 @@
 * [Twitter](https://twitter.com/fuse\_network)
 * [YouTube](https://www.youtube.com/channel/UC7NaJ0UhmyHi5MvZSk61akA)
 * [Join our mailing list](https://cdn.forms-content.sg-form.com/d81bb4fc-c732-11e9-a6f6-de5802169549)
-* [Fuse Job Openings](links/job-openings/README.md)
-  * [Full-Stack Developer](links/job-openings/full-stack-developer.md)
