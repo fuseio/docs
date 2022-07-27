@@ -35,6 +35,10 @@
   * [Community](general/things-you-can-do-on-fuse/community.md)
   * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
 
+## Developers <a href="#general" id="general"></a>
+
+* [Network Details](general-1/network-details.md)
+
 ## Links
 
 * [Discord](https://discord.com/invite/jpPMeSZ)
