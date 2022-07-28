@@ -38,6 +38,18 @@
   * [Fuse Network Mainnet](general-1/network-details/fuse-network-mainnet.md)
   * [Fuse Network Testnet Spark](general-1/network-details/fuse-testnet.md)
   * [Token Faucets](general-1/network-details/token-faucets.md)
+  * [Network Upgrades](general-1/network-details/network-upgrades/README.md)
+    * [Upgrade Guide](general-1/network-details/network-upgrades/upgrade-guide.md)
+    * [Upgrade Guide (explorer nodes)](general-1/network-details/network-upgrades/upgrade-guide-explorer-nodes.md)
+    * [Block 13,800,000 Fork](general-1/network-details/network-upgrades/block-13-800-000-fork.md)
+    * [FIP's](general-1/network-details/network-upgrades/fips.md)
+* [Fuse Consensus](general-1/fuse-consensus/README.md)
+  * [Contracts Overview](general-1/fuse-consensus/contracts-overview.md)
+  * [Stake, Delegate and Withdraw](general-1/fuse-consensus/stake-delegate-and-withdraw.md)
+  * [Vote](general-1/fuse-consensus/vote.md)
+  * [End-of-Cycle Flow](general-1/fuse-consensus/end-of-cycle-flow.md)
+  * [Contract Addresses](general-1/fuse-consensus/contract-addresses.md)
+* [How to run network nodes](general-1/how-to-run-network-nodes.md)
 * [Resources & Tools](general-1/resources-and-tools/README.md)
   * [TheGraph](general-1/resources-and-tools/thegraph.md)
   * [WalletConnect on Fuse](general-1/resources-and-tools/walletconnect-on-fuse.md)
@@ -52,6 +64,9 @@
     * [BSC ↔ Fuse Native](general-1/important-smart-contracts/bridges/bsc-fuse-native.md)
     * [BSC  ↔ Fuse ERC20](general-1/important-smart-contracts/bridges/bsc-fuse-erc20.md)
     * [Ethereum ↔ Fuse Native](general-1/important-smart-contracts/bridges/ethereum-fuse-native.md)
+* [How to become a validator](general-1/how-to-become-a-validator/README.md)
+  * [Getting started as a validator](general-1/how-to-become-a-validator/getting-started-as-a-validator.md)
+  * [Getting started as on the Spark testnet](general-1/how-to-become-a-validator/getting-started-as-on-the-spark-testnet.md)
 
 ## Links
 
