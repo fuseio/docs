@@ -21,15 +21,13 @@
     * [Fuse Assembly](general/learn-about-the-fuse-platform/fuse-governance-and-development/fuse-assembly.md)
     * [Fuse Improvement Proposals (FIPs)](general/learn-about-the-fuse-platform/fuse-governance-and-development/fips.md)
   * [Wallets supporting Fuse Network](general/learn-about-the-fuse-platform/wallets-supporting-fuse-network.md)
-* [Fuse for Business](general/fuse-for-business/README.md)
-  * [Fuse Mobile-Centric B2B Infrastructure](general/fuse-for-business/fuse-infrastructure/README.md)
-    * [Fuse Wallet Technology](general/fuse-for-business/fuse-infrastructure/wallet-technology.md)
-    * [Fuse Mobile Infrastructure Use Cases](general/fuse-for-business/fuse-infrastructure/use-cases.md)
+* [Fuse for Business](general/fuse-for-business.md)
 * [Things you can do on Fuse](general/things-you-can-do-on-fuse/README.md)
   * [Interacting with the Fuse Network Blockchain](general/things-you-can-do-on-fuse/interacting-with-the-fuse-network-blockchain.md)
   * [Fuse Ecosystem](general/things-you-can-do-on-fuse/fuse-ecosystem.md)
   * [Community](general/things-you-can-do-on-fuse/community.md)
   * [Grants and Bounties](general/things-you-can-do-on-fuse/grants-and-bounties.md)
+* [Fuse Mobile Infrastructure Use Cases](general/use-cases.md)
 
 ## Developers <a href="#general" id="general"></a>
 
