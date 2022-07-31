@@ -24,7 +24,6 @@
 * [Fuse for Business](general/fuse-for-business/README.md)
   * [Fuse Mobile-Centric B2B Infrastructure](general/fuse-for-business/fuse-infrastructure/README.md)
     * [Fuse Wallet Technology](general/fuse-for-business/fuse-infrastructure/wallet-technology.md)
-    * [Proxy Wallets and Fee Abstraction](general/fuse-for-business/fuse-infrastructure/proxy-wallets-and-fee-abstraction.md)
     * [Fuse Mobile Infrastructure Use Cases](general/fuse-for-business/fuse-infrastructure/use-cases.md)
 * [Things you can do on Fuse](general/things-you-can-do-on-fuse/README.md)
   * [Interacting with the Fuse Network Blockchain](general/things-you-can-do-on-fuse/interacting-with-the-fuse-network-blockchain.md)
