@@ -4,7 +4,7 @@
 
 * Network name: **Fuse Network**
 * ChanId: **122**
-* Gas price: **1 gwei**
+* Gas price: **10 gwei**
 * RPC
   * official RPC: [https://rpc.fuse.io/](https://rpc.fuse.io/)​
   * pocket network RPC: [https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d](https://fuse-mainnet.gateway.pokt.network/v1/lb/6075e9510e2a131ca026e10d)​
