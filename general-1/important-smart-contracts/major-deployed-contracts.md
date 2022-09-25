@@ -79,3 +79,14 @@ Do not send funds to the bridges, use [FuseSwap](https://fuseswap.co) or read th
 
 * USDC/FUSE - Ethereum: 0xA4c9BEc5dbd6f3497301b01D62B9AA40c3E214F6&#x20;
 * ETH/FUSE - Ethereum: 0xb54536E0c4CA3FA54d394DB6B7c41f70AeC334FF
+
+### Gnosis-Safe
+* CompatibilityFallbackHandler: 0xf48f2B2d2a534e402487b3ee7C18c33Aec0Fe5e4
+* CreateCall: 0x7cbB62EaA69F79e6873cD1ecB2392971036cFAa4
+* GnosisSafe: 0xd9Db270c1B5E3Bd161E8c8503c55cEABeE709552
+* GnosisSafeL2: 0xfb1bffC9d739B8D520DaF37dF666da4C687191EA
+* MultiSend: 0xA238CBeb142c10Ef7Ad8442C6D1f9E89e07e7761
+* MultiSendCallOnly: 0x40A2aCCbd92BCA938b02010E17A5b8929b49130D
+* GnosisSafeProxyFactory: 0xa6B71E26C5e0845f74c812102Ca7114b6a896AB2
+* SignMessageLib: 0xA65387F16B013cf2Af4605Ad8aA5ec25a2cbA3a2
+* SimulateTxAccessor: 0x59AD6735bCd8152B84860Cb256dD9e96b85F69Da
